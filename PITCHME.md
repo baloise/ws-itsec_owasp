@@ -25,7 +25,10 @@
 ## A1: Injection
 +++
 ### A1: SQL-Interaction: User, WebApp and Server
+![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
 +++
 ### A1: SQL-Injection: Target and Impact
+![SQL-Trarget_and_Impact](/res/PNGs/SQL_Injection.png)
 +++
 ### A1: SQL-Injection: Attack
+![SQL-Injection](/res/PNGs/SQL_Injection.png)
