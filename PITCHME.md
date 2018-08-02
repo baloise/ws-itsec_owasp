@@ -33,13 +33,13 @@
 ### A1: SQL-Injection: Attack
 ![SQL-Injection](/res/PNGs/SQL_Injection.png)
 +++
-## @size[2em](A1: Demo Injection)
+## @size[1.5em](A1: Demo Injection)
 @snap[center]
 
-@snap[center-east]
+@snap[east]
 @css[demo](Login Bypass)
 @snapend
 
-@snap[center-west]
+@snap[west]
 @css[demo](Command Injection)
 @snapend
