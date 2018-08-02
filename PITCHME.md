@@ -64,16 +64,18 @@
 @snap[south fragment comment]
 Input abfragen
 @snapend
+@snap
+@snapend
 @[3-4]
-@snap[south-west fragment comment]
+@snap[south fragment comment]
 Statement definieren
 @snapend
 @[6-7]
-@snap[south-west fragment comment]
+@snap[south fragment comment]
 Erwarteter Input (String) einsetzten
 @snapend
 
-@snap[south-east fragment comment]
+@snap[south fragment comment]
 @color[darkorange](**Keine SQL-Injection**)
 @snapend
 
