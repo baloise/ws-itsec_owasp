@@ -1,19 +1,20 @@
 .reveal section img {
-  border: 0;
-  box-shadow: none;
+    border: 0;
+    box-shadow: none;
 }
 
 .reveal pre {
-  width: 200%;
-  box-shadow : none;
+    position: center;
+    width: 120%;
+    box-shadow : none;
 }
 
 .reveal pre code {
-  font-size: 1em;
-  line-height: 1.2;
-  max-height: 200 !important;
-  opacity: 1;
-  border-radius: 0px;
+    font-size: 1em;
+    line-height: 1.2;
+    max-height: 200 !important;
+    opacity: 1;
+    border-radius: 0px;
 }
 
 .SQL-Trarget_and_Impact {
