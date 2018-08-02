@@ -4,11 +4,11 @@
 }
 
 .reveal pre code {
-  font-size: 0.2em;
+  font-size: 1em;
   line-height: 1.2;
-  max-height: 80vh !important;
-  opacity: 0.95;
-  border-radius: 10px;
+  max-height: 200vh !important;
+  opacity: 1;
+  border-radius: 0px;
 }
 
 .SQL-Trarget_and_Impact {
