@@ -63,9 +63,7 @@
 @[1]
 @[3-4]
 @[6-7]
-+++
 
-### A1: Stored Procedures
 +++?code=res/snippets/stored-procedure.&lang=java&title=Stored Procedures (Java)
 +++
 
