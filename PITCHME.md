@@ -32,19 +32,19 @@
 ## A1: Injection
 +++
 
-### A1: SQL-Interaction: User, WebApp and Server
+### SQL-Interaction: User, WebApp and Server
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
 +++
 
-### A1: SQL-Injection: Target and Impact
+### SQL-Injection: Target and Impact
 ![SQL-Trarget_and_Impact](/res/PNGs/SQL_targets_and_impact_low.png)
 +++
 
-### A1: SQL-Injection: Attack
+### SQL-Injection: Attack
 ![SQL-Injection](/res/PNGs/SQL_Injection.png)
 +++
 
-## @size[1.5em](A1: Demo Injection)
+## @size[1.5em](Demo Injection)
 @snap[]
 @snapend
 
@@ -57,7 +57,7 @@
 @snapend
 +++
 
-## A1: Massnahmen
+## Massnahmen
 
 +++?code=res/snippets/prepeared-statements.java&lang=java&title=Prepared Statements (Java)
 @[1]
