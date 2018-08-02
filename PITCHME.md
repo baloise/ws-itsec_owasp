@@ -34,7 +34,10 @@
 ![SQL-Injection](/res/PNGs/SQL_Injection.png)
 +++
 ### A1: Demo Injection
-@snap[south]
+@snap[south-east]
 @css[demo](Login Bypass)
+@snapend
+
+@snap[south-west]
 @css[demo](Command Injection)
 @snapend

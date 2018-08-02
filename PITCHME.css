@@ -10,8 +10,8 @@
 }
 
 .demo {
-    color: gold;
+    color: darkorange;
     text-transform: uppercase;
-    font-size: 0.9em;
+    font-size: 1.5em;
     letter-spacing: 2px;
 }
