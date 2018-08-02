@@ -37,7 +37,9 @@
 +++
 
 ### A1: SQL-Injection: Target and Impact
+@snap[midpoint]
 ![SQL-Trarget_and_Impact](/res/PNGs/SQL_targets_and_impact_low.png)
+@snapend
 +++
 
 ### A1: SQL-Injection: Attack
