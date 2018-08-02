@@ -5,3 +5,5 @@ PreparedStatement pstmt = connection.prepareStatement( query );
 
 pstmt.setString( 1, custname);
 ResultSet results = pstmt.executeQuery( );
+
+src (modified): owasp.org
