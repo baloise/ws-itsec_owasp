@@ -35,6 +35,7 @@
 +++
 @snap[midpoint]
 ## @size[1.5em](A1: Demo Injection)
+@snapend
 
 @snap[east]
 @css[demo](Login Bypass)
@@ -42,5 +43,4 @@
 
 @snap[west]
 @css[demo](Command Injection)
-@snapend
 @snapend
