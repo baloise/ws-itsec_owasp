@@ -24,3 +24,9 @@
     letter-spacing: 2px;
     font-style: bold;
 }
+
+.comment{
+    color: darkslategray;
+    font-size: 1.5em;
+    font-style: italic;
+}
