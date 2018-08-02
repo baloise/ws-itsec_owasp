@@ -9,4 +9,4 @@ try {
     // … logging and error handling
 }
 
-src (modified): owasp.org
+// src (modified): owasp.org
