@@ -6,7 +6,7 @@
 .reveal pre code {
   font-size: 1em;
   line-height: 1.2;
-  max-height: 200vh !important;
+  max-height: 2vh !important;
   opacity: 1;
   border-radius: 0px;
 }
