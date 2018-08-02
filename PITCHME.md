@@ -18,7 +18,7 @@
 ### Was ist das Ziel?
 +++
 ### Gefahrenmodell
-![Gefahrenmodell](/res/OWASP_Gefahrenmodell.png)
+![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
 
 
 ---
