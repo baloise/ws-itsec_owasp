@@ -6,6 +6,6 @@
 .SQL-Trarget_and_Impact {
     border: 0;
     box-shadow: none;
-    position: absolute;
+    size: 0.5;
     object-fit: contain;
 }
