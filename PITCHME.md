@@ -28,7 +28,7 @@
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
 +++
 ### A1: SQL-Injection: Target and Impact
-![SQL-Trarget_and_Impact](/res/PNGs/SQL_targets_and_impact.png?size=auto 70%)
+![SQL-Trarget_and_Impact|70%](/res/PNGs/SQL_targets_and_impact.png)
 +++
 ### A1: SQL-Injection: Attack
 ![SQL-Injection](/res/PNGs/SQL_Injection.png)
