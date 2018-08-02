@@ -69,6 +69,9 @@
 @[7]
 
 +++?code=res/snippets/white-list.java&lang=java&title=White Listing (Java)
+@[1]
+@[4]
+@[5-6+8]
 
 +++?code=res/snippets/escaping.java&lang=java&title=Escaping All User Supplied (Java)
 +++
