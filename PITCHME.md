@@ -37,7 +37,7 @@
 +++
 
 ### A1: SQL-Injection: Target and Impact
-![SQL-Trarget_and_Impact](/res/PNGs/SQL_targets_and_impact_low.jpg)
+![SQL-Trarget_and_Impact](/res/PNGs/SQL_targets_and_impact_low.png)
 +++
 
 ### A1: SQL-Injection: Attack
