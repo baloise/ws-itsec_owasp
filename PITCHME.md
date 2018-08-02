@@ -64,6 +64,13 @@
 @[3-4]
 @[6-7]
 
+@snap[south-west fragment]
+Definition Code und Input
+@snapend
+@snap[south-east fragment]
+Trennung von Code und Input
+@snapend
+
 +++?code=res/snippets/stored-procedure.java&lang=java&title=Stored Procedures (Java)
 +++
 
