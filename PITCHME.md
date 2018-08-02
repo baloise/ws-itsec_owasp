@@ -61,22 +61,11 @@
 
 +++?code=res/snippets/prepeared-statements.java&lang=java&title=Prepared Statements (Java)
 @[1]
-@snap[south fragment comment]
-Input abfragen
-@snapend
-@snap
-@snapend
 @[3-4]
-@snap[south fragment comment]
-Statement definieren
-@snapend
 @[6-7]
-@snap[south fragment comment]
-Erwarteter Input (String) einsetzten
-@snapend
 
-@snap[south fragment comment]
-@color[darkorange](**Keine SQL-Injection**)
+@snap[south fragment]
+Keine SQLi durch Trennung von Code & Input
 @snapend
 
 +++?code=res/snippets/stored-procedure.java&lang=java&title=Stored Procedures (Java)
