@@ -1,12 +1,9 @@
-String custname = request.getParameter("customerName");
+CREATE PROCEDURE SelectAllCustomers @City nvarchar(30), @PostalCode
+nvarchar(10)
+AS
+SELECT * FROM Customers WHERE City = @City AND PostalCode = @PostalCode
+GO;
 
-try {
-    CallableStatement cs = connection.prepareCall("{call sp_getAccountBalance(?)}");
-    cs.setString(1, custname);
-    ResultSet results = cs.executeQuery();
-    // … result set handling
-} catch (SQLException se) {
-    // … logging and error handling
-}
+EXEC SelectAllCustomers City = "London", PostalCode = "WA1 1DP";
 
 // src (modified): owasp.org
