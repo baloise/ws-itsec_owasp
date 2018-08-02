@@ -59,7 +59,7 @@
 
 ## A1: Massnahmen
 
-+++?code=res/snippets/prepeared-statements.java&lang=java&titel=Prepared Statements (Java)
++++?code=res/snippets/prepeared-statements.java&lang=java&title=Prepared Statements (Java)
 +++
 
 ### A1: Stored Procedures
