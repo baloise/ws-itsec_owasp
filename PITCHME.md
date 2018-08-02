@@ -64,7 +64,7 @@
 @[3-4]
 @[6-7]
 
-@snap[south fragment]
+@snap[south fragment comment]
 Keine SQLi durch Trennung von Code & Input
 @snapend
 
