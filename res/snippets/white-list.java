@@ -12,5 +12,4 @@ Example validating the parameter “zip” using a regular expression.
  		response.sendError( response.SC_BAD_REQUEST, e.getMessage() );
  	}
  }
-
 // src: owasp.org
