@@ -4,7 +4,8 @@
 }
 
 .reveal pre {
-    object-position: center;
+    width: 130%;
+    margin-inline-start: -15%;
     box-shadow : none;
 }
 
