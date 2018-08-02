@@ -65,10 +65,10 @@
 @[6-7]
 
 +++?code=res/snippets/stored-procedure.java&lang=java&title=Stored Procedures (Java)
-+++
 
-### A1: 
-+++
++++?code=res/snippets/white-list.java&lang=java&title=White Listing (Java)
+
++++?code=res/snippets/escaping.java&lang=java&title=Escaping All User Supplied (Java)
 
 ### A1: 
 +++
