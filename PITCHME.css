@@ -6,6 +6,12 @@
 .SQL-Trarget_and_Impact {
     border: 0;
     box-shadow: none;
-    size: 0.5;
     object-fit: contain;
+}
+
+.demo {
+    color: gold;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    letter-spacing: 2px;
 }
