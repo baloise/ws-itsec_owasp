@@ -11,33 +11,42 @@
 
 3. Zusammenfassung
 ---
+
+
+
 ## Einleitung OWASP
 +++
+
 ### Wer ist OWASP?
 +++
+
 ### Was ist das Ziel?
 +++
+
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
-
-
 ---
+
+
+
 ## A1: Injection
 +++
+
 ### A1: SQL-Interaction: User, WebApp and Server
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
 +++
+
 ### A1: SQL-Injection: Target and Impact
 ![SQL-Trarget_and_Impact](/res/PNGs/SQL_targets_and_impact_low.png)
 +++
+
 ### A1: SQL-Injection: Attack
 ![SQL-Injection](/res/PNGs/SQL_Injection.png)
 +++
-## @size[1.5em](A1: Demo Injection)
 
+## @size[1.5em](A1: Demo Injection)
 @snap[]
 @snapend
-
 
 @snap[]
 @css[demo](**Login Bypass**)
@@ -46,3 +55,19 @@
 @snap[]
 @css[demo](**Command Injection**)
 @snapend
++++
+
+## A1: Massnahmen
++++
+
+---?code=/res/snippets/prepeared-statements.java&lang=java&titel=Prepared Statements (Java)
++++
+
+### A1: Stored Procedures
++++
+
+### A1: 
++++
+
+### A1: 
++++
