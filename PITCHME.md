@@ -34,8 +34,12 @@
 ![SQL-Injection](/res/PNGs/SQL_Injection.png)
 +++
 ## @size[2em](A1: Demo Injection)
+@snap[center]
 
-@snap[midpoint]
+@snap[center-east]
 @css[demo](Login Bypass)
+@snapend
+
+@snap[center-west]
 @css[demo](Command Injection)
 @snapend
