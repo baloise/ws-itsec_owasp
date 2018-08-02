@@ -64,10 +64,6 @@
 @[3-4]
 @[6-7]
 
-@snap[south fragment comment]
-Keine SQLi durch Trennung von Code & Input
-@snapend
-
 +++?code=res/snippets/stored-procedure.java&lang=java&title=Stored Procedures (Java)
 +++
 
