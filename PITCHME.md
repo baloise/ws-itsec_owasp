@@ -18,7 +18,7 @@
 ### Was ist das Ziel?
 +++
 ### Gefahrenmodell
-![Gefahrenmodell](https://github.com/baloise/ws-itsec_owasp/blob/awareness/res/OWASP_Gefahrenmodell.png)
+![Gefahrenmodell](/res/OWASP_Gefahrenmodell.png)
 
 
 ---
