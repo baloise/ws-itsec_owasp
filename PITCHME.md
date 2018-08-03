@@ -77,7 +77,6 @@
 @[2,5]
 @[1]
 @[4,6]
-+++
 
-### A1: 
-+++
+---?image=/res/broken_auth.jpg
+## Broken Authentication (A2)
