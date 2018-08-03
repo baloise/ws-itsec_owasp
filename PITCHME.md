@@ -90,6 +90,4 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Brute Force
-@snap[midpoint]
-![BruteForceLogin](res/PNGs/BruteForce-Login.png)
-@snapend
+![BruteForceLogin](res/PNGs/BruteForce-Login.png&size=contain)
