@@ -93,6 +93,9 @@
 ![BruteForceLogin](res/PNGs/BruteForce-Login.png)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
+## Passwort wiederherstellen
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Passwort wiederherstellen
 ![RecQuestion1](res/PNGs/SecurityQuestion1.png)
 
@@ -103,3 +106,14 @@
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Passwort wiederherstellen
 ![RecQuestion3](res/PNGs/SecurityQuestion3.png)
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+## Cookie: UserID
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Cookie: UserID
+![CookieParameter1](/res/PNGs/CookieParameter1.png)
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Cookie: UserID
+![CookieParameter2](/res/PNGs/CookieParameter2.png)
