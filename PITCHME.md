@@ -90,4 +90,4 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Brute Force
-![BruteForceLogin](res/PNGs/BruteForce-Login.png)&size=auto 80%
+![BruteForceLogin](res/PNGs/BruteForce-Login.png)&size=auto 70%
