@@ -85,7 +85,7 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=35
 @snap[south-west box-title box-content]
-@fa[calendar](Nov 2017)
+@fa[fas fa-key](Authentication)
 <hr><br>
 @fa[lightbulb-o](Idea)
 @snapend
