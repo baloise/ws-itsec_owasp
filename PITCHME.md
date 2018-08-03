@@ -94,12 +94,12 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Passwort wiederherstellen
-![RecQuestion1](res/PNGs/Security Question1.png)
+![RecQuestion1](res/PNGs/SecurityQuestion1.png)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Passwort wiederherstellen
-![RecQuestion2](res/PNGs/Security Question2.png)
+![RecQuestion2](res/PNGs/SecurityQuestion2.png)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Passwort wiederherstellen
-![RecQuestion3](res/PNGs/Security Question3.png)
+![RecQuestion3](res/PNGs/SecurityQuestion3.png)
