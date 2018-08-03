@@ -87,7 +87,8 @@
 +++?image=/res/broken_auth.jpg&size=cover&opacity=35
 @snap[west box-title box-content]
 <br>
-->@fa[fas fa-key]( Authentication)<-
+@fa[fas fa-key]( )
+Authentication
 <hr>
 @snapend
 
