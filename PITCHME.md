@@ -84,15 +84,24 @@
 # @color[#282828](**A2: Broken Authentication**)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=35
+@snap[north]
 ### Überblick
-@snap[east]
-Authentication
 @snapend
 
-@snap[midpoint]
-Recovery
+@snap[south-west box-title box-content]
+@fa[calendar](Nov 2017)
+<hr><br><br>
+@fa[lightbulb-o](Idea)
 @snapend
 
-@snap[west]
-Session Management
+@snap[midpoint box-title box-content]
+@fa[calendar](May 2018)
+<hr><br><br>
+@fa[cog](Prototype)
+@snapend
+
+@snap[south-east box-title box-content]
+@fa[calendar](Oct 2018)
+<hr><br><br>
+@fa[rocket](Launch!)
 @snapend

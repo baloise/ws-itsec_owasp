@@ -30,3 +30,18 @@
     text-transform: uppercase;
     font-size: 0.5em;
 }
+
+.box-title {
+  color: black;
+  width: 25%;
+  border-radius: 20px;
+  padding: 30px 20px !important;
+}
+
+.box-title hr {
+  border-top: 1px solid black;
+}
+
+.box-content {
+  background-color: #F7977A;
+}
