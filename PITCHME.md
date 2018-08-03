@@ -86,17 +86,19 @@
 +++?image=/res/broken_auth.jpg&size=cover&opacity=35
 
 @snap[south-west box-title box-content]
+@fa[fas fa-key]( )
 Authentication
-@fa[fas fa-key]()
 <hr>
 @snapend
 
 @snap[midpoint box-title box-content]
+@fa[fas fa-question]( )
+Password Recovery
 <hr>
-@fa[fas fa-question](Password Recovery)
 @snapend
 
 @snap[south-east box-title box-content]
+@fa[fas fa-user-tag]( )
+Session Management
 <hr>
-@fa[fas fa-user-tag](Session Management)
 @snapend
