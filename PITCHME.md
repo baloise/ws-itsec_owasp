@@ -91,11 +91,11 @@
 @snapend
 
 @snap[north box-title box-content]
-@fa[calendar](Password Recovery)
+@fa[fas fa-question](Password Recovery)
 <hr>
 @snapend
 
 @snap[south-east box-title box-content]
-@fa[calendar](Session Management)
+@fa[fas fa-user-tag](Session Management)
 <hr>
 @snapend
