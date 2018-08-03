@@ -78,7 +78,5 @@
 @[1]
 @[4,6]
 
----?image=/res/broken_auth.jpg?size=fit
-@snap[north]
+---?image=/res/broken_auth.jpg?size=auto
 @css[slide-title](**A2: Broken Authentication**)
-@snapend
