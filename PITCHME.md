@@ -79,4 +79,4 @@
 @[4,6]
 
 ---?image=/res/broken_auth.jpg&size=cover&opacity=35
-# @color[black](**A2: Broken Authentication**)
+# @color[midnightblue](**A2: Broken Authentication**)
