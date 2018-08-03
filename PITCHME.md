@@ -87,8 +87,8 @@
 
 @snap[south-west box-title box-content]
 Authentication
-<hr>
 @fa[fas fa-key]()
+<hr>
 @snapend
 
 @snap[midpoint box-title box-content]
