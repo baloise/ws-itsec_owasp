@@ -84,10 +84,6 @@
 # @color[#282828](**A2: Broken Authentication**)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=35
-@snap[north]
-@color[#282828](Überblick)
-@snapend
-
 @snap[south-west box-title box-content]
 @fa[calendar](Nov 2017)
 <hr><br>
