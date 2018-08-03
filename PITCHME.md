@@ -28,11 +28,12 @@
 
 
 
----?image=res/injection.png&size=cover&opacity=100
+---?image=res/injection.png&size=cover&opacity=80
 # @color[#282828](**A1: Injection**)
 +++
 
 ### SQL-Interaction: User, WebApp and Server
+---?image=res/injection.png&size=cover&opacity=35
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
 +++
 
