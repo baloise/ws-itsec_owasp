@@ -85,7 +85,7 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=35
 @snap[north]
-### Überblick
+@color[#282828](Überblick)
 @snapend
 
 @snap[south-west box-title box-content]
