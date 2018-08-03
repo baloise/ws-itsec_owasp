@@ -84,11 +84,7 @@
 # @color[#282828](**A2: Broken Authentication**)
 
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=35
-@snap [north]
-Überblick
-@snapend
-
++++?image=/res/broken_auth.jpg&size=cover&opacity=35&title= Überblick
 @snap[west box-title box-content]
 <br>
 @fa[fas fa-key]( Authentication)
