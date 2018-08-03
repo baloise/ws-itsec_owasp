@@ -32,16 +32,16 @@
 }
 
 .box-title {
-  color: black;
+  color: #282828;
   width: 25%;
   border-radius: 20px;
-  padding: 30px 20px !important;
+  padding: 50px 20px !important;
 }
 
 .box-title hr {
-  border-top: 1px solid black;
+  border-top: 1px solid black#282828;
 }
 
 .box-content {
-  background-color: #F7977A;
+  background-color: darkorange;
 }
