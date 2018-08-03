@@ -53,7 +53,7 @@
 @snapend
 
 @snap[]
-@css[demo](**Command Injection**)
+@css[demo](**Command Injection(s)**)
 @snapend
 
 +++?image=res/injection.png&size=cover&opacity=45
@@ -144,3 +144,23 @@
 @snap[]
 @css[demo](**Playing with Cookies**)
 @snapend
+
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+## Massnahmen
+
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Multi-Faktor Authentication
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Session Management
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Brute Force verzögern
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Passwörter und Sicherheitsfragen
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Securing Cookies
