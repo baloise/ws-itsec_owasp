@@ -90,4 +90,4 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Brute Force
-![BrokenAuthOverview](res/PNGs/BruteForce-Login.png)
+![BruteForceLogin](res/PNGs/BruteForce-Login.png)
