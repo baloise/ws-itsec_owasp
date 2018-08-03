@@ -33,13 +33,13 @@
 
 .box-title {
   color: #282828;
-  width: 25%;
-  border-radius: 20px;
-  padding: 0px 0px !important;
+  width: 33%;
+  border-radius: 10px;
+  padding: 5px 5px !important;
 }
 
 .box-title hr {
-  border-top: 1px solid black#282828;
+  border-top: 2px solid black#282828;
 }
 
 .box-content {
