@@ -30,22 +30,21 @@
 
 ---?image=res/injection.png&size=cover&opacity=80
 # @color[#282828](**A1: Injection**)
-+++
 
 ### SQL-Interaction: User, WebApp and Server
----?image=res/injection.png&size=cover&opacity=35
++++?image=res/injection.png&size=cover&opacity=45
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
-+++
 
 ### SQL-Injection: Target and Impact
++++?image=res/injection.png&size=cover&opacity=45
 ![SQL-Trarget_and_Impact](/res/PNGs/SQL_targets_and_impact_low.png)
-+++
 
 ### SQL-Injection: Attack
++++?image=res/injection.png&size=cover&opacity=45
 ![SQL-Injection](/res/PNGs/SQL_Injection.png)
-+++
 
 ## @size[1.5em](Demo Injection)
++++?image=res/injection.png&size=cover&opacity=45
 @snap[]
 @snapend
 
