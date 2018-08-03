@@ -80,10 +80,10 @@
 
 
 
----?image=/res/broken_auth.jpg&size=cover&opacity=35
+---?image=/res/broken_auth.jpg&size=cover&opacity=50
 # @color[#282828](**A2: Broken Authentication**)
 
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=35
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Überblick
 ![BrokenAuthOverview](res/PNGs/Broken_Auth-Overview.png)
