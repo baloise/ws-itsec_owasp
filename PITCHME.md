@@ -90,18 +90,18 @@
 
 @snap[south-west box-title box-content]
 @fa[calendar](Nov 2017)
-<hr><br><br>
+<hr><br>
 @fa[lightbulb-o](Idea)
 @snapend
 
 @snap[midpoint box-title box-content]
 @fa[calendar](May 2018)
-<hr><br><br>
+<hr><br>
 @fa[cog](Prototype)
 @snapend
 
 @snap[south-east box-title box-content]
 @fa[calendar](Oct 2018)
-<hr><br><br>
+<hr><br>
 @fa[rocket](Launch!)
 @snapend
