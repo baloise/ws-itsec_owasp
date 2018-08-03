@@ -78,5 +78,5 @@
 @[1]
 @[4,6]
 
----?image=/res/broken_auth.jpg?size=auto
+---?image=/res/broken_auth.jpg?size=auto 90%
 @css[slide-title](**A2: Broken Authentication**)
