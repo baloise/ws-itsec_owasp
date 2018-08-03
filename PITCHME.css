@@ -46,3 +46,8 @@
     .box-content {
     background-color: darkorange;
 }
+
+    .BruteForceLogin {
+        margin-top: -100px;
+        resize: 0.7em;
+    }
