@@ -85,6 +85,9 @@
 
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=35
+@snap [north slide-title]
+@css[slide-title](Überblick)
+@snapend
 @snap[west box-title box-content]
 <br>
 @fa[fas fa-key]( Authentication)
