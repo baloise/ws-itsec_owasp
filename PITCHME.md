@@ -83,21 +83,21 @@
 ---?image=/res/broken_auth.jpg&size=cover&opacity=35
 # @color[#282828](**A2: Broken Authentication**)
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=35
 
-@snap[south-west box-title box-content]
++++?image=/res/broken_auth.jpg&size=cover&opacity=35
+@snap[west box-title box-content]
 @fa[fas fa-key]( )
 Authentication
 <hr>
 @snapend
 
-@snap[east box-title box-content]
+@snap[midpoint box-title box-content]
 @fa[fas fa-question]( )
 Password Recovery
 <hr>
 @snapend
 
-@snap[south-east box-title box-content]
+@snap[east box-title box-content]
 @fa[fas fa-user-cog]( )
 Session Management
 <hr>
