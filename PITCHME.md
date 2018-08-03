@@ -55,13 +55,12 @@
 @snap[]
 @css[demo](**Command Injection**)
 @snapend
-+++
 
 +++?image=res/injection.png&size=cover&opacity=45
 ## Massnahmen
 
 +++?image=res/injection.png&size=cover&opacity=45
-?code=res/snippets/prepeared-statements.java&lang=java&title=Prepared Statements (Java)
+code=res/snippets/prepeared-statements.java&lang=java&title=Prepared Statements (Java)
 @[1]
 @[3-4]
 @[6-7]
