@@ -25,11 +25,11 @@
 
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
----
 
 
 
-## A1: Injection
+---?image=res/injection.png&opacity=35
+# @color[#282828](**A1: Injection**)
 +++
 
 ### SQL-Interaction: User, WebApp and Server
@@ -78,5 +78,5 @@
 @[1]
 @[4,6]
 
----?image=/res/broken_auth.jpg&size=cover&opacity=35
+---?image=/res/broken_auth.jpg&size=contain&opacity=35
 # @color[#282828](**A2: Broken Authentication**)
