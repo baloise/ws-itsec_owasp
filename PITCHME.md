@@ -87,3 +87,7 @@
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Überblick
 ![BrokenAuthOverview](res/PNGs/Broken_Auth-Overview.png)
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Brute Force
+![BrokenAuthOverview](res/PNGs/BruteForce-Login.png)
