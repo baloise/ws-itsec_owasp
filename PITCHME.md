@@ -79,4 +79,4 @@
 @[4,6]
 
 ---?image=/res/broken_auth.jpg&size=cover&opacity=60
-## @css[slide-title](**A2: Broken Authentication**)
+## @color[ff4500](**A2: Broken Authentication**)
