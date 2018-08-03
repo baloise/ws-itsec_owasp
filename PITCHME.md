@@ -91,14 +91,14 @@ Authentication
 <hr>
 @snapend
 
-@snap[midpoint box-title box-content]
+@snap[midpoint box-content]
 @fa[fas fa-question]( )
 Password Recovery
 <hr>
 @snapend
 
 @snap[south-east box-title box-content]
-@fa[fas fa-user-tag]( )
+@fa[fas fa-user-cog]( )
 Session Management
 <hr>
 @snapend
