@@ -33,9 +33,9 @@
 
 .box-title {
   color: #282828;
-  width: 0%;
+  width: 10%;
   border-radius: 20px;
-  padding: 25px 100px !important;
+  padding: 25px 25px !important;
 }
 
 .box-title hr {
