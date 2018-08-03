@@ -28,7 +28,7 @@
 
 
 
----?image=res/injection.png&size=cover&opacity=60
+---?image=res/injection.png&size=cover&opacity=100
 # @color[#282828](**A1: Injection**)
 +++
 
