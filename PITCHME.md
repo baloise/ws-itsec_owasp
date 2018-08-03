@@ -91,7 +91,7 @@ Authentication
 <hr>
 @snapend
 
-@snap[midpoint box-content]
+@snap[east box-title box-content]
 @fa[fas fa-question]( )
 Password Recovery
 <hr>
