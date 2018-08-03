@@ -78,5 +78,7 @@
 @[1]
 @[4,6]
 
----?image=/res/broken_auth.jpg
-## Broken Authentication (A2)
+---?image=/res/broken_auth.jpg?size=contain
+@snap[north]
+@color[#f4a460]@size[1.5em](**Broken Authentication (A2)**)
+@snapend
