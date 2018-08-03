@@ -80,5 +80,5 @@
 
 ---?image=/res/broken_auth.jpg?size=contain
 @snap[north]
-@color[#f4a460]@size[1.5em](**Broken Authentication (A2)**)
+@css[slide-title]("*Broken Authentication (A2)**")
 @snapend
