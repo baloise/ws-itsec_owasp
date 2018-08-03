@@ -59,8 +59,7 @@
 +++?image=res/injection.png&size=cover&opacity=45
 ## Massnahmen
 
-+++?code=res/snippets/prepeared-statements.java&lang=java&title=Prepared Statements (Java)&color=res/injection.png&size=cover&opacity=45
-## Massnahmen
++++?code=res/snippets/prepeared-statements.java&lang=java&color=res/injection.png&title=Prepared Statements (Java)
 @[1]
 @[3-4]
 @[6-7]
