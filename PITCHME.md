@@ -78,5 +78,5 @@
 @[1]
 @[4,6]
 
----?image=/res/broken_auth.jpg&size=cover&opacity=50
-# **A2: Broken Authentication**
+---?image=/res/broken_auth.jpg&size=cover&opacity=350
+# @color[gray](**A2: Broken Authentication**)
