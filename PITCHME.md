@@ -100,7 +100,7 @@ Password Recovery
 @snapend
 
 @snap[south box-title box-content]
-@fa[fas fa-user-cog]()
+@fa[calender]()
 <br>
 Session Management
 <hr>
