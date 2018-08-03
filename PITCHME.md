@@ -85,14 +85,14 @@
 
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=35
-@snap[west box-title box-content]
+@snap[north box-title box-content]
 <br>
 @fa[fas fa-key]( )
 Authentication
 <hr>
 @snapend
 
-@snap[east box-title box-content]
+@snap[midpoint box-title box-content]
 <br>
 @fa[fas fa-question]( )
 Password Recovery
