@@ -88,13 +88,12 @@
 ### Überblick
 ![BrokenAuthOverview](res/PNGs/Broken_Auth-Overview.png)
 
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+## Brute Force
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Brute Force
 ![BruteForceLogin](res/PNGs/BruteForce-Login.png)
-
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
-### Brute Force
 
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
@@ -123,3 +122,11 @@
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Cookie: UserID
 ![CookieParameter2](/res/PNGs/CookieParameter2.png)
+
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+## Session Fixation
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Session Fixation
+![SessionFix](/res/PNGs/Session_Fixation.png)
