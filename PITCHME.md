@@ -130,3 +130,17 @@
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Session Fixation
 ![SessionFix](/res/PNGs/Session_Fixation.png)
+
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+## @size[1.5em](Demo Broken Authentication)
+@snap[]
+@snapend
+
+@snap[]
+@css[demo](**Brute Force Attack**)
+@snapend
+
+@snap[]
+@css[demo](**Playing with Cookies**)
+@snapend
