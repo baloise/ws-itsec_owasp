@@ -78,5 +78,21 @@
 @[1]
 @[4,6]
 
+
+
 ---?image=/res/broken_auth.jpg&size=cover&opacity=35
 # @color[#282828](**A2: Broken Authentication**)
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=35
+### Überblick
+@snap[east]
+Authentication
+@snapend
+
+@snap[midpoint]
+Recovery
+@snapend
+
+@snap[west]
+Session Management
+@snapend
