@@ -80,7 +80,7 @@
 
 
 
----?image=/res/broken_auth.jpg&size=cover&opacity=50
+---?image=/res/broken_auth.jpg&size=cover&opacity=60
 # @color[#282828](**A2: Broken Authentication**)
 
 
@@ -90,4 +90,16 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Brute Force
-![BruteForceLogin](res/PNGs/BruteForce-Login.png)&size=auto 30%
+![BruteForceLogin](res/PNGs/BruteForce-Login.png)
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Passwort wiederherstellen
+![RecQuestion1](res/PNGs/Security Question 1.png)
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Passwort wiederherstellen
+![RecQuestion2](res/PNGs/Security Question 2.png)
+
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+### Passwort wiederherstellen
+![RecQuestion3](res/PNGs/Security Question 3.png)
