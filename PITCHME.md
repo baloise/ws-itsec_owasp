@@ -105,7 +105,7 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ## Trend Broken Authentication 2004 - 2017
-@snap
+@snap[midpoint]
 <canvas data-chart="line">
 <!-- 
 {
