@@ -17,6 +17,23 @@
 ---?image=res/light_bulb.jpg&size=cover&opacity=60
 # @color[#282828](**Einleitung**)
 
+<canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": [" 2004"," 2007"," 2010"," 2013"," 2017"],
+  "datasets": [
+   {
+    "data":[5,9,10,10,10],
+    "label":"Trend Injection","backgroundColor":"rgba(20,220,220,.8)"
+   }
+  ]
+ }, 
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Wer ist OWASP?
 
