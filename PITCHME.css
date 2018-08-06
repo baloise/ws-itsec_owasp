@@ -49,7 +49,6 @@
 
     .graph-trend {
     width: 80%;
-    margin-top: 0%;
+    margin-inline-start: 15%;
     box-shadow : none;
-    position: center;
     }
