@@ -53,7 +53,7 @@
 @snapend
 
 @snap[]
-@css[demo](**Command Injection(s)**)
+@css[demo](**Command Injection**)
 @snapend
 
 +++?image=res/injection.png&size=cover&opacity=45
