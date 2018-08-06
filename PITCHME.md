@@ -164,6 +164,7 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Passwörter und Sicherheitsfragen
+![PwdSec](/res/PNGs/PwdSec.png)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Securing Cookies
