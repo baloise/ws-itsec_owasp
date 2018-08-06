@@ -1,7 +1,7 @@
----?image=res/sand.jpg&size=cover&opacity=80
+---?image=res/sand.jpg&size=cover&opacity=50
 # @color[#282828](**Open Web Application Security Project**)
 
-+++
++++?image=res/sand.jpg&size=cover&opacity=50
 ## Agenda
 1. Einleitung zu OWASP
 
