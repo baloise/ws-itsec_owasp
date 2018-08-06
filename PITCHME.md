@@ -32,7 +32,8 @@
 ---?image=res/injection.png&size=cover&opacity=80
 # @color[#282828](**A1: Injection**)
 
-+++?image=res/injection.png&size=cover&opacity=45&title=Trend Injection
++++?image=res/injection.png&size=cover&opacity=45
+## Trend Injection 2004 - 2017
 <canvas data-chart="line">
 <!-- 
 {
