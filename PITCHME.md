@@ -114,7 +114,7 @@
   "datasets": [
    {
     "data":[8,4,8,9,9],
-    "label":"Trend Injection","backgroundColor":"rgba(20,220,220,.8)"
+    "label":"Trend Broken Authentication","backgroundColor":"rgba(20,220,220,.8)"
    }
   ]
  }, 
