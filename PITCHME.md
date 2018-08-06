@@ -152,6 +152,7 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Multi-Faktor Authentication
+![MultiFactor](/res/PNGs/MultiFactor.png)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Session Management
