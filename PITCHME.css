@@ -39,10 +39,10 @@
     padding: 5px 10px !important;
 }
 
-    .box-title hr {
+.box-title hr {
     border-top: 2px solid black#282828;
 }
 
-    .box-content {
+.box-content {
     background-color: darkorange;
 }
