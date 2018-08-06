@@ -156,6 +156,7 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Session Management
+![SessMangmnt](/res/PNGs/SessionManagement.png)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Brute Force verzögern
