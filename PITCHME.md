@@ -46,7 +46,7 @@
    }
   ]
  }, 
- "options": { "responsive": "true" }
+ "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }] } }
 }
 -->
 </canvas>
@@ -105,7 +105,6 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ## Trend Broken Authentication 2004 - 2017
-@snap[midpoint]
 <canvas data-chart="line">
 <!-- 
 {
@@ -122,7 +121,7 @@
 }
 -->
 </canvas>
-@snapend
+
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Überblick
 ![BrokenAuthOverview](res/PNGs/Broken_Auth-Overview.png)
