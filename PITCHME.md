@@ -34,7 +34,6 @@
 
 +++?image=res/injection.png&size=cover&opacity=45
 ## Trend Injection 2004 - 2017
-@snap[south]
 <canvas data-chart="line">
 <!-- 
 {
@@ -51,7 +50,7 @@
 }
 -->
 </canvas>
-@snapend
+
 +++?image=res/injection.png&size=cover&opacity=45
 ### SQL-Interaction: User, WebApp and Server
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
