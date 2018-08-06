@@ -46,3 +46,9 @@
 .box-content {
     background-color: darkorange;
 }
+
+    .graph-trend {
+    width: 800%;
+    margin-top: -15%;
+    box-shadow : none;
+    }
