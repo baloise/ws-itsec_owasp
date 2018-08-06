@@ -10,19 +10,18 @@
   4. Verteidigungsmassnahmen
 
 3. Zusammenfassung
----
 
 
+---?image=res/light_bulb.png&size=cover&opacity=80
+# @color[#282828](**Einleitung**)
 
-## Einleitung OWASP
-+++
-
++++?image=res/light_bulb.png&size=cover&opacity=40
 ### Wer ist OWASP?
-+++
 
++++?image=res/light_bulb.png&size=cover&opacity=40
 ### Was ist das Ziel?
-+++
 
++++?image=res/light_bulb.png&size=cover&opacity=40
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
 
