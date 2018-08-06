@@ -1,5 +1,5 @@
----?image=res/sky.jpg&size=cover&opacity=60
-# @color[#f5ffa](**Open Web Application Security Project**)
+---?image=res/sky.jpg&size=cover&opacity=80
+# @color[#282828](**Open Web Application Security Project**)
 
 +++
 ## Agenda
