@@ -103,6 +103,24 @@
 ---?image=/res/broken_auth.jpg&size=cover&opacity=60
 # @color[#282828](**A2: Broken Authentication**)
 
++++?image=/res/broken_auth.jpg&size=cover&opacity=40
+## Trend Broken Authentication 2004 - 2017
+<canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": [" 2004"," 2007"," 2010"," 2013"," 2017"],
+  "datasets": [
+   {
+    "data":[8,4,8,9,9],
+    "label":"Trend Injection","backgroundColor":"rgba(20,220,220,.8)"
+   }
+  ]
+ }, 
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Überblick
