@@ -1,5 +1,5 @@
 # Open Web Application Security Project
----
++++
 ## Agenda
 1. Einleitung zu OWASP
 
@@ -12,7 +12,7 @@
 3. Zusammenfassung
 
 
----?image=res/light_bulb.jpg&size=cover&opacity=80
+---?image=res/light_bulb.jpg&size=cover&opacity=60
 # @color[#282828](**Einleitung**)
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
