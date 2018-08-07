@@ -18,9 +18,19 @@
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Wer ist OWASP?
+@ul
+- Community
+- Chapter (Region)
+- Leader
+@ulend
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Was ist das Ziel?
+@ul
+- Awareness
+- KnowHow
+- OpenSource / frei
+@ulend
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Gefahrenmodell
