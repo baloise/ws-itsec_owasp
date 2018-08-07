@@ -2,6 +2,7 @@
 
 +++?image=res/owasp_logo.jpg&size=contain&color=black&opacity=30
 ## @color[black](Agenda)
+@color[black](
 1. Einleitung zu OWASP
 
 2. A1 to A10
@@ -11,7 +12,7 @@
   4. Verteidigungsmassnahmen
 
 3. Zusammenfassung
-
+)
 
 ---?image=res/light_bulb.jpg&size=cover&opacity=60
 # @color[#282828](**Einleitung**)
