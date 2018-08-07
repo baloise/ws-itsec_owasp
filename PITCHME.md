@@ -128,6 +128,7 @@
 @snapend
 
 +++
+<canvas data-chart="line">
 <div class="plot" id="myplot1" style="background-color:#fff; width:800px; height:400px; margin: 0 auto;">
 <!--
 {
@@ -141,6 +142,8 @@
 }
 -->
 </div>
+</canvas>
+
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Überblick
