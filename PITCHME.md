@@ -55,11 +55,11 @@
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
 
 +++?image=res/injection.png&size=cover&opacity=45
-@snap[north]
 ### SQL-Injection: Target and Impact
-@snapend
-@snap[west]
 
+@snap[west]
+- SQL, NoSQL, HQL, LDAP
+- Bash, PowerShell
 @snapend
 
 @snap[east]
