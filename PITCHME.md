@@ -184,7 +184,13 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Session Management
-![SessMangmnt](/res/PNGs/SessionManagement.png)
+@ul
+- Built-In Session Manager
+- Name ≠ PHPSESSID, CFID, ..)
+- Länge: >128bits (BruteForce)
+- starke Entropie (Zufälligkeit)
+- ID Inhalt ≠ sensitive Daten
+@ulend
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Brute Force verzögern
