@@ -202,6 +202,7 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Session Management
+<br>
 @ul
 - Built-In Session Manager
 - Name ≠ PHPSESSID, CFID, ..)
