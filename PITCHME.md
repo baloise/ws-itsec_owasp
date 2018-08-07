@@ -213,6 +213,7 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Brute Force verzögern
+<br>
 @ul
 - Verzögerung einbauen (Argon2, bcrypt, ..)
 - Captcha nach x Fehlversuchen
