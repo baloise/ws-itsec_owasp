@@ -117,7 +117,7 @@
    }
   ]
  }, 
- "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }, {"domain":[0:10]}] } }
+ "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }], "yAxis":{"domain":[0,10]} } }
 }
 -->
 </canvas>
