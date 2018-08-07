@@ -32,7 +32,10 @@
 # @color[#282828](**A1: Injection**)
 
 +++?image=res/injection.png&size=cover&opacity=45
-## Injection 2004 - 2017
+@snap
+@size[1.5em](Broken Authentication 2004 - 2017)
+@snapend
+<br>
 <canvas data-chart="line">
 <!-- 
 {
