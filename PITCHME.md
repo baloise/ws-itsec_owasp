@@ -118,13 +118,13 @@
    }
   ]
  }, 
- "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }] } }
-  "target":"#myplot1",
+ "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }] }
+ "target":"#myplot1",
  "height":1500,
  "width":"1500",
  "xAxis":{"domain":[2004,2017]},
- "yAxis":{"domain":[0,10]},]
-
+ "yAxis":{"domain":[0,10]},] 
+ }
 }
 -->
 </canvas>
