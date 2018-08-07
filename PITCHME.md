@@ -123,7 +123,7 @@
  "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }] } }
 }
 -->
-<br></br>
+<br>
 
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
