@@ -134,9 +134,6 @@
 
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
-## Passwort wiederherstellen
-
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Passwort wiederherstellen
 ![RecQuestion1](res/PNGs/SecurityQuestion1.png)
 
