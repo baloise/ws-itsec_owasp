@@ -1,4 +1,4 @@
----?image=/res/owasp_logo.jpg
+---?image=/res/owasp_logo.jpg&size=contain&color=black
 
 +++?image=res/owasp_logo.jpg&size=cover&opacity=70
 ## Agenda
