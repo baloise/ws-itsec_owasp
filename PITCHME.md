@@ -59,12 +59,14 @@
 ### SQL-Injection: Target and Impact
 @snapend
 
-@snap[west]
-- SQL, NoSQL, HQL, LDAP
-- Bash, PowerShell
+@snap
+  @ul
+  - SQL, NoSQL, HQL, LDAP
+  - Bash, PowerShell
+  @ulend
 @snapend
 
-@snap[east]
+@snap
   @ul[uppercase]
   - Bypassing Authentication
   - Spying Data
