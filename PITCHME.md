@@ -188,7 +188,10 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Brute Force verzögern
-![BruteForceDelay](/res/PNGs/BruteForceDelay.png)
+@- first
+- second
+- third
+@ulend
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Passwörter und Sicherheitsfragen
