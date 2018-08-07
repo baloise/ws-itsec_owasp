@@ -56,7 +56,18 @@
 
 +++?image=res/injection.png&size=cover&opacity=45
 ### SQL-Injection: Target and Impact
-![SQL-Trarget_and_Impact](/res/PNGs/SQL_targets_and_impact_low.png)
+@snap[west]
+
+@snapend
+
+@snap[east]
+  @ul[uppercase]
+  - Bypassing Authentication
+  - Spying Data
+  - Manipulating Data
+  - System Takeover
+  @ulend
+@snapend
 
 +++?image=res/injection.png&size=cover&opacity=45
 ### SQL-Injection: Attack
