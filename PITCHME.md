@@ -65,7 +65,7 @@
   - Bash, PowerShell
   @ulend
 @snapend
-
+<br>
 @snap
   @ul[uppercase]
   - Bypassing Authentication
