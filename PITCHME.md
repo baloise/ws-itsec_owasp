@@ -55,7 +55,9 @@
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
 
 +++?image=res/injection.png&size=cover&opacity=45
+@snap [nort demo]
 ### SQL-Injection: Target and Impact
+@snapend
 
 @snap[west]
 - SQL, NoSQL, HQL, LDAP
