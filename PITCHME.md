@@ -127,6 +127,21 @@
 </canvas>
 @snapend
 
++++
+<div class="plot" id="myplot1" style="background-color:#fff; width:800px; height:400px; margin: 0 auto;">
+<!--
+{
+ "target":"#myplot1",
+ "height":400,
+ "width":"800",
+ "xAxis":{"domain":[-10,10]},
+ "yAxis":{"domain":[-5,5]},
+ "grid":true,
+ "data":[{"fn":"sin(x)","color":"darkred"}]
+}
+-->
+</div>
+
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Überblick
 ![BrokenAuthOverview](res/PNGs/Broken_Auth-Overview.png)
