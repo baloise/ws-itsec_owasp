@@ -117,7 +117,7 @@
    },
    {
     "data":[2],
-    "label":"","backgroundColor":"rgba(0,0,0,.0)"
+    "label":""
    }
   ]
  }, 
