@@ -107,16 +107,6 @@
 @snap[graph-trend]
 <canvas data-chart="line">
 <div class="plot" id="myplot1" style="background-color:#fff; width:800px; height:400px; margin: 0 auto;">
-<!--
-{
- "target":"#myplot1",
- "height":1500,
- "width":"1500",
- "xAxis":{"domain":[2004,2017]},
- "yAxis":{"domain":[0,10]},]
-}
--->
-
 <!-- 
 {
  "data": {
@@ -129,6 +119,12 @@
   ]
  }, 
  "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }] } }
+  "target":"#myplot1",
+ "height":1500,
+ "width":"1500",
+ "xAxis":{"domain":[2004,2017]},
+ "yAxis":{"domain":[0,10]},]
+
 }
 -->
 </canvas>
