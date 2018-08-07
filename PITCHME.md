@@ -32,7 +32,7 @@
 # @color[#282828](**A1: Injection**)
 
 +++?image=res/injection.png&size=cover&opacity=45
-## Trend Injection 2004 - 2017
+## Injection 2004 - 2017
 <canvas data-chart="line">
 <!-- 
 {
@@ -121,7 +121,7 @@
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 @snap
-@size[1.5em](Trend Broken Authentication 2004 - 2017)
+@size[1.5em](Broken Authentication 2004 - 2017)
 @snapend
 <br>
 @snap
