@@ -56,9 +56,9 @@
 
 +++?image=res/injection.png&size=cover&opacity=45
 @snap [nort demo]
-### SQL-Injection: Target and Impact
+@size[1.5em](SQL-Injection: Target and Impact)
 @snapend
-
+<br>
 @snap
   @ul
   - SQL, NoSQL, HQL, LDAP
