@@ -18,6 +18,7 @@
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Wer ist OWASP?
+<br>
 @ul
 - Community
 - Chapter (Region)
@@ -26,6 +27,7 @@
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Was ist das Ziel?
+<br>
 @ul
 - Awareness
 - KnowHow
