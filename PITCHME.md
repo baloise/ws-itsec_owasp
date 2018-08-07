@@ -13,7 +13,7 @@
 3. Zusammenfassung
 
 
----?image=res/light_bulb.jpg&size=cover&opacity=60
+---?image=res/light_bulb.jpg&size=contain&color=black&opacity=30
 # @color[#282828](**Einleitung**)
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
