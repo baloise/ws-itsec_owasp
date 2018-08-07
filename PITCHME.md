@@ -116,7 +116,7 @@
     "label":"Trend Broken Authentication","backgroundColor":"rgba(20,220,220,.8)"
    },
    {
-    "data":[10],
+    "data":[1],
     "label":"","backgroundColor":"rgba(0,0,0,.0)"
    }
   ]
