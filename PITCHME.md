@@ -189,9 +189,12 @@
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Brute Force verzögern
 @ul
-- first
-- second
-- third
+- Verzögerung einbauen (Argon2, bcrypt, ..)
+- Captcha nach x Fehlversuchen
+- IP (für x Minuten) blockieren
+- Account (für x Minuten) blockieren
+- Reaktivierung via Mail-Link
+- Einheitliche Fehlermeldung
 @ulend
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
