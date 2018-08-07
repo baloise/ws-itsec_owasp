@@ -55,8 +55,8 @@
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
 
 +++?image=res/injection.png&size=cover&opacity=45
-@snap [nort demo]
-@size[1.5em](SQL-Injection: Target and Impact)
+@snap [north]
+@size[1em](SQL-Injection: Target and Impact)
 @snapend
 <br>
 @snap
