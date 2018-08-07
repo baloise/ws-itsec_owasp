@@ -1,3 +1,6 @@
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+
+
 ---?image=/res/owasp_logo.jpg&size=contain&color=black
 
 +++?color=lightgray
