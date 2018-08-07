@@ -1,6 +1,6 @@
 ---?image=/res/owasp_logo.jpg&size=contain&color=black
 
-+++?image=res/owasp_logo.jpg&size=cover&opacity=70
++++?image=res/owasp_logo.jpg&size=contain&color=black&opacity=70
 ## Agenda
 1. Einleitung zu OWASP
 
@@ -13,7 +13,7 @@
 3. Zusammenfassung
 
 
----?image=res/light_bulb.jpg&size=contain&color=black&opacity=30
+---?image=res/light_bulb.jpg&size=cover&opacity=60
 # @color[#282828](**Einleitung**)
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
