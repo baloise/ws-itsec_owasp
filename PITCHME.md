@@ -30,7 +30,7 @@
 <br>
 @ul
 - Awareness
-- KnowHow
+- Know How
 - OpenSource / frei
 @ulend
 
