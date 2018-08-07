@@ -106,6 +106,17 @@
 ## Trend Broken Authentication 2004 - 2017
 @snap[graph-trend]
 <canvas data-chart="line">
+<div class="plot" id="myplot1" style="background-color:#fff; width:800px; height:400px; margin: 0 auto;">
+<!--
+{
+ "target":"#myplot1",
+ "height":1500,
+ "width":"1500",
+ "xAxis":{"domain":[2004,2017]},
+ "yAxis":{"domain":[0,10]},]
+}
+-->
+
 <!-- 
 {
  "data": {
@@ -114,10 +125,6 @@
    {
     "data":[8,4,8,9,9],
     "label":"Trend Broken Authentication","backgroundColor":"rgba(20,220,220,.8)"
-   },
-   {
-    "data":[2],
-    "label":"","backgroundColor":"rgba(0,0,0,.0)"
    }
   ]
  }, 
