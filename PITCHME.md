@@ -33,9 +33,10 @@
 
 +++?image=res/injection.png&size=cover&opacity=45
 @snap
-@size[1.5em](Broken Authentication 2004 - 2017)
+@size[1.5em](Injection 2004 - 2017)
 @snapend
 <br>
+@snap
 <canvas data-chart="line">
 <!-- 
 {
@@ -52,6 +53,7 @@
 }
 -->
 </canvas>
+@snapend
 
 +++?image=res/injection.png&size=cover&opacity=45
 ### SQL-Interaction: User, WebApp and Server
