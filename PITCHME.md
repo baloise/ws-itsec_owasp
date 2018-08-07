@@ -1,6 +1,6 @@
 ---?image=/res/owasp_logo.jpg&size=contain&color=black
 
-+++?image=res/owasp_logo.jpg&size=contain&color=black&opacity=70
++++?image=res/owasp_logo.jpg&size=contain&color=black&opacity=30
 ## Agenda
 1. Einleitung zu OWASP
 
