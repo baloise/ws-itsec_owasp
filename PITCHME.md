@@ -56,7 +56,7 @@
 
 +++?image=res/injection.png&size=cover&opacity=45
 @snap [north]
-@size[1em](SQL-Injection: Target and Impact)
+@size[1.5em](SQL-Injection: Target and Impact)
 @snapend
 <br>
 @snap
