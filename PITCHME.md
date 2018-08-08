@@ -184,7 +184,7 @@ Note:
 - Nicht Pattern -> Improper zipcode format
 - Entspricht Pattern -> Fortgesetzt
 
-+++?code=res/snippets/escaping.java&lang=java&title=Escaping All User Supplied (Java)
++++?code=res/snippets/escaping.java&lang=java&title=Escaping All User Supplied Input (Java)
 @[2,5]
 @[1]
 @[4,6]
