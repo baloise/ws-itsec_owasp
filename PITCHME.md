@@ -24,6 +24,8 @@
 - Chapter (Region)
 - Leader
 @ulend
+Note:
+- test note
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Was ist das Ziel?
