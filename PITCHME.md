@@ -149,6 +149,9 @@ Injection:
 @snap[]
 @css[demo](**Command Injection**)
 @snapend
+Note:
+- American Services
+- Damm Vulnerable Web Application
 
 +++?image=res/injection.png&size=cover&opacity=45
 ## Massnahmen
