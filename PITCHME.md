@@ -255,10 +255,16 @@ Note:
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Cookie: UserID
 ![CookieParameter1](/res/PNGs/CookieParameter1.png)
+Note:
+- Admin Login -Server> Cookie UserID=1
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Cookie: UserID
 ![CookieParameter2](/res/PNGs/CookieParameter2.png)
+Note:
+- Hacker Login -Server> Cookie UserID=4825
+- Hacker ändert Wert
+- Problem: Validierung userID = username/sessID/etc.
 
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
