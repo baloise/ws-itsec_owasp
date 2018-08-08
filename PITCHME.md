@@ -25,15 +25,15 @@
 - Leader
 @ulend
 Note:
-- Community: Firmen, Bildungseinrichtungen und Einzelpersonen aller Welt
+Community: Firmen, Bildungseinrichtungen und Einzelpersonen aller Welt
 - Konferenzen, Sponsoring, Werbebanner
 - 5 Angestellte
 - Prämien für vielversprechende Applikations-Sicherheits-Forschungsprojekte
 
-- Region / Chapter: Offen und für jedermann
+Region / Chapter: Offen und für jedermann
 - Erarbeiten Materialien, Konferenzen (Räumlichkeiten), etc
 
-- Leader: Leitung des Chapters / Organisation etc.
+Leader: Leitung des Chapters / Organisation etc.
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Was ist das Ziel?
