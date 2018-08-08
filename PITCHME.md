@@ -50,8 +50,23 @@ Note:
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
+Note:
+Bedrohungsquelle: 
+- Wer: potentielle Angreifer (Script Kiddie,  Cybercriminal, State Sponsored Hacker)
+- Was/Wo: Anzahl, Schnittstellen, Sicherheitszustand
 
+Angriffsvektoren:
+- Ausnutzbarkeit: Schwierigkeit des Angriffs / benötigte Infrastruktur
 
+Schwachstelle:
+- Verbreitung: Anzahl, alter / neuer Code
+- Auffindbarkeit: Wahrscheinlichkeit Entdeckung
+
+Technische Auswirkungen:
+- Systembezogne Möglichkeiten (Daten lesen / manipulieren / Funktionen ausführen / Systemzugriff)
+
+Auswirkungen Unternehmen:
+- Schaden für Unternehemen: Image, Bussen (GDPR?), Firmengeheimnisse, Finanzen
 
 ---?image=res/injection.png&size=cover&opacity=80
 # @color[#282828](**A1: Injection**)
