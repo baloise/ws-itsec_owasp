@@ -175,8 +175,14 @@ Note:
 
 +++?code=res/snippets/white-list.java&lang=java&title=White Listing (Java)
 @[1]
-@[4]
-@[5-6, 8]
+@[5]
+@[6]
+@[8]
+Note:
+- Pattern definieren Postleitzahl
+- Prüfung ob Postleitzahl Pattern entspricht
+- Nicht Pattern -> Improper zipcode format
+- Entspricht Pattern -> Fortgesetzt
 
 +++?code=res/snippets/escaping.java&lang=java&title=Escaping All User Supplied (Java)
 @[2,5]
