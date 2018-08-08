@@ -227,10 +227,16 @@ Note:
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Überblick
 ![BrokenAuthOverview](res/PNGs/Broken_Auth-Overview.png)
+Note:
+- Credential Stuffing: bekannte Kombis (mail+pw)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Brute Force
 ![BruteForceLogin](res/PNGs/BruteForce-Login.png)
+Note:
+- Default Logins, Lists (Dict.+prefixes, topX, leaked), BruteForce
+- Falscher Benutzer / PW
+- Falsches etwas
 
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
