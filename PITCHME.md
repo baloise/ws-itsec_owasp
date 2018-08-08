@@ -128,6 +128,14 @@ Note:
 +++?image=res/injection.png&size=cover&opacity=45
 ### SQL-Injection: Attack
 ![SQL-Injection](/res/PNGs/SQL_Injection.png)
+Note:
+Normal:
+- Parameter eingesetzt
+- Statement wie vorgesehen
+
+Injection:
+- Parameter eingesetzt
+- Statement ergänzt "oder" (4=4)
 
 +++?image=res/injection.png&size=cover&opacity=45
 ## @size[1.5em](Demo Injection)
