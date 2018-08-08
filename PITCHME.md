@@ -2,7 +2,6 @@
 
 +++?color=lightgray
 ## Agenda
-@ul
 1. Einleitung zu OWASP
 
 2. A1 to A10
@@ -12,7 +11,7 @@
   4. Verteidigungsmassnahmen
 
 3. Zusammenfassung
-@ulend
+
 
 ---?image=res/light_bulb.jpg&size=cover&opacity=60
 # @color[#282828](**Einleitung**)
@@ -26,7 +25,15 @@
 - Leader
 @ulend
 Note:
-- test note
+- Community: Firmen, Bildungseinrichtungen und Einzelpersonen aller Welt
+- Konferenzen, Sponsoring, Werbebanner
+- 5 Angestellte
+- Prämien für vielversprechende Applikations-Sicherheits-Forschungsprojekte
+
+- Region / Chapter: Offen und für jedermann
+- Erarbeiten Materialien, Konferenzen (Räumlichkeiten), etc
+
+- Leader: Leitung des Chapters / Organisation etc.
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Was ist das Ziel?
