@@ -284,7 +284,10 @@ Note:
 @snap[]
 @css[demo](**Playing with Cookies**)
 @snapend
-
+Note:
+- ?hydra
+- BurpSuite
+- Mutillidae
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ## Massnahmen
