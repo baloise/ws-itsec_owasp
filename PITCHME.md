@@ -171,6 +171,7 @@ Note:
 Note:
 - Server?: Statement erstellen & Definieren
 - WebApp?: Aufrufen des Statements
+- + Performance (cache)
 
 +++?code=res/snippets/white-list.java&lang=java&title=White Listing (Java)
 @[1]
