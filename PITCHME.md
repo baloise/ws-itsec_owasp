@@ -43,6 +43,9 @@ Leader: Leitung des Chapters / Organisation etc.
 - Know How
 - OpenSource / frei
 @ulend
+Note:
+- JuiceShop, WebGoat, ..
+- Slides / Wiki (Beispiele + Lösungen + Empfehlungen)
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Gefahrenmodell
