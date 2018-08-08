@@ -98,6 +98,11 @@ Auswirkungen Unternehmen:
 +++?image=res/injection.png&size=cover&opacity=45
 ### SQL-Interaction: User, WebApp and Server
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
+Note:
+- User startet Abfrage
+- WebApp: Prüfung + Erstellen der Abfrage-Request
+- SQL-Server: Verarbeitung Abfrage & Antwort
+- Applikation rendert? Antwort
 
 +++?image=res/injection.png&size=cover&opacity=45
 @snap [north]
