@@ -51,9 +51,12 @@ Note:
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
 +++
+@snap
 $$
 {(Angriffsvektor + Schwachstelle + Auswirkungen)} / {3} * {technische Auswirkungen}
 $$
+@snapend
+
 Note:
 Bedrohungsquelle: 
 - Wer: potentielle Angreifer (Script Kiddie,  Cybercriminal, State Sponsored Hacker)
