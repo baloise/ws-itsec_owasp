@@ -188,7 +188,10 @@ Note:
 @[2,5]
 @[1]
 @[4,6]
-
+Note:
+- altes Statement (legacy code)
+- OrcaleCode() Objekt erzeugt
+- Encoder für userID und pwd anwenden
 
 
 ---?image=/res/broken_auth.jpg&size=cover&opacity=60
