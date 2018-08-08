@@ -50,6 +50,9 @@ Note:
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
+'\[
+(a+b)/3 *c
+\]'
 Note:
 Bedrohungsquelle: 
 - Wer: potentielle Angreifer (Script Kiddie,  Cybercriminal, State Sponsored Hacker)
