@@ -50,6 +50,7 @@ Note:
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
++++
 $
 {(Angriffsvektor + Schwachstelle + Auswirkungen)} / {3} * {technische Auswirkungen}
 $
