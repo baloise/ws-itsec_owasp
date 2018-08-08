@@ -51,7 +51,7 @@ Note:
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
 +++
-@snap
+@snap[midpoint]
 $$
 {(Angriffsvektor + Schwachstelle + Auswirkungen)} / {3} * {technische Auswirkungen}
 $$
