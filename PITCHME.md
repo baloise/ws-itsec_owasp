@@ -51,7 +51,7 @@ Note:
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
 $$
-(a+b)/3 *c
+(Angriffsvektor + Schwachstelle + Auswirkungen) <br> / 3 * technische Auswirkungen
 $$
 Note:
 Bedrohungsquelle: 
