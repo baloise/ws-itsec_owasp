@@ -168,6 +168,9 @@ Note:
 +++?code=res/snippets/stored-procedure.java&lang=java&title=Stored Procedures (Java)
 @[1-5]
 @[7]
+Note:
+- Server?: Statement erstellen & Definieren
+- WebApp?: Aufrufen des Statements
 
 +++?code=res/snippets/white-list.java&lang=java&title=White Listing (Java)
 @[1]
