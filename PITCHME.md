@@ -160,6 +160,10 @@ Note:
 @[1]
 @[3-4]
 @[6-7]
+Note:
+- Prepared Statement -Objekt erstellen
+- Definieren Statement
+- Input in def. Statement einfügen
 
 +++?code=res/snippets/stored-procedure.java&lang=java&title=Stored Procedures (Java)
 @[1-5]
