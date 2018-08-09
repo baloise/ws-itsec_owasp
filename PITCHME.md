@@ -207,7 +207,7 @@ Note:
 @size[1.5em](Trend: Broken Authentication 2004 - 2017)
 @snapend
 <br>
-@snap
+
 <canvas data-chart="line">
 <!-- 
 {
@@ -228,7 +228,7 @@ Note:
 }
 -->
 </canvas>
-@snapend
+
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ### Überblick
 ![BrokenAuthOverview](res/PNGs/Broken_Auth-Overview.png)
