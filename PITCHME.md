@@ -20,9 +20,9 @@
 ### Wer ist OWASP?
 <br>
 @ul
-- Community
-- Chapter (Region)
-- Leader
+Community
+Chapter (Region)
+Leader
 @ulend
 Note:
 Community: Firmen, Bildungseinrichtungen und Einzelpersonen aller Welt
