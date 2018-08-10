@@ -37,10 +37,11 @@ Leader: Leitung des Chapters / Organisation etc.
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Was ist das Ziel?
-
-#### Awareness
-#### Know-How
-
+<br>
+@ul
+- Awareness
+- Know How
+@ulend
 Note:
 - JuiceShop, WebGoat, ..
 - Slides / Wiki (Beispiele + Lösungen + Empfehlungen)
