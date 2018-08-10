@@ -51,12 +51,16 @@ Note:
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
 $
-\frac {(AV + SS. + AU)} {3} * tAU
+\frac {(AN + VB. + AB)} {3} * tAU
 $
 Note:
 Bedrohungsquelle: 
 - Wer: potentielle Angreifer (Script Kiddie,  Cybercriminal, State Sponsored Hacker)
 - Was/Wo: Anzahl, Schnittstellen, Sicherheitszustand
+- AN: Angriffsvektor
+- VB: Verbreitung
+- AB: Aufindbarkeit
+- tAU: technische Auswirkungen
 
 Angriffsvektoren:
 - Ausnutzbarkeit: Schwierigkeit des Angriffs / benötigte Infrastruktur
