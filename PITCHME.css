@@ -1,5 +1,6 @@
 .reveal {
     font-family: 'Open Sans', sans-serif;
+    maxScale: 2.0;
 }
 
 .reveal section img {
