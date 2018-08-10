@@ -1,8 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
 
-.reveal {
+.test-font {
     font-family: 'Open Sans', sans-serif;
-    maxScale: 2.0;
 }
 
 .reveal section img {
