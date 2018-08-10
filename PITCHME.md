@@ -138,21 +138,21 @@ Note:
 @size[1.5em](SQL-Injection: Target and Impact)
 @snapend
 <br>
-@snap
+
   @ul
   - SQL, NoSQL, HQL, LDAP
   - Bash, PowerShell
   @ulend
-@snapend
+
 <br>
-@snap
+
   @ul[uppercase]
   - Bypassing Authentication
   - Spying Data
   - Manipulating Data
   - System Takeover
   @ulend
-@snapend
+
 
 +++?image=res/injection.png&size=cover&opacity=45
 ### SQL-Injection: Attack
@@ -168,16 +168,15 @@ Injection:
 
 +++?image=res/injection.png&size=cover&opacity=45
 ## @size[1.5em](Demo Injection)
-@snap[]
-@snapend
 
-@snap[]
+
+
 @css[demo](**Login Bypass**)
-@snapend
 
-@snap[]
+
+
 @css[demo](**Command Injection**)
-@snapend
+
 Note:
 Insecure Web App
 
@@ -229,9 +228,9 @@ Note:
 # @color[#282828](**A2: Broken Authentication**)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
-@snap
+
 @size[1.5em](Trend: Broken Authentication 2004 - 2017)
-@snapend
+
 <br>
 
 <canvas data-chart="line">
@@ -305,16 +304,13 @@ Note:
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 ## @size[1.5em](Demo Broken Authentication)
-@snap[]
-@snapend
 
-@snap[]
 @css[demo](**Brute Force Attack**)
-@snapend
 
-@snap[]
+
+
 @css[demo](**Playing with Cookies**)
-@snapend
+
 Note:
 - ?hydra
 - BurpSuite
