@@ -50,9 +50,8 @@ Note:
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
-<br>
 $
-\frac {(AN + VB. + AB)} {3} * tAU
+\frac {(AN + VB + AB)} {3} * tAU
 $
 Note:
 Bedrohungsquelle: 
