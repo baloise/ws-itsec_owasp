@@ -50,11 +50,9 @@ Note:
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Gefahrenmodell
 ![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
-@snap[south]
 $
 \frac {(AN + VB + AB)} {3} * tAU
 $
-@snapend
 Note:
 Bedrohungsquelle: 
 - Wer: potentielle Angreifer (Script Kiddie,  Cybercriminal, State Sponsored Hacker)
@@ -77,15 +75,6 @@ Technische Auswirkungen:
 Auswirkungen Unternehmen:
 - Schaden für Unternehemen: Image, Bussen (GDPR?), Firmengeheimnisse, Finanzen
 
-
-+++?image=res/light_bulb.jpg&size=cover&opacity=40
-### Gefahrenmodell
-![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
-@snap
-$
-\frac {(AN + VB + AB)} {3} * tAU
-$
-@snapend
 
 ---?image=res/injection.png&size=cover&opacity=80
 # @color[#282828](**A1: Injection**)
