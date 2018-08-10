@@ -327,6 +327,6 @@ Note:
 ![SecCookie](/res/PNGs/SecuringCookies.png)
 
 +++
-Test
+standart font
 <br>
-@css[test-font](Test)
+@css[test-font](new font)
