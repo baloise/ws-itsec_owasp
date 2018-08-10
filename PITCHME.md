@@ -83,7 +83,6 @@ Auswirkungen Unternehmen:
 @snap[north title]
 @size[1.5em](Injection 2004 - 2017)
 @snapend
-<br>
 
 <canvas data-chart="line">
 <!-- 

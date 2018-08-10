@@ -1,3 +1,4 @@
 theme-override : PITCHME.css
 charts : true
 mathjax : TeX-MML-AM_HTMLorMML-full
+transition : none
