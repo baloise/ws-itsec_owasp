@@ -229,10 +229,7 @@ Note:
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
 
-@size[1.5em](Trend: Broken Authentication 2004 - 2017)
-
-<br>
-
+@size[1.5em](Broken Authentication 2004 - 2017)
 <canvas data-chart="line">
 <!-- 
 {
