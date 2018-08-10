@@ -134,9 +134,8 @@ Note:
 - Applikation rendert? Antwort
 
 +++?image=res/injection.png&size=cover&opacity=45
-@snap [north]
-@size[1.5em](SQL-Injection: Target and Impact)
-@snapend
+@size[1.3em](SQL-Injection: Target and Impact)
+
 <br>
 
   @ul
