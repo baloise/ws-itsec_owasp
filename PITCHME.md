@@ -80,57 +80,9 @@ Auswirkungen Unternehmen:
 # @color[#282828](**A1: Injection**)
 
 +++?image=res/injection.png&size=cover&opacity=45
-@snap
+@snap[north title]
 @size[1.5em](Injection 2004 - 2017)
 @snapend
-<br>
-@snap
-<canvas data-chart="line">
-<!-- 
-{
- "data": {
-  "labels": [" 2004"," 2007"," 2010"," 2013"," 2017"],
-  "datasets": [
-   {
-    "data":[5,9,10,10,10],
-    "label":"Trend Injection","backgroundColor":"rgba(20,220,220,.8)"
-   }
-  ]
- }, 
- "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }] } }
-}
--->
-</canvas>
-@snapend
-
-+++?image=res/injection.png&size=cover&opacity=45
-@snap[north]
-@size[1.5em](Injection 2004 - 2017)
-@snapend
-<br>
-@snap[midpoint]
-<canvas data-chart="line">
-<!-- 
-{
- "data": {
-  "labels": [" 2004"," 2007"," 2010"," 2013"," 2017"],
-  "datasets": [
-   {
-    "data":[5,9,10,10,10],
-    "label":"Trend Injection","backgroundColor":"rgba(20,220,220,.8)"
-   }
-  ]
- }, 
- "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }] } }
-}
--->
-</canvas>
-@snapend
-
-+++?image=res/injection.png&size=cover&opacity=45
-
-@size[1.5em](Injection 2004 - 2017)
-
 <br>
 
 <canvas data-chart="line">
@@ -149,7 +101,6 @@ Auswirkungen Unternehmen:
 }
 -->
 </canvas>
-
 
 +++?image=res/injection.png&size=cover&opacity=45
 ### SQL-Interaction: User, WebApp and Server
