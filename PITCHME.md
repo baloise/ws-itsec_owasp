@@ -37,12 +37,10 @@ Leader: Leitung des Chapters / Organisation etc.
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Was ist das Ziel?
-<br>
-@ul
-- Awareness
-- Know How
-- OpenSource / frei
-@ulend
+
+#### Awareness
+#### Know-How
+
 Note:
 - JuiceShop, WebGoat, ..
 - Slides / Wiki (Beispiele + Lösungen + Empfehlungen)
@@ -80,7 +78,7 @@ Auswirkungen Unternehmen:
 # @color[#282828](**A1: Injection**)
 
 +++?image=res/injection.png&size=cover&opacity=45
-@size[1.5em](Injection 2004 - 2017)
+@size[1.5em](Injection - Historie)
 
 <canvas data-chart="line">
 <!-- 
@@ -202,7 +200,7 @@ Note:
 # @color[#282828](**A2: Broken Authentication**)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
-@size[1.2em](Broken Authentication 2004 - 2017)
+@size[1.2em](Broken Authentication - Historie)
 
 <canvas data-chart="line">
 <!-- 
