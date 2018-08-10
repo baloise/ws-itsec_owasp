@@ -228,7 +228,7 @@ Note:
 # @color[#282828](**A2: Broken Authentication**)
 
 +++?image=/res/broken_auth.jpg&size=cover&opacity=40
-@snap
+@snap[north]
 @size[1.5em](Broken Authentication 2004 - 2017)
 @snapend
 <canvas data-chart="line">
