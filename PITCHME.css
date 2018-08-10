@@ -17,6 +17,8 @@
     max-height: 600 !important;
     opacity: 1;
     border-radius: 10px;
+    width: 90%;
+    margin-inline-start: 0%;
 }
 
 .demo {
