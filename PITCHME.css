@@ -49,7 +49,11 @@
     background-color: darkorange;
 }
 
-  .graph-trend {
+.graph-trend {
     width: 80%;
     box-shadow : none;
+}
+
+.title {
+    width: 80%;
 }
