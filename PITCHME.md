@@ -56,13 +56,13 @@ $
 Note:
 Bedrohungsquelle: 
 - Wer: potentielle Angreifer (Script Kiddie,  Cybercriminal, State Sponsored Hacker)
-- Was/Wo: Anzahl, Schnittstellen, Sicherheitszustand
+- Was/Wo: Anzahl, Schnittstellen, Sicherheitszustand (alter / neuer Code)
 
 Angriffsvektoren:
 - Ausnutzbarkeit: Schwierigkeit des Angriffs / benötigte Infrastruktur
 
 Schwachstelle:
-- Verbreitung: Anzahl, alter / neuer Code
+- Verbreitung: Anzahl
 - Auffindbarkeit: Wahrscheinlichkeit Entdeckung
 
 Technische Auswirkungen:
