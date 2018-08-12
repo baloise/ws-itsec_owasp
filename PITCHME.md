@@ -111,7 +111,7 @@ Note:
 - Applikation rendert? Antwort
 
 +++?image=res/injection.png&size=cover&opacity=45
-@size[1.3em](SQL-Injection: Target and Impact)
+@size[1.3em](SQL-Injection: Vorkommen und Auswirkungen)
 
 <br>
 
