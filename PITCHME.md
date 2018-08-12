@@ -57,10 +57,6 @@ Note:
 Bedrohungsquelle: 
 - Wer: potentielle Angreifer (Script Kiddie,  Cybercriminal, State Sponsored Hacker)
 - Was/Wo: Anzahl, Schnittstellen, Sicherheitszustand
-- AN: Angriffsvektor
-- VB: Verbreitung
-- AB: Aufindbarkeit
-- tAU: technische Auswirkungen
 
 Angriffsvektoren:
 - Ausnutzbarkeit: Schwierigkeit des Angriffs / benötigte Infrastruktur
@@ -74,6 +70,12 @@ Technische Auswirkungen:
 
 Auswirkungen Unternehmen:
 - Schaden für Unternehemen: Image, Bussen (GDPR?), Firmengeheimnisse, Finanzen
+
+Formel:
+- AN: Angriffsvektor
+- VB: Verbreitung
+- AB: Aufindbarkeit
+- tAU: technische Auswirkungen
 
 
 ---?image=res/injection.png&size=cover&opacity=80
