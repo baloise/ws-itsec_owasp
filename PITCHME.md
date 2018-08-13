@@ -347,7 +347,7 @@ standart font
 ---?image=/res/Data_Exposure.jpg&size=cover&opacity=50
 # @color[#282828](**A3: Sensitive Data Exposure**)
 
-+++?image=/res/Data_Exposure.jpg&size=cover&opacity=30
++++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
 @size[1.3em](Sensitive Data Exposure - Historie)
 <canvas data-chart="line">
 <!-- 
