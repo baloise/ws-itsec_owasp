@@ -360,7 +360,7 @@ standart font
     "label":"Trend (Sensitive Data Exposure","backgroundColor":"rgba(20,220,220,.8)"
    },
    {
-    "data":[2],
+    "data":[4],
     "label":"","backgroundColor":"rgba(0,0,0,.0)"
    }
   ]
