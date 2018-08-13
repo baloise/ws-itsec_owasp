@@ -369,3 +369,7 @@ standart font
 }
 -->
 </canvas>
+
++++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
+### Überblick
+![SensDataExp](/res/PNGs/Sensitive_Data_Exposure.png)
