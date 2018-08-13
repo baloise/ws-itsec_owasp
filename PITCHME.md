@@ -33,7 +33,7 @@ Note:
 - Wiki: Know How - Vorbeugemassnahmen
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 
-### OWASP Top 10 2017
+### Open Web Application Security Project Top 10 2017
 @ul
 - A1: Injection
 - A2: Broken Authentication
