@@ -39,7 +39,7 @@ Note:
 - A2: Broken Authentication
 - A3: Sensitive Data Exposure
 - A4: XML External Entities
-- A5: Broken Access Controll
+- A5: Broken Access Control
 - A6: Security Misconfigurarion
 - A7: Cross-Site Scripting
 - A8: Insecure Deserialization
@@ -344,3 +344,4 @@ standart font
 @css[cCursive](Concert One, cursive)
 <br>
 @css[rCursive](Righteous, cursive)
+
