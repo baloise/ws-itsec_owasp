@@ -45,9 +45,6 @@ Note:
 - A8: Insecure Deserialization
 - A9: Using Components with Known Vulnerabilities
 - A10: Insufficient Logging & Monitoring
-- test 1
-- test2
-- test3
 @ulend
 
 Note:
