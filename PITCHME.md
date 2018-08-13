@@ -34,7 +34,7 @@ Note:
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 
 ### Open Web Application Security Project Top 10 2017
-@ul
+@ol
 - A1: Injection
 - A2: Broken Authentication
 - A3: Sensitive Data Exposure
@@ -45,7 +45,7 @@ Note:
 - A8: Insecure Deserialization
 - A9: Using Components with Known Vulnerabilities
 - A10: Insufficient Logging & Monitoring
-@ulend
+@olend
 Note:
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
