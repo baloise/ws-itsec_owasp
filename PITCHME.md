@@ -330,7 +330,7 @@ standart font
 <br>
 @css[fSans](Fjalla One, sans-serif)
 <br>
-@css[oaSans](Acme, sans-serif)
+@css[aSans](Acme, sans-serif)
 <br>
 @css[cCursive](Concert One, cursive)
 <br>
