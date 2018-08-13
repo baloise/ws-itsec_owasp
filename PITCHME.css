@@ -1,8 +1,33 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:600');
+@import url('https://fonts.googleapis.com/css?family=Jua');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+@import url('https://fonts.googleapis.com/css?family=Acme');
+@import url('https://fonts.googleapis.com/css?family=Concert+One');
+ @import url('https://fonts.googleapis.com/css?family=Righteous');
 
-.test-font {
+.oSans {
     font-family: 'Open Sans', sans-serif !important;
 }
+.jSans {
+    font-family: 'Jua', sans-serif !important;
+}
+.wSans {
+    font-family: 'Work Sans', sans-serif !important;
+}
+.fSans {
+    font-family: 'Fjalla One', sans-serif !important;
+}
+.aSans {
+    font-family: 'Acme', sans-serif !important;
+}
+.cCursive {
+    font-family: 'Concert One', cursive !important;
+}
+.rCursive {
+    font-family: 'Righteous', cursive !important;
+}
+
 
 .reveal section img {
     border: 0;
