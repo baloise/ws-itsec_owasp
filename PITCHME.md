@@ -334,4 +334,4 @@ standart font
 <br>
 @css[cCursive](Concert One, cursive)
 <br>
-@css[cCursive](Righteous, cursive)
+@css[rCursive](Righteous, cursive)
