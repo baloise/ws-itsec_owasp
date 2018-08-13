@@ -348,7 +348,7 @@ standart font
 # @color[#282828](**A3: Sensitive Data Exposure**)
 
 +++?image=/res/Data_Exposure.jpg&size=cover&opacity=30
-@size[1.3em](Sensitive Data Exposure 2004 - 2017)
+@size[1.3em](Sensitive Data Exposure - Historie)
 <canvas data-chart="line">
 <!-- 
 {
@@ -357,7 +357,7 @@ standart font
   "datasets": [
    {
     "data":[5,8],
-    "label":"Trend (Sensitive Data Exposure","backgroundColor":"rgba(20,220,220,.8)"
+    "label":"Trend Sensitive Data Exposure","backgroundColor":"rgba(20,220,220,.8)"
    },
    {
     "data":[4],
