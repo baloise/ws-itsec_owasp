@@ -94,10 +94,10 @@ Injection:
 
 +++?image=res/injection.png&size=cover&opacity=45
 ### Recent Injections
-- 2018 Joomla SQLi und mehr
-- 2017 GoDaddy (WAF) encoded SQLi commands
-- 2017 WordPress SQLi (Plugin) flaw
-- 2017 Equifax SQLi und mehr
+- 2018 Joomla
+- 2017 GoDaddy (WAF)
+- 2017 WordPress
+- 2017 Equifax
 - 2016 Italienische Regierungswebseite
 
 
