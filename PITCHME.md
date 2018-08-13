@@ -345,3 +345,5 @@ standart font
 <br>
 @css[rCursive](Righteous, cursive)
 
+---?image=/res/Data_Exposure.jpg&size=cover&opacity=60
+# @color[#282828](**A3: Sensitive Data Exposure**)
