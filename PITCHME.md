@@ -1,39 +1,13 @@
 ---?image=/res/owasp_logo.jpg&size=contain&color=black
 
-+++?color=lightgray
-## Agenda
-1. Einleitung zu OWASP
-
-2. A1 to A10
-  1. Was ist A*
-  2. Angriffsvektoren
-  3. Demo
-  4. Verteidigungsmassnahmen
-
-3. Zusammenfassung
-
-
 ---?image=res/light_bulb.jpg&size=cover&opacity=60
 # @color[#282828](**Einleitung**)
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Wer ist OWASP?
-<br>
-@ul
-- Community
-- Chapter (Region)
-- Leader
-@ulend
 Note:
 Community: Firmen, Bildungseinrichtungen und Einzelpersonen aller Welt
-- Konferenzen, Sponsoring, Werbebanner
-- 5 Angestellte
-- Prämien für vielversprechende Applikations-Sicherheits-Forschungsprojekte
-
 Region / Chapter: Offen und für jedermann
-- Erarbeiten Materialien, Konferenzen (Räumlichkeiten), etc
-
-Leader: Leitung des Chapters / Organisation etc.
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Was ist das Ziel?
@@ -43,37 +17,56 @@ Leader: Leitung des Chapters / Organisation etc.
 - Know How
 @ulend
 Note:
-- JuiceShop, WebGoat, ..
-- Slides / Wiki (Beispiele + Lösungen + Empfehlungen)
+- Web sicherer machen
+- Erarbeiten von Materialien
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
-### Gefahrenmodell
-![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
-$
-\frac {(AN + VB + AB)} {3} * tAU
-$
+### Was ist OWASP Top 10
+@ul
+- Unterprojekt
+- schwerwiegenste Schwachstellen
+@ulend
 Note:
-Bedrohungsquelle: 
-- Wer: potentielle Angreifer (Script Kiddie,  Cybercriminal, State Sponsored Hacker)
-- Was/Wo: Anzahl, Schnittstellen, Sicherheitszustand
-- AN: Angriffsvektor
-- VB: Verbreitung
-- AB: Aufindbarkeit
-- tAU: technische Auswirkungen
+- Sensibilisierung
+- Tools (ZAP-proxy)
+- Wiki: Know How - Vorbeugemassnahmen
++++?image=res/light_bulb.jpg&size=cover&opacity=40
 
-Angriffsvektoren:
-- Ausnutzbarkeit: Schwierigkeit des Angriffs / benötigte Infrastruktur
+### Open Web Application Security Project Top 10 2017
+@ul
+- A1: Injection
+- A2: Broken Authentication
+- A3: Sensitive Data Exposure
+- A4: XML External Entities
+- A5: Broken Access Control
+- A6: Security Misconfigurarion
+- A7: Cross-Site Scripting
+- A8: Insecure Deserialization
+- A9: Using Components with Known Vulnerabilities
+- A10: Insufficient Logging & Monitoring
+@ulend
 
-Schwachstelle:
-- Verbreitung: Anzahl, alter / neuer Code
-- Auffindbarkeit: Wahrscheinlichkeit Entdeckung
+Note:
 
-Technische Auswirkungen:
-- Systembezogne Möglichkeiten (Daten lesen / manipulieren / Funktionen ausführen / Systemzugriff)
++++?image=res/light_bulb.jpg&size=cover&opacity=40
+### Gefahrenmodell (Top 10 Rating)
+![Gefahrenmodell](/res/PNGs/OWASP10-Risks.png)
+Note:
+Beispiel: Injection
+Fast alle Datenquellen sind Agriffsvektoren
+- Environment Variabeln, Parameter, ext. & int. web services,vers. User
+- Injection titt auf wenn Metazeichen an Interpreter geschickt werden können
 
-Auswirkungen Unternehmen:
-- Schaden für Unternehemen: Image, Bussen (GDPR?), Firmengeheimnisse, Finanzen
+Injection ist verbreitet (legacy code)
+- SQL LDAP, XPath or NoSQL queries
+- OS commands, XML parsers, SMTP headers
 
+Injection leicht zu entdecken (Quellcode)
+
+Injection:
+- Datenverlust
+- Zugriff / Manipulation
+- Systemübernahme
 
 ---?image=res/injection.png&size=cover&opacity=80
 # @color[#282828](**A1: Injection**)
@@ -99,6 +92,15 @@ Auswirkungen Unternehmen:
 </canvas>
 
 +++?image=res/injection.png&size=cover&opacity=45
+### Recent Injections
+- 2018 Joomla
+- 2017 GoDaddy (WAF)
+- 2017 WordPress
+- 2017 Equifax
+- 2016 Italienische Regierungswebseite
+
+
++++?image=res/injection.png&size=cover&opacity=45
 ### SQL-Interaction: User, WebApp and Server
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
 Note:
@@ -108,7 +110,7 @@ Note:
 - Applikation rendert? Antwort
 
 +++?image=res/injection.png&size=cover&opacity=45
-@size[1.3em](SQL-Injection: Target and Impact)
+### Injection: Vorkommen und Auswirkungen
 
 <br>
 
@@ -326,6 +328,21 @@ Note:
 ![SecCookie](/res/PNGs/SecuringCookies.png)
 
 +++
-Test
+standart font
 <br>
-@css[test-font](Test)
+@css[oSans](Open Sans, sans-serif)
+<br>
+@css[jSans](Jua, sans-serif)
+<br>
+@css[wSans](Work Sans, sans-serif)
+<br>
+@css[fSans](Fjalla One, sans-serif)
+<br>
+@css[aSans](Acme, sans-serif)
+<br>
+@css[cCursive](Concert One, cursive)
+<br>
+@css[rCursive](Righteous, cursive)
+
+---?image=/res/Data_Exposure.jpg&size=cover&opacity=50
+# @color[#282828](**A3: Sensitive Data Exposure**)
