@@ -35,7 +35,7 @@ Note:
 
 ### Open Web Application Security Project Top 10 2017
 @ul
-- @size[0.5em](A1: Injection)
+- @size[1.em](A1: Injection)
 - A2: Broken Authentication
 - A3: Sensitive Data Exposure
 - A4: XML External Entities
