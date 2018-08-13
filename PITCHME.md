@@ -48,6 +48,11 @@ Injection ist verbreitet (legacy code)
 
 Injection leicht zu entdecken (Quellcode)
 
+Injection:
+- Datenverlust
+- Zugriff / Manipulation
+- Systemübernahme
+
 ---?image=res/injection.png&size=cover&opacity=80
 # @color[#282828](**A1: Injection**)
 
