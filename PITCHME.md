@@ -1,39 +1,14 @@
 ---?image=/res/owasp_logo.jpg&size=contain&color=black
 
-+++?color=lightgray
-## Agenda
-1. Einleitung zu OWASP
-
-2. A1 to A10
-  1. Was ist A*
-  2. Angriffsvektoren
-  3. Demo
-  4. Verteidigungsmassnahmen
-
-3. Zusammenfassung
-
-
 ---?image=res/light_bulb.jpg&size=cover&opacity=60
 # @color[#282828](**Einleitung**)
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Wer ist OWASP?
-<br>
-@ul
-- Community
-- Chapter (Region)
-- Leader
-@ulend
 Note:
 Community: Firmen, Bildungseinrichtungen und Einzelpersonen aller Welt
-- Konferenzen, Sponsoring, Werbebanner
-- 5 Angestellte
-- Prämien für vielversprechende Applikations-Sicherheits-Forschungsprojekte
-
 Region / Chapter: Offen und für jedermann
 - Erarbeiten Materialien, Konferenzen (Räumlichkeiten), etc
-
-Leader: Leitung des Chapters / Organisation etc.
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Was ist das Ziel?
@@ -44,40 +19,28 @@ Leader: Leitung des Chapters / Organisation etc.
 - OpenSource / frei
 @ulend
 Note:
-- JuiceShop, WebGoat, ..
-- Slides / Wiki (Beispiele + Lösungen + Empfehlungen)
+- Web sicherer machen
+- Erarbeiten von Materialien
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
-### Gefahrenmodell
-![Gefahrenmodell](/res/PNGs/OWASP_Gefahrenmodell.png)
-$
-\frac {(AN + VB + AB)} {3} * tAU
-$
+### Was ist OWASP Top 10
+@ul
+- Unterprojekt
+- schwerwiegenste Schwachstellen
+@ulend
 Note:
-Bedrohungsquelle: 
-- Wer: potentielle Angreifer (Script Kiddie,  Cybercriminal, State Sponsored Hacker)
-- Was/Wo: Anzahl, Schnittstellen, Sicherheitszustand (alter / neuer Code)
+- Sensibilisierung
+- Tools (ZAP-proxy)
+- Wiki: Know How - Vorbeugemassnahmen
 
-Angriffsvektoren:
-- Ausnutzbarkeit: Schwierigkeit des Angriffs / benötigte Infrastruktur
-
-Schwachstelle:
-- Verbreitung: Anzahl
-- Auffindbarkeit: Wahrscheinlichkeit Entdeckung
-
-Technische Auswirkungen:
-- Systembezogne Möglichkeiten (Daten lesen / manipulieren / Funktionen ausführen / Systemzugriff)
-
-Auswirkungen Unternehmen:
-- Schaden für Unternehemen: Image, Bussen (GDPR?), Firmengeheimnisse, Finanzen
-
-Formel:
-- AN: Angriffsvektor
-- VB: Verbreitung
-- AB: Aufindbarkeit
-- tAU: technische Auswirkungen
-
-
++++?image=res/light_bulb.jpg&size=cover&opacity=40
+### Gefahrenmodell (Top 10 Rating)
+![Gefahrenmodell](/res/PNGs/OWASP10-Risks.png)
+Note:
+Beispiel: Injection
+Fast alle Datenquellen sind Agriffsvektoren
+- Environment Variabeln, Parameter, ext. & int. web services,vers. User
+- Injection titt auf wenn Metazeichen an Interpreter geschickt werden können
 ---?image=res/injection.png&size=cover&opacity=80
 # @color[#282828](**A1: Injection**)
 
