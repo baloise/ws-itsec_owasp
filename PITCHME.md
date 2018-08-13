@@ -345,5 +345,28 @@ standart font
 <br>
 @css[rCursive](Righteous, cursive)
 
----?image=/res/Data_Exposure.jpg&size=cover&opacity=60
+---?image=/res/Data_Exposure.jpg&size=cover&opacity=50
 # @color[#282828](**A3: Sensitive Data Exposure**)
+
++++?image=/res/Data_Exposure.jpg&size=cover&opacity=30
+@size[1.3em](Sensitive Data Exposure 2004 - 2017)
+<canvas data-chart="line">
+<!-- 
+{
+ "data": {
+  "labels": [" 2013"," 2017"],
+  "datasets": [
+   {
+    "data":[5,8],
+    "label":"Trend (Sensitive Data Exposure","backgroundColor":"rgba(20,220,220,.8)"
+   },
+   {
+    "data":[2],
+    "label":"","backgroundColor":"rgba(0,0,0,.0)"
+   }
+  ]
+ }, 
+ "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }] } }
+}
+-->
+</canvas>
