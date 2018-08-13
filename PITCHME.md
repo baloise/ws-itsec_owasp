@@ -8,7 +8,6 @@
 Note:
 Community: Firmen, Bildungseinrichtungen und Einzelpersonen aller Welt
 Region / Chapter: Offen und für jedermann
-- Erarbeiten Materialien, Konferenzen (Räumlichkeiten), etc
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Was ist das Ziel?
@@ -32,6 +31,22 @@ Note:
 - Sensibilisierung
 - Tools (ZAP-proxy)
 - Wiki: Know How - Vorbeugemassnahmen
++++?image=res/light_bulb.jpg&size=cover&opacity=40
+
+### OWASP Top 10 2017
+@ul
+- A1: Injection
+- A2: Broken Authentication
+- A3: Sensitive Data Exposure
+- A4: XML External Entities
+- A5: Broken Access Controll
+- A6: Security Misconfigurarion
+- A7: Cross-Site Scripting
+- A8: Insecure Deserialization
+- A9: Using Components with Known Vulnerabilities
+- A10: Insufficient Logging & Monitoring
+@ulend
+Note:
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 ### Gefahrenmodell (Top 10 Rating)
