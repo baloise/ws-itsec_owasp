@@ -34,9 +34,8 @@ Note:
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
 
 ### Open Web Application Security Project Top 10 2017
-@css[slide-title](
 @ol
-- A1: Injection
+- @css[slide-title](A1: Injection)
 - A2: Broken Authentication
 - A3: Sensitive Data Exposure
 - A4: XML External Entities
@@ -47,7 +46,7 @@ Note:
 - A9: Using Components with Known Vulnerabilities
 - A10: Insufficient Logging & Monitoring
 @olend
-)
+
 Note:
 
 +++?image=res/light_bulb.jpg&size=cover&opacity=40
