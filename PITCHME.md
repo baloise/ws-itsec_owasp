@@ -41,6 +41,13 @@ Beispiel: Injection
 Fast alle Datenquellen sind Agriffsvektoren
 - Environment Variabeln, Parameter, ext. & int. web services,vers. User
 - Injection titt auf wenn Metazeichen an Interpreter geschickt werden können
+
+Injection ist verbreitet (legacy code)
+- SQL LDAP, XPath or NoSQL queries
+- OS commands, XML parsers, SMTP headers
+
+Injection leicht zu entdecken (Quellcode)
+
 ---?image=res/injection.png&size=cover&opacity=80
 # @color[#282828](**A1: Injection**)
 
