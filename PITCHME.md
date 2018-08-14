@@ -1,15 +1,15 @@
 ---?image=/res/owasp_logo.jpg&size=contain&color=black
 
----?image=res/light_bulb.jpg&size=cover&opacity=60
+---?image=res/light_bulbO60.jpg&size=cover
 # @color[#282828](**Einleitung**)
 
-+++?image=res/light_bulb.jpg&size=cover&opacity=40
++++?image=res/light_bulbO40.jpg&size=cover
 ### Wer ist OWASP?
 Note:
 Community: Firmen, Bildungseinrichtungen und Einzelpersonen aller Welt
 Region / Chapter: Offen und für jedermann
 
-+++?image=res/light_bulb.jpg&size=cover&opacity=40
++++?image=res/light_bulbO40.jpg&size=cover
 ### Was ist das Ziel?
 <br>
 @ul
@@ -20,7 +20,7 @@ Note:
 - Web sicherer machen
 - Erarbeiten von Materialien
 
-+++?image=res/light_bulb.jpg&size=cover&opacity=40
++++?image=res/light_bulbO40.jpg&size=cover
 ### Was ist OWASP Top 10
 @ul
 - Unterprojekt
@@ -30,8 +30,8 @@ Note:
 - Sensibilisierung
 - Tools (ZAP-proxy)
 - Wiki: Know How - Vorbeugemassnahmen
-+++?image=res/light_bulb.jpg&size=cover&opacity=40
 
++++?image=res/light_bulbO40.jpg&size=cover
 ### Open Web Application Security Project Top 10 2017
 @ul
 - A1: Injection
@@ -48,7 +48,7 @@ Note:
 
 Note:
 
-+++?image=res/light_bulb.jpg&size=cover&opacity=40
++++?image=res/light_bulbO40.jpg&size=cover
 ### Gefahrenmodell (Top 10 Rating)
 ![Gefahrenmodell](/res/PNGs/OWASP10-Risks.png)
 Note:
@@ -68,10 +68,10 @@ Injection:
 - Zugriff / Manipulation
 - Systemübernahme
 
----?image=res/injection.png&size=cover&opacity=80
+---?image=res/injectionO80.png&size=cover
 # @color[#282828](**A1: Injection**)
 
-+++?image=res/injection.png&size=cover&opacity=45
++++?image=res/injectionO45.png&size=cover
 @size[1.5em](Injection - Historie)
 
 <canvas data-chart="line">
@@ -91,7 +91,7 @@ Injection:
 -->
 </canvas>
 
-+++?image=res/injection.png&size=cover&opacity=45
++++?image=res/injectionO45.png&size=cover
 ### Recent Injections
 - 2018 Joomla
 - 2017 GoDaddy (WAF)
@@ -100,7 +100,7 @@ Injection:
 - 2016 Italienische Regierungswebseite
 
 
-+++?image=res/injection.png&size=cover&opacity=45
++++?image=res/injectionO45.png&size=cover
 ### SQL-Interaction: User, WebApp and Server
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
 Note:
@@ -109,7 +109,7 @@ Note:
 - SQL-Server: Verarbeitung Abfrage & Antwort
 - Applikation rendert? Antwort
 
-+++?image=res/injection.png&size=cover&opacity=45
++++?image=res/injectionO45.png&size=cover
 ### Injection: Vorkommen und Auswirkungen
 
 <br>
@@ -129,7 +129,7 @@ Note:
   @ulend
 
 
-+++?image=res/injection.png&size=cover&opacity=45
++++?image=res/injectionO45.png&size=cover
 ### SQL-Injection: Attack
 ![SQL-Injection](/res/PNGs/SQL_Injection.png)
 Note:
@@ -141,15 +141,9 @@ Injection:
 - Parameter eingesetzt
 - Statement ergänzt "oder" (4=4)
 
-+++?image=res/injection.png&size=cover&opacity=45
++++?image=res/injectionO45.png&size=cover
 ## @size[1.5em](Demo Injection)
-
-
-
 @css[demo](**Login Bypass**)
-
-
-
 @css[demo](**Command Injection**)
 
 Note:
@@ -158,7 +152,7 @@ Insecure Web App
 Damm Vulnerable Web Application
 - file erstellen
 
-+++?image=res/injection.png&size=cover&opacity=45
++++?image=res/injectionO45.png&size=cover
 ## Massnahmen
 
 +++?code=res/snippets/prepeared-statements.java&lang=java&title=Prepared Statements (Java)
@@ -199,10 +193,10 @@ Note:
 - Encoder für userID und pwd anwenden
 
 
----?image=/res/broken_auth.jpg&size=cover&opacity=60
+---?image=/res/broken_authO60.jpg&size=cover
 # @color[#282828](**A2: Broken Authentication**)
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 @size[1.2em](Broken Authentication - Historie)
 
 <canvas data-chart="line">
@@ -226,13 +220,13 @@ Note:
 -->
 </canvas>
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Überblick
 ![BrokenAuthOverview](res/PNGs/Broken_Auth-Overview.png)
 Note:
 - Credential Stuffing: bekannte Kombis (mail+pw)
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Brute Force
 ![BruteForceLogin](res/PNGs/BruteForce-Login.png)
 Note:
@@ -241,26 +235,26 @@ Note:
 - Falsches etwas
 
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Passwort wiederherstellen
 ![RecQuestion1](res/PNGs/SecurityQuestion1.png)
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Passwort wiederherstellen
 ![RecQuestion2](res/PNGs/SecurityQuestion2.png)
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Passwort wiederherstellen
 ![RecQuestion3](res/PNGs/SecurityQuestion3.png)
 
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Cookie: UserID
 ![CookieParameter1](/res/PNGs/CookieParameter1.png)
 Note:
 - Admin Login -Server> Cookie UserID=1
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Cookie: UserID
 ![CookieParameter2](/res/PNGs/CookieParameter2.png)
 Note:
@@ -269,12 +263,12 @@ Note:
 - Problem: Validierung userID = username/sessID/etc.
 
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Session Fixation
 ![SessionFix](/res/PNGs/Session_Fixation.png)
 
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ## @size[1.5em](Demo Broken Authentication)
 
 @css[demo](**Brute Force Attack**)
@@ -285,15 +279,15 @@ Note:
 - BurpSuite
 - Mutillidae
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ## Massnahmen
 
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Multi-Faktor Authentication
 ![MultiFactor](/res/PNGs/MultiFactor.png)
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Session Management
 <br>
 @ul
@@ -304,7 +298,7 @@ Note:
 - ID Inhalt ≠ sensitive Daten
 @ulend
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Brute Force verzögern
 <br>
 @ul
@@ -316,11 +310,11 @@ Note:
 - Einheitliche Fehlermeldung
 @ulend
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Passwörter und Sicherheitsfragen
 ![PwdSec](/res/PNGs/PwdSec.png)
 
-+++?image=/res/broken_auth.jpg&size=cover&opacity=40
++++?image=/res/broken_auth=O40.jpg&size=cover
 ### Securing Cookies
 ![SecCookie](/res/PNGs/SecuringCookies.png)
 
@@ -341,10 +335,10 @@ standart font
 <br>
 @css[rCursive](Righteous, cursive)
 
----?image=/res/Data_Exposure.jpg&size=cover&opacity=45
+---?image=/res/Data_ExposureO60.jpg&size=cover
 # @color[#282828](**A3: Sensitive Data Exposure**)
 
-+++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
++++?image=/res/Data_ExposureO40.jpg&size=cover
 @size[1.3em](Sensitive Data Exposure - Historie)
 <canvas data-chart="line">
 <!-- 
@@ -367,7 +361,7 @@ standart font
 -->
 </canvas>
 
-+++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
++++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Beispiele
 @ul
 - Sensitive Daten - 198 Milionen US-Wähler (2017)
@@ -375,22 +369,22 @@ standart font
 - Exactis: sensitive Daten - 340 Milionen Records (2018)
 @ulend
 
-+++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
++++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unverschlüsselter Traffic
 ![SensDataExp](/res/PNGs/Sensitive_Data_Exposure.png)
 
-+++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
++++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unzureichend geschützter Traffic
 - SSL/TLS attacks (Heartbleed)
 - MiM low encrypted (sslStrip)
 
-+++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
++++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unverschlüsselte + ungeschützte Daten
 - Web Storage (ie. S3)
 - Social Media
 - Google Hacking (+?Shodan)
 
-+++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
++++?image=/res/Data_ExposureO40.jpg&size=cover
 ## @size[1.5em](Demo Sensitive Data Exposure)
 @css[demo](**Demo1**)
 @css[demo](**Demo2**)
