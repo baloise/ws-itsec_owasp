@@ -382,10 +382,14 @@ standart font
 +++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
 ### Unverschlüsselter Traffic
 - MiM unencrypted
+
++++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
+### Unzureichend geschützter Traffic
+- SSL/TLS attacks (Heartbleed)
 - MiM low encrypted (sslStrip)
 
 +++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
-### Unverschlüsselte und nicht geschützte Daten
+### Unverschlüsselte + ungeschützte Daten
 - Web Storage (ie. S3)
 - Social Media
 
@@ -397,3 +401,4 @@ Note:
 - Google Hacking
 - MiM Proxy (Pineapple + sslStrip?)
 - ?social mapper
+- Heartbleed
