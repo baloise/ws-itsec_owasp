@@ -384,8 +384,12 @@ standart font
 ![Heartbeat-concept](/res/PNGs/Heartbeat-concept.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Heartbeat vs Heartbleed
-![Heartbeat](/res/PNGs/Heartbeat_vs_Heartbleed.png)
+### Heartbeat vs Heartbleed (1)
+![Heartbeat](/res/PNGs/Heartbeat.png)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Heartbeat vs Heartbleed (2)
+![Heartbleed](/res/PNGs/Heartbleed.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Misconfigured encryption (ssl-strip)
