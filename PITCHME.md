@@ -144,6 +144,7 @@ Injection:
 +++?image=res/injectionO45.png&size=cover
 ## @size[1.5em](Demo Injection)
 @css[demo](**Login Bypass**)
+<br>
 @css[demo](**Command Injection**)
 
 Note:
@@ -272,6 +273,7 @@ Note:
 ## @size[1.5em](Demo Broken Authentication)
 
 @css[demo](**Brute Force Attack**)
+<br>
 @css[demo](**Playing with Cookies**)
 
 Note:
@@ -387,6 +389,7 @@ standart font
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ## @size[1.5em](Demo Sensitive Data Exposure)
 @css[demo](**Demo1**)
+<br>
 @css[demo](**Demo2**)
 Note: 
 - Google Hacking
