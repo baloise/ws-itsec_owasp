@@ -278,9 +278,6 @@ Note:
 ## @size[1.5em](Demo Broken Authentication)
 
 @css[demo](**Brute Force Attack**)
-
-
-
 @css[demo](**Playing with Cookies**)
 
 Note:
@@ -382,3 +379,21 @@ standart font
 - Exactis: sensitive Daten - 340 Milionen Records (2018)
 @ulend
 
++++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
+### Unverschlüsselter Traffic
+- MiM unencrypted
+- MiM low encrypted (sslStrip)
+
++++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
+### Unverschlüsselte und nicht geschützte Daten
+- Web Storage (ie. S3)
+- Social Media
+
++++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
+## @size[1.5em](Demo Broken Authentication)
+@css[demo](**Demo1**)
+@css[demo](**Demo2**)
+Note: 
+- Google Hacking
+- MiM Proxy (Pineapple + sslStrip?)
+- ?social mapper
