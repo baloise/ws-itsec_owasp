@@ -376,6 +376,10 @@ standart font
 ![SensDataExp](/res/PNGs/Sensitive_Data_Exposure.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
+### latly on SSL/TLS
+![SSL-TLSp](/res/PNGs/SSL-TLS_attacks_timeline.png)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unzureichend geschützter Traffic
 - SSL/TLS attacks (Heartbleed)
 - MiM low encrypted (sslStrip)
