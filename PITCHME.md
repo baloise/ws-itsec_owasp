@@ -384,7 +384,7 @@ standart font
 ![Heartbeat](/res/PNGs/Heartbeat-concept.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### MiM misconfigured encryption (ssl-strip)
+### Misconfigured encryption (ssl-strip)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unverschlüsselte + ungeschützte Daten
@@ -399,6 +399,6 @@ standart font
 @css[demo](**Demo2**)
 Note: 
 - Google Hacking
-- MiM Proxy (Pineapple + sslStrip?)
+- MiM Proxy (Pineapple + ssl-strip?)
 - ?social mapper
 - Heartbleed
