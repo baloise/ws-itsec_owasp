@@ -368,10 +368,6 @@ standart font
 </canvas>
 
 +++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
-### Überblick
-![SensDataExp](/res/PNGs/Sensitive_Data_Exposure.png)
-
-+++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
 ### Beispiele
 @ul
 - Sensitive Daten - 198 Milionen US-Wähler (2017)
@@ -381,6 +377,7 @@ standart font
 
 +++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
 ### Unverschlüsselter Traffic
+![SensDataExp](/res/PNGs/Sensitive_Data_Exposure.png)
 - MiM unencrypted
 
 +++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
@@ -395,7 +392,7 @@ standart font
 - Google Hacking (+?Shodan)
 
 +++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
-## @size[1.5em](Demo Broken Authentication)
+## @size[1.5em](Demo Sensitive Data Exposure)
 @css[demo](**Demo1**)
 @css[demo](**Demo2**)
 Note: 
