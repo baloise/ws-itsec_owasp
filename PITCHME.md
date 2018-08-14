@@ -196,7 +196,7 @@ Note:
 ---?image=/res/broken_authO60.jpg&size=cover
 # @color[#282828](**A2: Broken Authentication**)
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 @size[1.2em](Broken Authentication - Historie)
 
 <canvas data-chart="line">
@@ -220,13 +220,13 @@ Note:
 -->
 </canvas>
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Überblick
 ![BrokenAuthOverview](res/PNGs/Broken_Auth-Overview.png)
 Note:
 - Credential Stuffing: bekannte Kombis (mail+pw)
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Brute Force
 ![BruteForceLogin](res/PNGs/BruteForce-Login.png)
 Note:
@@ -235,26 +235,26 @@ Note:
 - Falsches etwas
 
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Passwort wiederherstellen
 ![RecQuestion1](res/PNGs/SecurityQuestion1.png)
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Passwort wiederherstellen
 ![RecQuestion2](res/PNGs/SecurityQuestion2.png)
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Passwort wiederherstellen
 ![RecQuestion3](res/PNGs/SecurityQuestion3.png)
 
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Cookie: UserID
 ![CookieParameter1](/res/PNGs/CookieParameter1.png)
 Note:
 - Admin Login -Server> Cookie UserID=1
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Cookie: UserID
 ![CookieParameter2](/res/PNGs/CookieParameter2.png)
 Note:
@@ -263,12 +263,12 @@ Note:
 - Problem: Validierung userID = username/sessID/etc.
 
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Session Fixation
 ![SessionFix](/res/PNGs/Session_Fixation.png)
 
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ## @size[1.5em](Demo Broken Authentication)
 
 @css[demo](**Brute Force Attack**)
@@ -279,15 +279,15 @@ Note:
 - BurpSuite
 - Mutillidae
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ## Massnahmen
 
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Multi-Faktor Authentication
 ![MultiFactor](/res/PNGs/MultiFactor.png)
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Session Management
 <br>
 @ul
@@ -298,7 +298,7 @@ Note:
 - ID Inhalt ≠ sensitive Daten
 @ulend
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Brute Force verzögern
 <br>
 @ul
@@ -310,11 +310,11 @@ Note:
 - Einheitliche Fehlermeldung
 @ulend
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Passwörter und Sicherheitsfragen
 ![PwdSec](/res/PNGs/PwdSec.png)
 
-+++?image=/res/broken_auth=O40.jpg&size=cover
++++?image=/res/broken_authO40.jpg&size=cover
 ### Securing Cookies
 ![SecCookie](/res/PNGs/SecuringCookies.png)
 
