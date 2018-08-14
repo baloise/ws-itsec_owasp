@@ -383,6 +383,10 @@ standart font
 ### Heartbeat (keep-alive)
 ![Heartbeat](/res/PNGs/Heartbeat-concept.png)
 
+### Heartbeat vs Heartbleed
+![Heartbeat](/res/PNGs/Heartbeat_vs_Heartbleed.png)
+
+
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Misconfigured encryption (ssl-strip)
 
