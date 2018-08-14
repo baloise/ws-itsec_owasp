@@ -377,16 +377,18 @@ standart font
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### latly on SSL/TLS
-![SSL-TLSp](/res/PNGs/SSL-TLS_attacks_timeline.png)
+![SSL-TLS](/res/PNGs/SSL-TLS_attacks_timeline.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Unzureichend geschützter Traffic
-- SSL/TLS attacks (Heartbleed)
-- MiM low encrypted (sslStrip)
+### Heartbeat & Heartbleed (keep-alive)
+![Heartbeat](/res/PNGs/Heartbeat concept.png)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### MiM misconfigured encryption (ssl-strip)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unverschlüsselte + ungeschützte Daten
-- Web Storage (ie. S3)
+- Web Storage (ie. AWS Bucket S3)
 - Social Media
 - Google Hacking (+?Shodan)
 
