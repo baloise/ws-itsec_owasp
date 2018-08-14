@@ -381,7 +381,7 @@ standart font
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Heartbeat (keep-alive)
-![Heartbeat](/res/PNGs/Heartbeat-concept.png)
+![Heartbeat-concept](/res/PNGs/Heartbeat-concept.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Heartbeat vs Heartbleed
@@ -389,6 +389,7 @@ standart font
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Misconfigured encryption (ssl-strip)
+![ssl-strip](/res/PNGs/ssl-strip.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unverschlüsselte + ungeschützte Daten
