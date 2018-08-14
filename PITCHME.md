@@ -381,7 +381,7 @@ standart font
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Heartbeat & Heartbleed (keep-alive)
-![Heartbeat](/res/PNGs/Heartbeat concept.png)
+![Heartbeat](/res/PNGs/Heartbeat-concept.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### MiM misconfigured encryption (ssl-strip)
