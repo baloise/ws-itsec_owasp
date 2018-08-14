@@ -392,6 +392,7 @@ standart font
 ### Unverschlüsselte + ungeschützte Daten
 - Web Storage (ie. S3)
 - Social Media
+- Google Hacking (+?Shodan)
 
 +++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
 ## @size[1.5em](Demo Broken Authentication)
