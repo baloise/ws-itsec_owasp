@@ -378,7 +378,6 @@ standart font
 +++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
 ### Unverschlüsselter Traffic
 ![SensDataExp](/res/PNGs/Sensitive_Data_Exposure.png)
-- MiM unencrypted
 
 +++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
 ### Unzureichend geschützter Traffic
