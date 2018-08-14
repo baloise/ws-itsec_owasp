@@ -380,7 +380,7 @@ standart font
 ![SSL-TLS](/res/PNGs/SSL-TLS_attacks_timeline.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Heartbeat & Heartbleed (keep-alive)
+### Heartbeat (keep-alive)
 ![Heartbeat](/res/PNGs/Heartbeat-concept.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
