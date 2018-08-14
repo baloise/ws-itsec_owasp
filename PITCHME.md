@@ -373,3 +373,10 @@ standart font
 +++?image=/res/Data_Exposure.jpg&size=cover&opacity=35
 ### Überblick
 ![SensDataExp](/res/PNGs/Sensitive_Data_Exposure.png)
+
+### Beispiele
+@ul
+- Sensitive Daten - 198 Milionen US-Wähler (2017)
+- Verizon: Logs, Logindaten, config-Dateien (2017)
+- Exactis: sensitive Daten - 340 Milionen Records (2018)
+@ulend
