@@ -467,6 +467,7 @@ Max Mustermann
 
 +++?image=/res/xxeO20.png&size=cover
 ### Netzwerk-Zugang
+![access-netfile](/res/PNGs/entity-access-network.png)&title=Netzwerk Zugang
 
 +++?code=/res/snippets/access-network.xml&title=Netzwerk Zugang (XML)
 @[1]
