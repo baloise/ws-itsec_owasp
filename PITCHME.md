@@ -475,7 +475,7 @@ Max Mustermann
 
 +++?image=/res/xxeO10.png&size=cover
 ### Out of band XXE
-![oob-xxe](/res/PNGs/oob-xxe.png)
+![oob-xxe](/res/PNGs/entity-oob.png)
 
 +++?code=/res/snippets/oob-xxe.xml&title=Out of band XXE (XML)
 
