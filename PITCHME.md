@@ -398,7 +398,7 @@ standart font
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe: 
 #### AWS S3 Bucket
-![s3-bucket](/res/leaking-bucket.jpg)
+![s3-bucket](/res/PNGs/leaking-bucket.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unverschlüsselte &-geschützte Daten: AWS S3 Bucket
