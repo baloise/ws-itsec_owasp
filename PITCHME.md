@@ -444,7 +444,7 @@ Note:
 +++?image=/res/xxeO20.png&size=cover
 ### Entity Example
 
-+++?code=/res/snippets/xxe-example.xml&lang=java&title=Entity Example (XML)
++++?code=/res/snippets/xxe-example.xml&lang=xml&title=Entity Example (XML)
 @[1]
 @[2]
 @[2,5]
@@ -453,6 +453,9 @@ Note:
 
 +++?image=/res/xxeO20.png&size=cover
 ### Denial of Service
+
++++?code=/res/snippets/billion-laughs.xml&lang=xml&title=Billion Laughs (XML)
+@[1]
 
 +++?image=/res/xxeO20.png&size=cover
 ### Daten Zugriff
