@@ -402,15 +402,9 @@ standart font
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe: 
-#### Social Media
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
-### Daten in Ruhe: 
 #### Google Hacking
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
-### Daten in Ruhe: 
 #### Shodan
+#### Social Media
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ## @size[1.5em](Demo Sensitive Data Exposure)
