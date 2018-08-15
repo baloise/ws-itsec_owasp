@@ -435,3 +435,8 @@ Note:
   - kein export-grade support
 - keine 302 Redirects
 - HTTP Strict Transport Security
+
+
+
+---?image=/res/xxeO80.png&size=cover
+# @color[#282828](**A4: XML External Entity**)
