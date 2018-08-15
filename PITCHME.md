@@ -397,9 +397,10 @@ standart font
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unverschlüsselte + ungeschützte Daten
-- Web Storage (ie. AWS Bucket S3)
+- Web Storage (ie: S3 Bucket)
 - Social Media
-- Google Hacking (+?Shodan)
+- Google Hacking 
+- Shodan
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ## @size[1.5em](Demo Sensitive Data Exposure)
