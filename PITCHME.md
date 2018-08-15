@@ -429,12 +429,9 @@ Note:
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Transport:
 - Immer verschlüsselt
-<br>
 - Verschlüsselung: 
   - ≥TLS1.1
   - kein RC4 support
   - kein export-grade support
-<br>
 - keine 302 Redirects
-<br>
 - HTTP Strict Transport Security
