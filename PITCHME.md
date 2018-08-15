@@ -472,10 +472,12 @@ Max Mustermann
 +++?code=/res/snippets/access-network.xml&title=Netzwerk Zugang (XML)
 @[1]
 
-+++?code=/res/snippets/oob-xxe.xml&title=Out of band XXE (XML)
 
 +++?image=/res/xxeO10.png&size=cover
 ### Out of band XXE
+![oob-xxe](/res/PNGs/oob-xxe.png)
+
++++?code=/res/snippets/oob-xxe.xml&title=Out of band XXE (XML)
 
 +++?image=/res/xxeO10.png&size=cover
 ## @size[1.5em](Demo XML External Entity)
