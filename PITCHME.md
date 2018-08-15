@@ -449,7 +449,7 @@ Note:
 @[2]
 @[2,5]
 <br>
-?code=/res/snippets/xxe-example.xml&lang=xml&title=Test
+Max Mustermann
 
 +++?image=/res/xxeO20.png&size=cover
 ### Denial of Service
