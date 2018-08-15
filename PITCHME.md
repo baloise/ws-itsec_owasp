@@ -440,11 +440,14 @@ Note:
 
 ---?image=/res/xxeO40.png&size=cover
 # @color[#282828](**A4: XML External Entity**)
-+++?code=res/snippets/prepeared-statements.java&lang=java&title=Entity Example (XML)
+
++++?image=/res/xxeO20.png&size=cover
+### Entity Example
+
++++?code=/res/snippets/xxe-example.xml&lang=java&title=Entity Example (XML)
 @[1]
 @[2]
 @[2,5]
-
 -> Max Mustermann
 
 +++?image=/res/xxeO20.png&size=cover
