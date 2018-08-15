@@ -441,7 +441,7 @@ Note:
 ---?image=/res/xxeO40.png&size=cover
 # @color[#282828](**A4: XML External Entity**)
 
-+++?image=/res/xxeO20.png&size=cover
++++?image=/res/xxeO10.png&size=cover
 ### Entity Example
 
 +++?code=/res/snippets/xxe-example.xml&lang=xml&title=Entity Example (XML)
@@ -451,31 +451,31 @@ Note:
 <br>
 Max Mustermann
 
-+++?image=/res/xxeO20.png&size=cover
++++?image=/res/xxeO10.png&size=cover
 ### Denial of Service
 ![Billion_Laughs](/res/PNGs/entity-bil-lol.png)
 
 +++?code=/res/snippets/billion-laughs.xml&title=Billion Laughs (XML)
 @[1]
 
-+++?image=/res/xxeO20.png&size=cover
++++?image=/res/xxeO10.png&size=cover
 ### Dateien auslesen
 ![access-file](/res/PNGs/entity-access-file.png)&title=Dateien auslesen
 
 +++?code=/res/snippets/access-data.xml&title=Dateien auslesen (XML)
 @[1]
 
-+++?image=/res/xxeO20.png&size=cover
++++?image=/res/xxeO10.png&size=cover
 ### Netzwerk-Zugang
 ![access-netfile](/res/PNGs/entity-access-network.png)&title=Netzwerk Zugang
 
 +++?code=/res/snippets/access-network.xml&title=Netzwerk Zugang (XML)
 @[1]
 
-+++?image=/res/xxeO20.png&size=cover
++++?image=/res/xxeO10.png&size=cover
 ### Blind XXE
 
-+++?image=/res/xxeO20.png&size=cover
++++?image=/res/xxeO10.png&size=cover
 ## @size[1.5em](Demo XML External Entity)
 @css[demo](**Demo1**)
 <br>
