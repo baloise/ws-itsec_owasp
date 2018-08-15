@@ -438,5 +438,5 @@ Note:
 
 
 
----?image=/res/xxeO60.png&size=contain
+---?image=/res/xxeO50.png&size=cover
 # @color[#282828](**A4: XML External Entity**)
