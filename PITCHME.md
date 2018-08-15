@@ -396,7 +396,8 @@ standart font
 ![ssl-strip](/res/PNGs/ssl-strip.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Unverschlüsselte &-geschützte Daten: AWS S3 Bucket
+### Daten in Ruhe: 
+#### AWS S3 Bucket
 ![s3-bucket](/res/leaking-bucket.jpg)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
