@@ -401,16 +401,16 @@ standart font
 ![s3-bucket](/res/PNGs/leaking-bucket.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Unverschlüsselte &-geschützte Daten: AWS S3 Bucket
-- Social Media
+### Daten in Ruhe: 
+#### Social Media
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Unverschlüsselte &-geschützte Daten: AWS S3 Bucket
-- Google Hacking
+### Daten in Ruhe: 
+#### Google Hacking
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Unverschlüsselte &-geschützte Daten: AWS S3 Bucket 
-- Shodan
+### Daten in Ruhe: 
+#### Shodan
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ## @size[1.5em](Demo Sensitive Data Exposure)
