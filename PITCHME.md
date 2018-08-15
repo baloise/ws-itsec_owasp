@@ -430,5 +430,7 @@ Note:
 ### Daten in Transport:
 - Immer verschlüsselt
 - Verschlüsselung: ≥TLS1.1
+- Verschlüsselung: kein RC4 support
+- Verschlüsselung: kein export-grade support
 - keine 302 Redirects
 - HTTP Strict Transport Security
