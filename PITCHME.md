@@ -396,10 +396,19 @@ standart font
 ![ssl-strip](/res/PNGs/ssl-strip.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Unverschlüsselte + ungeschützte Daten
-- Web Storage (ie: S3 Bucket)
+### Unverschlüsselte &-geschützte Daten: AWS S3 Bucket
+![s3-bucket](/res/leaking-bucket.jpg)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Unverschlüsselte &-geschützte Daten: AWS S3 Bucket
 - Social Media
-- Google Hacking 
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Unverschlüsselte &-geschützte Daten: AWS S3 Bucket
+- Google Hacking
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Unverschlüsselte &-geschützte Daten: AWS S3 Bucket 
 - Shodan
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
