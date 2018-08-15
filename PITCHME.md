@@ -473,7 +473,7 @@ Max Mustermann
 @[1]
 
 +++?image=/res/xxeO10.png&size=cover
-### Blind XXE
+### Out of Band XXE
 
 +++?image=/res/xxeO10.png&size=cover
 ## @size[1.5em](Demo XML External Entity)
