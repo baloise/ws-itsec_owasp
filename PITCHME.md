@@ -454,11 +454,13 @@ Max Mustermann
 +++?image=/res/xxeO20.png&size=cover
 ### Denial of Service
 ![Billion_Laughs](/res/PNGs/entity-bil-lol.png)
+
 +++?code=/res/snippets/billion-laughs.xml&title=Billion Laughs (XML)
 @[1]
 
 +++?image=/res/xxeO20.png&size=cover
 ### Dateien auslesen
+![access-file](/res/PNGs/entity-access-file.png)&title=Dateien auslesen
 
 +++?code=/res/snippets/access-data.xml&title=Dateien auslesen (XML)
 @[1]
