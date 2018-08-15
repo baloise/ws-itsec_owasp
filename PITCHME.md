@@ -466,6 +466,9 @@ Note:
 +++?image=/res/xxeO20.png&size=cover
 ### Netzwerk-Zugang
 
++++?code=/res/snippets/access-network.xml&title=Netzwerk Zugang (XML)
+@[1]
+
 +++?image=/res/xxeO20.png&size=cover
 ### Blind XXE
 
