@@ -416,3 +416,19 @@ Note:
 - MiM Proxy (Pineapple + ssl-strip?)
 - ?social mapper
 - Heartbleed
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+## Massnahmen
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Daten in Ruhe:
+- Starke Verschlüsselung (AES / RSA)
+- Hashed, Salt & Pepper
+- Zugang absicheren
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Daten in Transport:
+- Immer verschlüsselt
+- Verschlüsselung: ≥TLS1.1
+- keine 302 Redirects
+- HTTP Strict Transport Security
