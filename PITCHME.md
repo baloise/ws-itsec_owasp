@@ -453,7 +453,7 @@ Max Mustermann
 
 +++?image=/res/xxeO20.png&size=cover
 ### Denial of Service
-
+![Billion_Laughs](/res/PNGs/entity-bil-lol.png)
 +++?code=/res/snippets/billion-laughs.xml&title=Billion Laughs (XML)
 @[1]
 
