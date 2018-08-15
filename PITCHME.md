@@ -458,7 +458,10 @@ Note:
 @[1]
 
 +++?image=/res/xxeO20.png&size=cover
-### Daten Zugriff
+### Dateien auslesen
+
++++?code=/res/snippets/access-data.xml&title=Dateien auslesen (XML)
+@[1]
 
 +++?image=/res/xxeO20.png&size=cover
 ### Netzwerk-Zugang
