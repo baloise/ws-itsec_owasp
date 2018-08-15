@@ -454,7 +454,7 @@ Note:
 +++?image=/res/xxeO20.png&size=cover
 ### Denial of Service
 
-+++?code=/res/snippets/billion-laughs.xml&lang=xml&title=Billion Laughs (XML)
++++?code=/res/snippets/billion-laughs.xml&title=Billion Laughs (XML)
 @[1]
 
 +++?image=/res/xxeO20.png&size=cover
