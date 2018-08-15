@@ -239,7 +239,7 @@ Note:
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Passwort wiederherstellen
 ![RecQuestion1](res/PNGs/SecurityQuestion1.png)
-
+example
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Passwort wiederherstellen
 ![RecQuestion2](res/PNGs/SecurityQuestion2.png)
@@ -440,9 +440,12 @@ Note:
 
 ---?image=/res/xxeO40.png&size=cover
 # @color[#282828](**A4: XML External Entity**)
++++?code=res/snippets/prepeared-statements.java&lang=java&title=Entity Example (XML)
+@[1]
+@[2]
+@[2,5]
 
-+++?image=/res/xxeO20.png&size=cover
-### Entity Example
+-> Max Mustermann
 
 +++?image=/res/xxeO20.png&size=cover
 ### Denial of Service
