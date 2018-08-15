@@ -440,3 +440,24 @@ Note:
 
 ---?image=/res/xxeO40.png&size=cover
 # @color[#282828](**A4: XML External Entity**)
+
++++?image=/res/xxeO20.png&size=cover
+### Entity Example
+
++++?image=/res/xxeO20.png&size=cover
+### Denial of Service
+
++++?image=/res/xxeO20.png&size=cover
+### Daten Zugriff
+
++++?image=/res/xxeO20.png&size=cover
+### Netzwerk-Zugang
+
++++?image=/res/xxeO20.png&size=cover
+### Blind XXE
+
++++?image=/res/xxeO20.png&size=cover
+## @size[1.5em](Demo XML External Entity)
+@css[demo](**Demo1**)
+<br>
+@css[demo](**Demo2**)
