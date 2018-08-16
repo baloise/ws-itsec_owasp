@@ -490,4 +490,19 @@ Max Mustermann
 
 +++?image=/res/xxeO10.png&size=cover
 ### DTDs (External Entities) deaktivieren
-factory.setFeature("http://apache.org/xml/features/disallow-doctype-decl", true);
+/features/disallow-doctype-decl: true
+
++++?image=/res/xxeO10.png&size=cover
+### Features abstellen (Java)
+#### Xerces 1
+- /external-general-entities 
+- /external-general-entities
+- /load-external-dtd
+
++++?image=/res/xxeO10.png&size=cover
+### Features abstellen (Java)
+#### Xerces 2
+- /disallow-doctype-decl
+- /external-general-entities
+- /external-parameter-entities
+- /load-external-dtd 
