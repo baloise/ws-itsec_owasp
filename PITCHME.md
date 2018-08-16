@@ -490,3 +490,4 @@ Max Mustermann
 
 +++?image=/res/xxeO10.png&size=cover
 ### DTDs (External Entities) deaktivieren
+factory.setFeature("http://apache.org/xml/features/disallow-doctype-decl", true);
