@@ -505,4 +505,4 @@ Max Mustermann
 - /disallow-doctype-decl
 - /external-general-entities
 - /external-parameter-entities
-- /load-external-dtd 
+- /load-external-dtd
