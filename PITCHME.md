@@ -484,3 +484,9 @@ Max Mustermann
 @css[demo](**Demo1**)
 <br>
 @css[demo](**Demo2**)
+
++++?image=/res/xxeO10.png&size=cover
+## Massnahmen
+
++++?image=/res/xxeO10.png&size=cover
+### DTDs (External Entities) deaktivieren
