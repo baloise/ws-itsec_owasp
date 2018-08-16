@@ -489,6 +489,9 @@ Max Mustermann
 ## Massnahmen
 
 +++?image=/res/xxeO10.png&size=cover
+### Vertrau User-Input nicht!
+
++++?image=/res/xxeO10.png&size=cover
 ### DTDs (External Entities) deaktivieren
 /features/disallow-doctype-decl: true
 
