@@ -433,8 +433,8 @@ Max Mustermann
 ![oob-xxe](/res/PNGs/entity-oob.png)
 
 +++?code=/res/snippets/oob-xxe.xml&title=Out of band XXE (XML)
-@[1-7]
-@[9-16]
+@[1:6]
+@[9:16]
 @[1, 4]
 @[1, 4-5]
 @[3, 10, 12]
