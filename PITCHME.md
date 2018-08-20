@@ -73,7 +73,7 @@ Injection:
 
 +++?image=res/injectionO45.png&size=cover
 ### Injection
-![arrow-up](/res/PNGs/trend-up.png)
+![arrow-up](/res/PNGs/trend-middle.png)
 
 +++?image=res/injectionO45.png&size=cover
 ### Recent Injections
