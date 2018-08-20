@@ -424,7 +424,8 @@ Max Mustermann
 ![access-netfile](/res/PNGs/entity-access-network.png)&title=Netzwerk Zugang
 
 +++?code=/res/snippets/access-network.xml&title=Netzwerk Zugang (XML)
-@[1]
+@[4]
+@[4, 5]
 
 
 +++?image=/res/xxeO10.png&size=cover
