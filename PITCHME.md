@@ -50,7 +50,7 @@ Note:
 
 +++?image=res/light_bulbO40.jpg&size=cover
 ### Gefahrenmodell (Top 10 Rating)
-![Gefahrenmodell](/res/PNGs/OWASP10-Risks.png)
+![Gefahrenmodell](/res/PNGs/OWASP10-Risks-transparent.png)
 Note:
 Beispiel: Injection
 Fast alle Datenquellen sind Agriffsvektoren
