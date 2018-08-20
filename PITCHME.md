@@ -204,7 +204,7 @@ Note:
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Passwort wiederherstellen
 ![RecQuestion1](res/PNGs/SecurityQuestion1.png)
-example
+
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Passwort wiederherstellen
 ![RecQuestion2](res/PNGs/SecurityQuestion2.png)
