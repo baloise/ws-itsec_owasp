@@ -76,7 +76,7 @@ Injection:
 ![arrow-up](/res/PNGs/trend-middle.png)
 
 +++?image=res/injectionO45.png&size=cover
-### Recent Injections
+### real-world Beispiele
 - 2018 Joomla
 - 2017 GoDaddy (WAF)
 - 2017 WordPress
@@ -309,7 +309,7 @@ standart font
 ![arrow-up](/res/PNGs/trend-up.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Beispiele
+### real-world Beispiele
 @ul
 - Sensitive Daten - 198 Milionen US-Wähler (2017)
 - Verizon: Logs, Logindaten, config-Dateien (2017)
