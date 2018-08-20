@@ -280,6 +280,7 @@ Note:
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Passwörter und Sicherheitsfragen
 ![PwdSec](/res/PNGs/PwdSec.png)
+*keine NIST Regelung
 
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Securing Cookies
