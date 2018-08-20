@@ -72,24 +72,8 @@ Injection:
 # @color[#282828](**A1: Injection**)
 
 +++?image=res/injectionO45.png&size=cover
-@size[1.5em](Injection - Historie)
-
-<canvas data-chart="line">
-<!-- 
-{
- "data": {
-  "labels": [" 2004"," 2007"," 2010"," 2013"," 2017"],
-  "datasets": [
-   {
-    "data":[5,9,10,10,10],
-    "label":"Trend Injection","backgroundColor":"rgba(20,220,220,.8)"
-   }
-  ]
- }, 
- "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }] } }
-}
--->
-</canvas>
+@size[1.5em](Injection)
+![arrow-up](/res/PNGs/trend-up.png)
 
 +++?image=res/injectionO45.png&size=cover
 ### Recent Injections
