@@ -182,28 +182,8 @@ Note:
 # @color[#282828](**A2: Broken Authentication**)
 
 +++?image=/res/broken_authO40.jpg&size=cover
-@size[1.2em](Broken Authentication - Historie)
-
-<canvas data-chart="line">
-<!-- 
-{
- "data": {
-  "labels": [" 2004"," 2007"," 2010"," 2013"," 2017"],
-  "datasets": [
-   {
-    "data":[8,4,8,9,9],
-    "label":"Trend Broken Authentication","backgroundColor":"rgba(20,220,220,.8)"
-   },
-   {
-    "data":[2],
-    "label":"","backgroundColor":"rgba(0,0,0,.0)"
-   }
-  ]
- }, 
- "options": { "responsive": true, "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }] } }
-}
--->
-</canvas>
+### Broken Authentication
+![arrow-middle](/res/PNGs/arrow-middle.png)
 
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Überblick
