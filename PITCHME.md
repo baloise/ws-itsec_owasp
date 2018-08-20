@@ -315,7 +315,7 @@ standart font
 @ul
 - Sensitive Daten - 198 Milionen US-Wähler (2017)
 - Verizon: Logs, Logindaten, config-Dateien (2017)
-- Exactis: sensitive Daten - 340 Milionen Records (2018)
+- Exactis: sens. Daten - 340 Milionen Records (2018)
 @ulend
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
