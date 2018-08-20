@@ -392,7 +392,7 @@ Note:
 ### Entities
 ![entites](/res/PNGs/entites.png)
 
-+++?code=/res/snippets/xxe-example.xml&lang=xml&title=Example Entity (XML)
++++?code=/res/snippets/xxe-example.xml&lang=xml&lang=xml&title=Example Entity (XML)
 @[1]
 @[2]
 @[2,5]
@@ -403,7 +403,7 @@ Max Mustermann
 ### Denial of Service
 ![Billion_Laughs](/res/PNGs/entity-bil-lol.png)
 
-+++?code=/res/snippets/billion-laughs.xml&title=Billion Laughs (XML)
++++?code=/res/snippets/billion-laughs.xml&lang=xml&title=Billion Laughs (XML)
 @[1]
 @[12]
 @[11]
@@ -414,7 +414,7 @@ Max Mustermann
 ### Dateien auslesen
 ![access-file](/res/PNGs/entity-access-file.png)&title=Dateien auslesen
 
-+++?code=/res/snippets/access-data.xml&title=Dateien auslesen (XML)
++++?code=/res/snippets/access-data.xml&lang=xml&title=Dateien auslesen (XML)
 @[2]
 @[2, 4]
 @[2, 4-5]
@@ -423,7 +423,7 @@ Max Mustermann
 ### Netzwerk-Zugang
 ![access-netfile](/res/PNGs/entity-access-network.png)&title=Netzwerk Zugang
 
-+++?code=/res/snippets/access-network.xml&title=Netzwerk Zugang (XML)
++++?code=/res/snippets/access-network.xml&&lang=xmltitle=Netzwerk Zugang (XML)
 @[4]
 @[4, 5]
 
