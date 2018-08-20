@@ -405,6 +405,10 @@ Max Mustermann
 
 +++?code=/res/snippets/billion-laughs.xml&title=Billion Laughs (XML)
 @[1]
+@[12]
+@[11]
+@[10-11]
+@[3-11]
 
 +++?image=/res/xxeO10.png&size=cover
 ### Dateien auslesen
