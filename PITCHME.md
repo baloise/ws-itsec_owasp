@@ -415,7 +415,9 @@ Max Mustermann
 ![access-file](/res/PNGs/entity-access-file.png)&title=Dateien auslesen
 
 +++?code=/res/snippets/access-data.xml&title=Dateien auslesen (XML)
-@[1]
+@[2]
+@[2, 4]
+@[2, 4-5]
 
 +++?image=/res/xxeO10.png&size=cover
 ### Netzwerk-Zugang
