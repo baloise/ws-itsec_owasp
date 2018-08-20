@@ -432,7 +432,7 @@ Max Mustermann
 ### Out of band XXE
 ![oob-xxe](/res/PNGs/entity-oob.png)
 
-+++?code=/res/snippets/oob-xxe.xml&title=Out of band XXE (XML)
++++?code=/res/snippets/oob-xxe.xml&lang=xml&title=Out of band XXE (XML)
 @[1-7]
 @[9-16]
 @[1,4]
