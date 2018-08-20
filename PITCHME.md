@@ -72,7 +72,7 @@ Injection:
 # @color[#282828](**A1: Injection**)
 
 +++?image=res/injectionO45.png&size=cover
-@size[1.5em](Injection)
+###Injection
 ![arrow-up](/res/PNGs/trend-up.png)
 
 +++?image=res/injectionO45.png&size=cover
