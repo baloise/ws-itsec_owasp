@@ -389,9 +389,10 @@ Note:
 # @color[#282828](**A4: XML External Entity**)
 
 +++?image=/res/xxeO10.png&size=cover
-### Entity Example
+### Entities
+![entites](/res/PNGs/entites.png)
 
-+++?code=/res/snippets/xxe-example.xml&lang=xml&title=Entity Example (XML)
++++?code=/res/snippets/xxe-example.xml&lang=xml&title=Example Entity (XML)
 @[1]
 @[2]
 @[2,5]
