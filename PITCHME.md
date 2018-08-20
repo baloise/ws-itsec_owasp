@@ -183,7 +183,7 @@ Note:
 
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Broken Authentication
-![arrow-middle](/res/PNGs/arrow-middle.png)
+![arrow-middle](/res/PNGs/trend-middle.png)
 
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Überblick
@@ -306,7 +306,7 @@ standart font
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Sensitive Data Exposure
-![arrow-up](/res/PNGs/arrow-up.png)
+![arrow-up](/res/PNGs/trend-up.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Beispiele
