@@ -506,10 +506,11 @@ Max Mustermann
 ![PathTravCookie](/res/PNGs/a-c_path-traversal-cookie-temp.png)
 
 +++
-### JSON Web Token
+### JSON Web Token (JWT)
 
 +++
 ### Client-Side Kontrollen - Hidden Field
+![ac_hidden-field](/res/PNGs/a-c_cs-hidden-field.png)
 
 +++
 ### Client-Side Kontrollen - JS Validation
