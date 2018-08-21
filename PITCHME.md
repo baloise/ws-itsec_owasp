@@ -494,11 +494,11 @@ Max Mustermann
 ![PathTrav1B2](/res/PNGs/a-c_path-traversal-basic2.png)+++
 
 +++
-### Path Traversal - URL
+### Path Traversal - URL (1)
 ![PathTravURL](/res/PNGs/a-c_path-traversal1.png)
 
 +++
-### Path Traversal - URL
+### Path Traversal - URL (2)
 ![PathTravURLencoded](/res/PNGs/a-c_path-traversal2.png)
 
 +++
