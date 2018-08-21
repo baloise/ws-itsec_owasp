@@ -480,3 +480,7 @@ Max Mustermann
 +++
 ### Zugriff durch unüberprüfter Input
 ![getAcctInfo](/res/PNGs/a-c_unverified.png)
+
++++
+### Zugriff durch "force browsing"
+![FrocedBrowsing](/res/PNGs/a-c_fored-browsing.png)
