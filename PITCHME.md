@@ -486,5 +486,13 @@ Max Mustermann
 ![FrocedBrowsing](/res/PNGs/a-c_fored-browsing.png)
 
 +++
+### Path Traversal (Basics)
+![PathTrav1B1](/res/PNGs/a-c_path-traversal-basic1.png)+++
+
++++
+### Path Traversal (Basics)
+![PathTrav1B2](/res/PNGs/a-c_path-traversal-basic21.png)+++
+
++++
 ### Path Traversal (1)
 ![PathTrav1](/res/PNGs/a-c_path-traversal1.png)
