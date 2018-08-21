@@ -513,3 +513,6 @@ Max Mustermann
 
 +++
 ### Client-Side Kontrollen - JS Validation
+
++++
+### CORS misconfigurations
