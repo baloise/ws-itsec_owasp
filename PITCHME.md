@@ -484,3 +484,7 @@ Max Mustermann
 +++
 ### Zugriff durch "force browsing"
 ![FrocedBrowsing](/res/PNGs/a-c_fored-browsing.png)
+
++++
+### Path Traversal (1)
+![PathTrav1](/res/PNGs/a-c_path-traversal1.png)
