@@ -482,7 +482,7 @@ Max Mustermann
 ![getAcctInfo](/res/PNGs/a-c_unverified.png)
 
 +++
-### Zugriff durch "force browsing"
+### Zugriff via "forced browsing"
 ![FrocedBrowsing](/res/PNGs/a-c_fored-browsing.png)
 
 +++
