@@ -504,3 +504,9 @@ Max Mustermann
 +++
 ### Path Traversal - Cookie
 ![PathTravCookie](/res/PNGs/a-c_path-traversal-cookie-temp.png)
+
++++
+### Client-Side Kontrollen - Hidden Field
+
++++
+### Client-Side Kontrollen - JS Validation
