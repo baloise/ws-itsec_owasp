@@ -491,7 +491,7 @@ Max Mustermann
 
 +++
 ### Path Traversal (Basics)
-![PathTrav1B2](/res/PNGs/a-c_path-traversal-basic21.png)+++
+![PathTrav1B2](/res/PNGs/a-c_path-traversal-basic2.png)+++
 
 +++
 ### Path Traversal (1)
