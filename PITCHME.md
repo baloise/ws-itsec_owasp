@@ -498,5 +498,9 @@ Max Mustermann
 ![PathTravURL](/res/PNGs/a-c_path-traversal1.png)
 
 +++
+### Path Traversal - URL
+![PathTravURLencoded](/res/PNGs/a-c_path-traversal2.png)
+
++++
 ### Path Traversal - Cookie
 ![PathTravCookie](/res/PNGs/a-c_path-traversal-cookie-temp.png)
