@@ -473,3 +473,10 @@ Max Mustermann
 - /external-general-entities
 - /external-parameter-entities
 - /load-external-dtd
+
+---
+# @color[#282828](**A5: Broken Access Control**)
+
++++
+### Zugriff durch unüberprüfter Input
+![getAcctInfo](/res/PNGs/a-c_unverified.png)
