@@ -506,7 +506,8 @@ Max Mustermann
 ![PathTravCookie](/res/PNGs/a-c_path-traversal-cookie-temp.png)
 
 +++
-### JSON Web Token (JWT)
+### JWT - Verify-Algorhithmen
+![jwtAsyncSyncAlgo](/res/PNGs/a-c_jwt-forge.png)
 
 +++
 ### Client-Side Kontrollen - Hidden Field
