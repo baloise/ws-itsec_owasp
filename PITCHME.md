@@ -518,4 +518,15 @@ Max Mustermann
 ![ac_hidden-field](/res/PNGs/a-c_cs-hidden-field.png)
 
 +++
-### Cross-Origin Request Sharing Misskonfigurationen
+### Cross-Origin Request Sharing (1)
+![ac_cors-info1](/res/PNGs/a-c_cors-sop.png)
+
++++
+### Cross-Origin Request Sharing (2)
+![ac_cors-info2](/res/PNGs/a-c_cors.png)
+
++++
+### CORS Misskonfigurationen (1)
+
++++
+### CORS Misskonfigurationen (2)
