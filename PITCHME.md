@@ -518,7 +518,4 @@ Max Mustermann
 ![ac_hidden-field](/res/PNGs/a-c_cs-hidden-field.png)
 
 +++
-### Client-Side Kontrollen - JS Validation
-
-+++
 ### CORS misconfigurations
