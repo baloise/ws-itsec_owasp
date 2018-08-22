@@ -507,6 +507,10 @@ Max Mustermann
 
 +++
 ### JWT - Verify-Algorhithmen
+![jwtAsyncSyncAlgo](/res/PNGs/a-c_jwt-forge-problem.png)
+
++++
+### JWT - Verify-Algorhithmen
 ![jwtAsyncSyncAlgo](/res/PNGs/a-c_jwt-forge.png)
 
 +++
