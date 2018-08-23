@@ -527,6 +527,7 @@ Max Mustermann
 
 +++
 ### CORS Misskonfigurationen (1)
+<br>
 ##### Supported:
 @ul
 - * (wildcart)
