@@ -576,8 +576,7 @@ Access-Control-Allow-Origin:
 +++?code=res/snippets/ac_cors-iframe-sandbox.html&lang=HTML&title=iframe sandbox (null)
 
 +++
-### Access-Control-Allow-Credentials: true
-<br>
+### ACACredentials: true
 <br>
 
 #### Not working
