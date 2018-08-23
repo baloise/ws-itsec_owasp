@@ -581,10 +581,11 @@ Access-Control-Allow-Origin:
 
 #### Not working
 Access-Control-Allow-Origin: *
-Access-Control-Allow-Credentials: true
 <br>
+Access-Control-Allow-Credentials: true
 <br>
 
 #### WORKING!
 Access-Control-Allow-Origin: null
+<br>
 Access-Control-Allow-Credentials: true
