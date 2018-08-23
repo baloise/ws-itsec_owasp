@@ -577,11 +577,14 @@ Access-Control-Allow-Origin:
 
 +++
 ### ACA-Credentials: true
+<br>
 
 #### Not working
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Credentials: true
 <br>
+<br>
+
 #### WORKING!
 Access-Control-Allow-Origin: null
 Access-Control-Allow-Credentials: true
