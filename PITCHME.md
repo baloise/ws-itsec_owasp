@@ -599,3 +599,35 @@ Access-Control-Allow-Credentials: true
 
 +++
 ## Massnahmen
+
++++
+### Vertrauen
+@ul
+- Server-side code
+- Server-less API
+- Client-side code höchstens als Ergänzung!
+@ulend
+
++++
+### forced Browsing
+@ul
+- Kontroll-Mechanismus
+- Überall und immer den selbern KM
+@ulend
+
++++
+### Path Traversal
+@ul
+- Vermeide User-Input
+- Whitelist / hardcoded *.ext
+- Input-Validation
+- set permission / policies (file-access)
+@ulend
+
++++
+### CORS
+@ul
+- Möglichst verzichten
+- *, null, ..
+- set Vary: Origin
+@ulend
