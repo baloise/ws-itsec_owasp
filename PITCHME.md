@@ -557,6 +557,7 @@ Max Mustermann
 +++
 ### Workarrounds
 #### Simple Origin Reflection
+![ac_cors-simple-reflection](/res/PNGs/a-c_cors-simple-reflection.png)
 
 +++
 ### Workarrounds
