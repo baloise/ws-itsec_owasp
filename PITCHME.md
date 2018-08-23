@@ -568,7 +568,18 @@ Access-Control-Allow-Origin:
 ### Workarround: Endswith
 ![ac_cors-Startswith](/res/PNGs/a-c_cors-endswith.png)
 
-+++
-### Workarrounds
-#### Origin null
 
++++
+### Workarround: Origin null
+![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
+
++++?code=res/snippets/ac_cors-iframe-sandbox.html&lang=HTML&title=iframe sandbox (null)
+
++++
+### Access-Control-Allow-Credentials: true
+
+#### ACAO: *    +    ACAC: true
+NOT working
+<br>
+#### ACAO: null    +    ACAC: true
+WORKING!
