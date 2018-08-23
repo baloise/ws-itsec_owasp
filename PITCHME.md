@@ -546,5 +546,10 @@ Max Mustermann
 
 +++
 ### CORS Misskonfigurationen (3)
-#### "Solution:" **Origin Reflection**
+#### Workarrounds
+@ul
+- Simple Origin Reflection
+- Startswith
+- Endswith
+@ulend
 
