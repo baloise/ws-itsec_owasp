@@ -590,3 +590,12 @@ Access-Control-Allow-Credentials: true
 Access-Control-Allow-Origin: null
 <br>
 Access-Control-Allow-Credentials: true
+
++++
+## @size[1.5em](Demo Sensitive Data Exposure)
+@css[demo](**Demo1**)
+<br>
+@css[demo](**Demo2**)
+
++++
+## Massnahmen
