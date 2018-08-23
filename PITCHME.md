@@ -577,7 +577,6 @@ Access-Control-Allow-Origin:
 
 +++
 ### ACACredentials: true
-<br>
 
 #### Not working
 Access-Control-Allow-Origin: *
