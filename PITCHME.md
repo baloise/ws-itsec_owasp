@@ -533,14 +533,14 @@ Max Mustermann
 - origin (domain-name)
 - origin-list-or-null
 @ulend
-<br>
+
 ##### Realitiy:
 @ul
 - https://*.mywebsite.ch (NOT WORKING)
 - one-site.ch, another-site.ch (lack of support)
 @ulend
-
+@ul
 => "Solution:" **Origin Reflection**
-
+@ulend
 +++
 ### CORS Misskonfigurationen (2)
