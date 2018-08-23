@@ -577,9 +577,13 @@ Access-Control-Allow-Origin:
 
 +++
 ### Access-Control-Allow-Credentials: true
-
-#### ACAO: *    +    ACAC: true
-NOT working
 <br>
-#### ACAO: null    +    ACAC: true
-WORKING!
+<br>
+
+#### Not working
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+<br>
+#### WORKING!
+Access-Control-Allow-Origin: null
+Access-Control-Allow-Credentials: true
