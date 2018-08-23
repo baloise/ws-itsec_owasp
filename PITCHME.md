@@ -527,6 +527,7 @@ Max Mustermann
 
 +++
 ### CORS Misskonfigurationen (1)
+Access-Control-Allow-Origin:
 <br>
 ##### Supported:
 @ul
