@@ -530,7 +530,7 @@ Max Mustermann
 <br>
 ##### Supported:
 @ul
-- * (wildcart)
+- * (wildcard)
 - origin (domain-name)
 - origin-list-or-null
 @ulend
