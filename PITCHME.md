@@ -527,20 +527,20 @@ Max Mustermann
 
 +++
 ### CORS Misskonfigurationen (1)
-Supported:
+##### Supported:
 @ul
 - * (wildcart)
 - origin (domain-name)
 - origin-list-or-null
 @ulend
-
-Realitiy:
+<br>
+##### Realitiy:
 @ul
 - https://*.mywebsite.ch (NOT WORKING)
-- https://one-site.ch, https://another-site.ch (lack of support)
+- one-site.ch, another-site.ch (lack of support)
 @ulend
 
-"Solution:" **Origin Reflection**
+=> "Solution:" **Origin Reflection**
 
 +++
 ### CORS Misskonfigurationen (2)
