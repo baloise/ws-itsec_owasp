@@ -527,6 +527,13 @@ Max Mustermann
 
 +++
 ### CORS Misskonfigurationen (1)
+#### Konfiguration
+@ul
+- *
+- https://developer.mozilla.org
+- (https://mozilla.org, https://google.com, ..)
+- null
+@ulend
 
 +++
 ### CORS Misskonfigurationen (2)
