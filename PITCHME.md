@@ -554,3 +554,19 @@ Max Mustermann
 - Origin: null
 @ulend
 
++++
+### Workarrounds
+#### Simple Origin Reflection
+
++++
+### Workarrounds
+#### Startswith
+
++++
+### Workarrounds
+#### Endswith
+
++++
+### Workarrounds
+#### Origin null
+
