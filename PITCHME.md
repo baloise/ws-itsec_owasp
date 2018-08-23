@@ -529,10 +529,14 @@ Max Mustermann
 ### CORS Misskonfigurationen (1)
 #### Konfiguration
 @ul
-- *
-- https://developer.mozilla.org
-- (https://mozilla.org, https://google.com, ..)
-- null
+- * (wildcart)
+- origin (domain-name)
+- origin-list-or-null
+@ulend
+
+@ul
+- https://*.mywebsite.ch (NOT WORKING)
+- https://one-site.ch, https://another-site.ch (lack of support)
 @ulend
 
 +++
