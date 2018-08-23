@@ -562,6 +562,7 @@ Max Mustermann
 +++
 ### Workarrounds
 #### Startswith
+![ac_cors-Startswith](/res/PNGs/a-c_cors-startswith.png)
 
 +++
 ### Workarrounds
