@@ -565,8 +565,8 @@ Access-Control-Allow-Origin:
 ![ac_cors-Startswith](/res/PNGs/a-c_cors-startswith.png)
 
 +++
-### Workarrounds
-#### Endswith
+### Workarround: Endswith
+![ac_cors-Startswith](/res/PNGs/a-c_cors-endswith.png)
 
 +++
 ### Workarrounds
