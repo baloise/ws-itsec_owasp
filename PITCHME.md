@@ -642,8 +642,30 @@ Access-Control-Allow-Credentials: true
 
 +++
 ### Fehlendes "Hardening"
-- Limitierungen
-- DoS Schutz
+#### SSH - config
+@ul
+- Protocol 2
+- PermitRootLogin no
+- ClientAliveInterval 300
+- ClientAliveMax 2
+- AllowUsers HereComesUsername
+- SSH-PublicKey Login
+  - PasswordAuthentication no
+- X11Forwarding no
+@ulend
+
++++
+### Fehlendes "Hardening"
+#### SSH - additional
+@ul
+- Fail2Ban
+- Multi-Factor Authentication
+  - google-authenticator
+  - UsePAM yes
+  - ChallengeResponseAuthentication yes
+- ssh-aufit.py
+- Regenerate Moduli (prime numbers & generators)
+@ulend
 
 +++
 ### ungenutzte Features aktiviert
