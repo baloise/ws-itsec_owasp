@@ -644,6 +644,8 @@ Access-Control-Allow-Credentials: true
 ### Allgemein
 @ul
 - update!
+- Security headers
+- Error Messages
 - Sicherheits-Features
   - Benutzen
   - Konfigurieren
@@ -652,7 +654,6 @@ Access-Control-Allow-Credentials: true
   - Benutzerkonten
   - vergessene Server
   - Funktionen / Plugins
-- Security headers
 @ulend
 
 +++
