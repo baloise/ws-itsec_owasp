@@ -631,3 +631,7 @@ Access-Control-Allow-Credentials: true
 - *, null, ..
 - set Vary: Origin
 @ulend
+
+
+---
+# @color[#282828](**A6: Security Misconfiguration**)
