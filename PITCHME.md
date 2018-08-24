@@ -642,6 +642,29 @@ Access-Control-Allow-Credentials: true
 
 +++
 ### Fehlendes "Hardening"
+#### Apache - httpd.config
+@ul
+- TraceEnable off
+- User apache
+- Group apache
+- ServerSignature Off
+- ServerTokens Prod
+- SSLProtocol -ALL +TLSv1.2
+@ulend
+
++++?code=/res/snippets/apache-no-dir-listen.conf&title=Disable Directory Listening
+
++++
+### Fehlendes "Hardening"
+#### Apache - httpd.config
+@ul
+- Remove unnecessary DSO Modules
+- SSLCipherSuite ALL:!aNULL:!ADH:!eNULL:!LOW:!EXP:RC4+RSA:+HIGH:+MEDIUM
+- update!
+@ulend
+
++++
+### Fehlendes "Hardening"
 #### SSH - config
 @ul
 - Protocol 2
