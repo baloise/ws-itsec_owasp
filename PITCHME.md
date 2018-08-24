@@ -637,6 +637,10 @@ Access-Control-Allow-Credentials: true
 # @color[#282828](**A6: Security Misconfiguration**)
 
 +++
+### Einleitung
+![misconf-intro](/res/PNGs/misconf-overview.png)
+
++++
 ### Fehlendes "Hardening"
 - Limitierungen
 - DoS Schutz
