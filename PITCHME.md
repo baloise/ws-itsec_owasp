@@ -635,3 +635,12 @@ Access-Control-Allow-Credentials: true
 
 ---
 # @color[#282828](**A6: Security Misconfiguration**)
+
++++
+### Fehlendes "Hardening"
+
++++
+### ungenutzte Features aktiviert
+
++++
+### Error Meldungen
