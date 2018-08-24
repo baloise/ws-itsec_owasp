@@ -642,7 +642,7 @@ Access-Control-Allow-Credentials: true
 
 +++
 ### Fehlendes "Hardening"
-?code=&title=Nginx - enable SSL
+?code=/res/snippets/nginx-config.conf&title=Nginx - enable SSL
 @[2]
 @[5,6]
 
@@ -660,7 +660,7 @@ Access-Control-Allow-Credentials: true
 - update!
 @ulend
 
-+++?code=/res/snippets/nginx-conf2.conf&title=Nginx - additional config
++++?code=/res/snippets/nginx-config2.conf&title=Nginx - additional config
 
 
 +++
