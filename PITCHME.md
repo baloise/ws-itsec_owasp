@@ -641,6 +641,14 @@ Access-Control-Allow-Credentials: true
 ![misconf-intro](/res/PNGs/misconf-overview.png)
 
 +++
+## @size[1.5em](Demo Security Misconfiguration)
+@css[demo](**Enumeration**)
+<br>
+@css[demo](**Error-Handling**)
+<br>
+@css[demo](**Outdated Version**)
+
++++
 ### Allgemein
 @ul
 - update!
