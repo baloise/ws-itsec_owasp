@@ -640,6 +640,24 @@ Access-Control-Allow-Credentials: true
 ### Einleitung
 ![misconf-intro](/res/PNGs/misconf-overview.png)
 
++++
+### Allgemein
+@ul
+- update!
+- Sicherheits-Features
+  - Benutzen
+  - Konfigurieren
+- geringste Privilegien
+- unnötige Angriffsvektoren
+  - Benutzerkonten
+  - vergessene Server
+  - Funktionen / Plugins
+- Security headers
+@ulend
+
++++
+### veraltete Versionen
+
 +++?code=/res/snippets/nginx-config.conf&title=Nginx - enable SSL
 @[2]
 @[5,6]
@@ -704,12 +722,3 @@ Access-Control-Allow-Credentials: true
 - ssh-aufit.py
 - Regenerate Moduli (prime numbers & generators)
 @ulend
-
-+++
-### Security Eintstellungen
-- Deaktiviert
-- Schwach eingestellt
-- Security headers
-
-+++
-### veraltete Versionen
