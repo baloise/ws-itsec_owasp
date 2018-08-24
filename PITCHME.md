@@ -649,7 +649,7 @@ Access-Control-Allow-Credentials: true
 @css[demo](**Outdated Version**)
 
 +++
-### Allgemein
+### Allgemein (1)
 @ul
 - update!
 - Security headers
@@ -657,6 +657,11 @@ Access-Control-Allow-Credentials: true
 - Sicherheits-Features
   - Benutzen
   - Konfigurieren
+@ulend
+
++++
+### Allgemein (2)
+@ul
 - geringste Privilegien
 - unnötige Angriffsvektoren
   - Benutzerkonten
@@ -665,12 +670,9 @@ Access-Control-Allow-Credentials: true
 - Enumeration
 @ulend
 
-+++
-### veraltete Versionen
-
 +++?code=/res/snippets/nginx-config.conf&title=Nginx - enable SSL
-@[2]
-@[5,6]
+@[3]
+@[6, 7]
 
 +++
 ### Fehlendes "Hardening"
