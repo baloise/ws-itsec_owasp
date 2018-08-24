@@ -719,8 +719,8 @@ Access-Control-Allow-Credentials: true
 +++?code=/res/snippets/apache-no-dir-listen.conf&title=Disable Directory Listening
 
 +++
-### Fehlendes "Hardening"
-#### SSH - config
+### SSH Hardening (1)
+#### ssh_config
 @ul
 - Protocol 2
 - PermitRootLogin no
@@ -733,7 +733,7 @@ Access-Control-Allow-Credentials: true
 @ulend
 
 +++
-### Fehlendes "Hardening"
+### SSH Hardening (2)
 #### SSH - additional
 @ul
 - Fail2Ban
