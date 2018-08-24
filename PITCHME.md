@@ -642,6 +642,29 @@ Access-Control-Allow-Credentials: true
 
 +++
 ### Fehlendes "Hardening"
+?code=&title=Nginx - enable SSL
+@[2]
+@[5,6]
+
++++
+### Fehlendes "Hardening"
+#### Nginx - ssl.conf
+@ul
+- ssl_protocols
+- ssl_ciphers
+- Secure Diffie-Hellman
+  - openssl dhparam -out dhparams.pem 4096
+  - ssl_dhparam
+- server_tokens off
+- Implement WAF
+- update!
+@ulend
+
++++?code=/res/snippets/nginx-conf2.conf&title=Nginx - additional config
+
+
++++
+### Fehlendes "Hardening"
 #### Apache - httpd.config
 @ul
 - TraceEnable off
