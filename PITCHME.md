@@ -706,15 +706,6 @@ Access-Control-Allow-Credentials: true
 @ulend
 
 +++
-### ungenutzte Features aktiviert
-- Apache Plugins
-
-+++
-### Error Meldungen
-- SQL, 
-- WebServer-Version
-
-+++
 ### Security Eintstellungen
 - Deaktiviert
 - Schwach eingestellt
