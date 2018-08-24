@@ -638,9 +638,23 @@ Access-Control-Allow-Credentials: true
 
 +++
 ### Fehlendes "Hardening"
+- Limitierungen
+- DoS Schutz
 
 +++
 ### ungenutzte Features aktiviert
+- Apache Plugins
 
 +++
 ### Error Meldungen
+- SQL, 
+- WebServer-Version
+
++++
+### Security Eintstellungen
+- Deaktiviert
+- Schwach eingestellt
+- Security headers
+
++++
+### veraltete Versionen
