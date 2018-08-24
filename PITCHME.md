@@ -640,9 +640,7 @@ Access-Control-Allow-Credentials: true
 ### Einleitung
 ![misconf-intro](/res/PNGs/misconf-overview.png)
 
-+++
-### Fehlendes "Hardening"
-?code=/res/snippets/nginx-config.conf&title=Nginx - enable SSL
++++?code=/res/snippets/nginx-config.conf&title=Nginx - enable SSL
 @[2]
 @[5,6]
 
