@@ -675,33 +675,43 @@ Access-Control-Allow-Credentials: true
 @[6, 7]
 
 +++
-### Fehlendes "Hardening"
-#### Nginx - ssl.conf
+### Nginx Hardening (1)
+#### ssl.conf
 @ul
 - ssl_protocols
 - ssl_ciphers
+- server_tokens off
+@ulend
+
+### Nginx Hardening (2)
+#### ssl.conf
+@ul
 - Secure Diffie-Hellman
   - openssl dhparam -out dhparams.pem 4096
   - ssl_dhparam
-- server_tokens off
 - Implement WAF
 - update!
 @ulend
 
 +++?code=/res/snippets/nginx-config2.conf&title=Nginx - additional config
 
-
 +++
-### Fehlendes "Hardening"
-#### Apache - httpd.config
+### Apache Hardening (1)
+#### httpd.config
 @ul
 - TraceEnable off
-- User apache
-- Group apache
 - ServerSignature Off
 - ServerTokens Prod
-- SSLProtocol -ALL +TLSv1.2
+- SSLProtocol
 - SSLCipherSuite
+@ulend
+
++++
+### Apache Hardening (2)
+#### httpd.config
+@ul
+- User apache
+- Group apache
 - Remove unnecessary DSO Modules
 - update!
 @ulend
