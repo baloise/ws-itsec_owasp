@@ -671,18 +671,12 @@ Access-Control-Allow-Credentials: true
 - ServerSignature Off
 - ServerTokens Prod
 - SSLProtocol -ALL +TLSv1.2
+- SSLCipherSuite
+- Remove unnecessary DSO Modules
+- update!
 @ulend
 
 +++?code=/res/snippets/apache-no-dir-listen.conf&title=Disable Directory Listening
-
-+++
-### Fehlendes "Hardening"
-#### Apache - httpd.config
-@ul
-- Remove unnecessary DSO Modules
-- SSLCipherSuite ALL:!aNULL:!ADH:!eNULL:!LOW:!EXP:RC4+RSA:+HIGH:+MEDIUM
-- update!
-@ulend
 
 +++
 ### Fehlendes "Hardening"
