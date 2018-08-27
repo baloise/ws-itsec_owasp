@@ -762,4 +762,4 @@ Access-Control-Allow-Credentials: true
 
 +++
 ### Stored XSS
-![stored_xss](/res/PNGs/Stored_XSS.png&size=contain)
+![stored_xss](/res/PNGs/Stored_XSS.png)
