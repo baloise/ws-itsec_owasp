@@ -758,4 +758,8 @@ Access-Control-Allow-Credentials: true
 
 +++
 ### Reflected XSS
-![reflected_xxs](/res/PNGs/Reflected_XSS.png)
+![reflected_xss](/res/PNGs/Reflected_XSS.png)
+
++++
+### Stored XSS
+![stored_xss](/res/PNGs/Stored_XSS.png)
