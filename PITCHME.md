@@ -474,18 +474,18 @@ Max Mustermann
 - /external-parameter-entities
 - /load-external-dtd
 
----?image=/res/PNGs/B-A_Control60i.png&size=cover
+---?image=/res/PNGs/B-A_Control40i.png&size=cover
 # @color[#282828](**A5: Broken Access Control**)
 
-+++?image=/res/PNGs/B-A_Control20.png&size=cover
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Zugriff durch unüberprüfter Input
 ![getAcctInfo](/res/PNGs/a-c_unverified.png)
 
-+++?image=/res/PNGs/B-A_Control13.png&size=cover
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Zugriff via "forced browsing"
 ![FrocedBrowsing](/res/PNGs/a-c_fored-browsing.png)
 
-+++?image=/res/PNGs/B-A_Control13.png&size=cover
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal (Basics)
 ![PathTrav1B1](/res/PNGs/a-c_path-traversal-basic1.png)+++
 
