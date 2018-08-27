@@ -727,7 +727,14 @@ Access-Control-Allow-Origin:
 <br>
 
 #### Not working
-Access-Control-Allow-Origin: *
+Access-Control-Allow-Origin: *+++
+### CORS
+@ul
+- Möglichst verzichten
+- *, null, ..
+- set Vary: Origin
+@ulend
+
 <br>
 Access-Control-Allow-Credentials: true
 <br>
@@ -745,3 +752,7 @@ Access-Control-Allow-Credentials: true
 - *, null, ..
 - set Vary: Origin
 @ulend
+
+
+---
+# @color[#282828](**A7: Cross-Site-Scripting**)
