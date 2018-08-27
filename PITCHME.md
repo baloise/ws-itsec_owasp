@@ -474,7 +474,7 @@ Max Mustermann
 - /external-parameter-entities
 - /load-external-dtd
 
----?image=/res/PNGs/B-A_Control.png&size=cover
+---?image=/res/PNGs/B-A_Control.png&size=contain
 # @color[#282828](**A5: Broken Access Control**)
 
 +++
