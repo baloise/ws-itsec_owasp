@@ -559,14 +559,14 @@ Max Mustermann
 @ulend
 
 
----?image=/res/PNGs/Sec-MisConf.png&size=cover
+---?image=/res/PNGs/Sec-MisConf60.png&size=cover
 # **A6: Security Misconfiguration**
 
-+++
++++?image=/res/PNGs/Sec-MisConf20.png&size=cover
 ### Einleitung
 ![misconf-intro](/res/PNGs/misconf-overview.png)
 
-+++
++++?image=/res/PNGs/Sec-MisConf20.png&size=cover
 ## @size[1.5em](Demo Security Misconfiguration)
 @css[demo](**Enumeration**)
 <br>
@@ -574,7 +574,7 @@ Max Mustermann
 <br>
 @css[demo](**Outdated Version**)
 
-+++
++++?image=/res/PNGs/Sec-MisConf20.png&size=cover
 ### Allgemein (1)
 @ul
 - update!
