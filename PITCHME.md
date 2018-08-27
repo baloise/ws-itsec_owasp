@@ -489,52 +489,52 @@ Max Mustermann
 ### Path Traversal (Basics)
 ![PathTrav1B1](/res/PNGs/a-c_path-traversal-basic1.png)+++
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal (Basics)
 ![PathTrav1B2](/res/PNGs/a-c_path-traversal-basic2.png)+++
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal - URL (1)
 ![PathTravURL](/res/PNGs/a-c_path-traversal1.png)
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal - URL (2)
 ![PathTravURLencoded](/res/PNGs/a-c_path-traversal2.png)
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal - Cookie
 ![PathTravCookie](/res/PNGs/a-c_path-traversal-cookie-temp.png)
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### JWT - Verify-Algorhithmen
 ![jwtAsyncSyncAlgo](/res/PNGs/a-c_jwt-forge-problem.png)
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### JWT - Verify-Algorhithmen
 ![jwtAsyncSyncAlgo](/res/PNGs/a-c_jwt-forge.png)
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Client-Side Kontrollen - Hidden Field
 ![ac_hidden-field](/res/PNGs/a-c_cs-hidden-field.png)
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Cross-Origin Request Sharing (1)
 ![ac_cors-info1](/res/PNGs/a-c_cors-sop.png)
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Cross-Origin Request Sharing (2)
 ![ac_cors-info2](/res/PNGs/a-c_cors.png)
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ## @size[1.5em](Demo Sensitive Data Exposure)
 @css[demo](**Demo1**)
 <br>
 @css[demo](**Demo2**)
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ## Massnahmen
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Vertrauen
 @ul
 - Server-side code
@@ -542,14 +542,14 @@ Max Mustermann
 - Client-side code höchstens als Ergänzung!
 @ulend
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### forced Browsing
 @ul
 - Kontroll-Mechanismus
 - Überall und immer den selbern KM
 @ulend
 
-+++
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal
 @ul
 - Vermeide User-Input
