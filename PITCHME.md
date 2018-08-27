@@ -566,7 +566,7 @@ Max Mustermann
 ### Einleitung
 ![misconf-intro](/res/PNGs/misconf-overview.png)
 
-+++?image=/res/PNGs/Sec-MisConf5.png&size=cover
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ## @size[1.5em](Demo Security Misconfiguration)
 @css[demo](**Enumeration**)
 <br>
