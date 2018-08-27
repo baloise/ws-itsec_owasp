@@ -609,6 +609,7 @@ Max Mustermann
 - server_tokens off
 @ulend
 
++++
 ### Nginx Hardening (2)
 #### ssl.conf
 @ul
