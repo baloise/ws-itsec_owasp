@@ -574,7 +574,7 @@ Max Mustermann
 <br>
 @css[demo](**Outdated Version**)
 
-+++?image=/res/PNGs/Sec-MisConf5.png&size=cover
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Allgemein (1)
 @ul
 - update!
@@ -585,7 +585,7 @@ Max Mustermann
   - Konfigurieren
 @ulend
 
-+++?image=/res/PNGs/Sec-MisConf5.png&size=cover
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Allgemein (2)
 @ul
 - geringste Privilegien
