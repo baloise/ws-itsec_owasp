@@ -481,11 +481,11 @@ Max Mustermann
 ### Zugriff durch unüberprüfter Input
 ![getAcctInfo](/res/PNGs/a-c_unverified.png)
 
-+++?image=/res/PNGs/B-A_Control20.png&size=cover
++++?image=/res/PNGs/B-A_Control13.png&size=cover
 ### Zugriff via "forced browsing"
 ![FrocedBrowsing](/res/PNGs/a-c_fored-browsing.png)
 
-+++?image=/res/PNGs/B-A_Control20.png&size=cover
++++?image=/res/PNGs/B-A_Control13.png&size=cover
 ### Path Traversal (Basics)
 ![PathTrav1B1](/res/PNGs/a-c_path-traversal-basic1.png)+++
 
