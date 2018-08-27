@@ -755,3 +755,7 @@ Access-Control-Allow-Credentials: true
 
 ---
 # @color[#282828](**A7: Cross-Site-Scripting**)
+
++++
+### Reflected XSS
+![reflected_xxs](/res/PNGs/Reflected_XSS.png)
