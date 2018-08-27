@@ -562,7 +562,7 @@ Max Mustermann
 ---?image=/res/PNGs/Sec-MisConf50.png&size=cover
 # **A6: Security Misconfiguration**
 
-+++?image=/res/PNGs/Sec-MisConf5.png&size=cover
++++?image=/res/PNGs/Sec-MisConf8.png&size=cover
 ### Einleitung
 ![misconf-intro](/res/PNGs/misconf-overview.png)
 
