@@ -560,7 +560,7 @@ Max Mustermann
 
 
 ---?image=/res/PNGs/Sec-MisConf260.png&size=cover
-# @color[#282828](**A6: Security Misconfiguration**)
+# **A6: Security Misconfiguration**
 
 +++
 ### Einleitung
