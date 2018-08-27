@@ -518,14 +518,6 @@ Max Mustermann
 ![ac_hidden-field](/res/PNGs/a-c_cs-hidden-field.png)
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
-### Cross-Origin Request Sharing (1)
-![ac_cors-info1](/res/PNGs/a-c_cors-sop.png)
-
-+++?image=/res/PNGs/B-A_Control20i.png&size=cover
-### Cross-Origin Request Sharing (2)
-![ac_cors-info2](/res/PNGs/a-c_cors.png)
-
-+++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ## @size[1.5em](Demo Sensitive Data Exposure)
 @css[demo](**Demo1**)
 <br>
@@ -671,6 +663,14 @@ Max Mustermann
 - ssh-aufit.py
 - Regenerate Moduli (prime numbers & generators)
 @ulend
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### Cross-Origin Request Sharing (1)
+![ac_cors-info1](/res/PNGs/a-c_cors-sop.png)
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### Cross-Origin Request Sharing (2)
+![ac_cors-info2](/res/PNGs/a-c_cors.png)
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### CORS Misskonfigurationen (1)
