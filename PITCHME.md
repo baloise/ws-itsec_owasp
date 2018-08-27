@@ -559,7 +559,7 @@ Max Mustermann
 @ulend
 
 
----?image=/res/PNGs/Sec-MisConf460i.png&size=cover
+---?image=/res/PNGs/Sec-MisConf460.png&size=cover
 # **A6: Security Misconfiguration**
 
 +++
