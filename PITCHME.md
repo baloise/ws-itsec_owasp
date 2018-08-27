@@ -562,11 +562,11 @@ Max Mustermann
 ---?image=/res/PNGs/Sec-MisConf50.png&size=cover
 # **A6: Security Misconfiguration**
 
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### Einleitung
 ![misconf-intro](/res/PNGs/misconf-overview.png)
 
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ## @size[1.5em](Demo Security Misconfiguration)
 @css[demo](**Enumeration**)
 <br>
@@ -574,7 +574,7 @@ Max Mustermann
 <br>
 @css[demo](**Outdated Version**)
 
-+++?image=/res/PNGs/Sec-MisConf20.png&size=cover
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### Allgemein (1)
 @ul
 - update!
@@ -585,7 +585,7 @@ Max Mustermann
   - Konfigurieren
 @ulend
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### Allgemein (2)
 @ul
 - geringste Privilegien
@@ -600,7 +600,7 @@ Max Mustermann
 @[3]
 @[6, 7]
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### Nginx Hardening (1)
 #### ssl.conf
 @ul
@@ -609,7 +609,7 @@ Max Mustermann
 - server_tokens off
 @ulend
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### Nginx Hardening (2)
 #### ssl.conf
 @ul
@@ -622,7 +622,7 @@ Max Mustermann
 
 +++?code=/res/snippets/nginx-config2.conf&title=Nginx - additional config
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### Apache Hardening (1)
 #### httpd.config
 @ul
@@ -633,7 +633,7 @@ Max Mustermann
 - SSLCipherSuite
 @ulend
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### Apache Hardening (2)
 #### httpd.config
 @ul
@@ -645,7 +645,7 @@ Max Mustermann
 
 +++?code=/res/snippets/apache-no-dir-listen.conf&title=Disable Directory Listening
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### SSH Hardening (1)
 #### ssh_config
 @ul
@@ -659,7 +659,7 @@ Max Mustermann
 - X11Forwarding no
 @ulend
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### SSH Hardening (2)
 #### SSH - additional
 @ul
@@ -672,7 +672,7 @@ Max Mustermann
 - Regenerate Moduli (prime numbers & generators)
 @ulend
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### CORS Misskonfigurationen (1)
 Access-Control-Allow-Origin:
 <br>
@@ -683,7 +683,7 @@ Access-Control-Allow-Origin:
 - origin-list-or-null
 @ulend
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### CORS Misskonfigurationen (2)
 <br>
 ##### Realitiy:
@@ -692,7 +692,7 @@ Access-Control-Allow-Origin:
 - one-site.ch, another-site.ch (lack of support)
 @ulend
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### CORS Misskonfigurationen (3)
 #### Workarrounds
 @ul
@@ -702,27 +702,27 @@ Access-Control-Allow-Origin:
 - Origin: null
 @ulend
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### Workarrounds
 #### Simple Origin Reflection
 ![ac_cors-simple-reflection](/res/PNGs/a-c_cors-simple-reflection.png)
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### Workarround: Startswith
 ![ac_cors-Startswith](/res/PNGs/a-c_cors-startswith.png)
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### Workarround: Endswith
 ![ac_cors-Startswith](/res/PNGs/a-c_cors-endswith.png)
 
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### Workarround: Origin null
 ![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
 
 +++?code=res/snippets/ac_cors-iframe-sandbox.html&lang=HTML&title=iframe sandbox (null)
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### ACA-Credentials: true
 <br>
 
@@ -745,7 +745,7 @@ Access-Control-Allow-Origin: null
 <br>
 Access-Control-Allow-Credentials: true
 
-+++
++++?image=/res/PNGs/Sec-MisConf5.png&size=cover
 ### CORS - Massnahmen
 @ul
 - Möglichst verzichten
