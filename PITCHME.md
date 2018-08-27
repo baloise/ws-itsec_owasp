@@ -477,15 +477,15 @@ Max Mustermann
 ---?image=/res/PNGs/B-A_Control35.png&size=cover
 # @color[#282828](**A5: Broken Access Control**)
 
-+++
++++?image=/res/PNGs/B-A_Control20.png&size=cover
 ### Zugriff durch unüberprüfter Input
 ![getAcctInfo](/res/PNGs/a-c_unverified.png)
 
-+++
++++?image=/res/PNGs/B-A_Control20.png&size=cover
 ### Zugriff via "forced browsing"
 ![FrocedBrowsing](/res/PNGs/a-c_fored-browsing.png)
 
-+++
++++?image=/res/PNGs/B-A_Control20.png&size=cover
 ### Path Traversal (Basics)
 ![PathTrav1B1](/res/PNGs/a-c_path-traversal-basic1.png)+++
 
