@@ -559,7 +559,7 @@ Max Mustermann
 @ulend
 
 
----
+---?image=/res/PNGs/Sec-MisConf60.png&size=cover
 # @color[#282828](**A6: Security Misconfiguration**)
 
 +++
