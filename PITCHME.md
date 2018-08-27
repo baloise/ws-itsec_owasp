@@ -526,72 +526,6 @@ Max Mustermann
 ![ac_cors-info2](/res/PNGs/a-c_cors.png)
 
 +++
-### CORS Misskonfigurationen (1)
-Access-Control-Allow-Origin:
-<br>
-##### Supported:
-@ul
-- * (wildcard)
-- origin (domain-name)
-- origin-list-or-null
-@ulend
-
-+++
-### CORS Misskonfigurationen (2)
-<br>
-##### Realitiy:
-@ul
-- https://*.mywebsite.ch (NOT WORKING)
-- one-site.ch, another-site.ch (lack of support)
-@ulend
-
-+++
-### CORS Misskonfigurationen (3)
-#### Workarrounds
-@ul
-- Simple Origin Reflection
-- Startswith
-- Endswith
-- Origin: null
-@ulend
-
-+++
-### Workarrounds
-#### Simple Origin Reflection
-![ac_cors-simple-reflection](/res/PNGs/a-c_cors-simple-reflection.png)
-
-+++
-### Workarround: Startswith
-![ac_cors-Startswith](/res/PNGs/a-c_cors-startswith.png)
-
-+++
-### Workarround: Endswith
-![ac_cors-Startswith](/res/PNGs/a-c_cors-endswith.png)
-
-
-+++
-### Workarround: Origin null
-![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
-
-+++?code=res/snippets/ac_cors-iframe-sandbox.html&lang=HTML&title=iframe sandbox (null)
-
-+++
-### ACA-Credentials: true
-<br>
-
-#### Not working
-Access-Control-Allow-Origin: *
-<br>
-Access-Control-Allow-Credentials: true
-<br>
-<br>
-
-#### WORKING!
-Access-Control-Allow-Origin: null
-<br>
-Access-Control-Allow-Credentials: true
-
-+++
 ## @size[1.5em](Demo Sensitive Data Exposure)
 @css[demo](**Demo1**)
 <br>
@@ -622,14 +556,6 @@ Access-Control-Allow-Credentials: true
 - Whitelist / hardcoded *.ext
 - Input-Validation
 - set permission / policies (file-access)
-@ulend
-
-+++
-### CORS
-@ul
-- Möglichst verzichten
-- *, null, ..
-- set Vary: Origin
 @ulend
 
 
@@ -743,4 +669,78 @@ Access-Control-Allow-Credentials: true
   - ChallengeResponseAuthentication yes
 - ssh-aufit.py
 - Regenerate Moduli (prime numbers & generators)
+@ulend
+
++++
+### CORS Misskonfigurationen (1)
+Access-Control-Allow-Origin:
+<br>
+##### Supported:
+@ul
+- * (wildcard)
+- origin (domain-name)
+- origin-list-or-null
+@ulend
+
++++
+### CORS Misskonfigurationen (2)
+<br>
+##### Realitiy:
+@ul
+- https://*.mywebsite.ch (NOT WORKING)
+- one-site.ch, another-site.ch (lack of support)
+@ulend
+
++++
+### CORS Misskonfigurationen (3)
+#### Workarrounds
+@ul
+- Simple Origin Reflection
+- Startswith
+- Endswith
+- Origin: null
+@ulend
+
++++
+### Workarrounds
+#### Simple Origin Reflection
+![ac_cors-simple-reflection](/res/PNGs/a-c_cors-simple-reflection.png)
+
++++
+### Workarround: Startswith
+![ac_cors-Startswith](/res/PNGs/a-c_cors-startswith.png)
+
++++
+### Workarround: Endswith
+![ac_cors-Startswith](/res/PNGs/a-c_cors-endswith.png)
+
+
++++
+### Workarround: Origin null
+![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
+
++++?code=res/snippets/ac_cors-iframe-sandbox.html&lang=HTML&title=iframe sandbox (null)
+
++++
+### ACA-Credentials: true
+<br>
+
+#### Not working
+Access-Control-Allow-Origin: *
+<br>
+Access-Control-Allow-Credentials: true
+<br>
+<br>
+
+#### WORKING!
+Access-Control-Allow-Origin: null
+<br>
+Access-Control-Allow-Credentials: true
+
++++
+### CORS - Massnahmen
+@ul
+- Möglichst verzichten
+- *, null, ..
+- set Vary: Origin
 @ulend
