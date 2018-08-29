@@ -764,8 +764,10 @@ Access-Control-Allow-Credentials: true
 ### Stored XSS
 ![stored_xss](/res/PNGs/Stored_XSS.png)
 
++++
 ### DOM XXS (1)
 ![dom_xss](/res/PNGs/DOM_XSS1.png)
 
++++
 ### DOM XXS (2)
 ![dom_xss](/res/PNGs/DOM_XSS2.png)
