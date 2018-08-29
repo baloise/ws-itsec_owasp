@@ -771,3 +771,9 @@ Access-Control-Allow-Credentials: true
 +++
 ### DOM XXS (2)
 ![dom_xss](/res/PNGs/DOM_XSS2.png)
+
++++
+### Level UP
+
++++
+## Massnahmen
