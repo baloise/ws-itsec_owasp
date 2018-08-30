@@ -808,6 +808,18 @@ JS: add, del, read, manipulate
 ### Vertau Input nicht!
 
 +++
+### Escaping
+@ul
+- HTML Entity Encoding
+- URL Encoding
+- CSS Hex Encoding
+- Sanitize HTML
+  - HtmlSanitizer
+  - OWASP Java HTML Sanitizer
+- ..tbd
+@ulend
+
++++
 ### Input Validation (server-side!)
 @ul
 <br>
@@ -825,7 +837,10 @@ JS: add, del, read, manipulate
 +++
 ### Output Validation
 @ul
-- innerHTML vs innrtText
+- Sanitize
+  - inner-/ outerHTML
+  - write/writeln()
+- ..tbd
 @ulend
 
 +++
