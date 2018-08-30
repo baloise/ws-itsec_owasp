@@ -817,7 +817,7 @@ JS: add, del, read, manipulate
 +++
 ### Output Validation
 @ul
-- 
+- innerHTML vs innrtText
 @ulend
 
 +++
