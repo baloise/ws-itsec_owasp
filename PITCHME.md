@@ -822,3 +822,16 @@ JS: add, del, read, manipulate
 
 +++
 ### Content Security Policy (CSP)
+
++++
+### Headers & Cookie
+@ul
+- Header:
+  - X-XSS-Protection: 1; mode=block 
+  - (Content-Security-Policy-Header)
+<br>
+- Cookie:
+  - Set-Cookie: Secure
+  - Set-Cookie: HttpOnly
+  - Set-Cookie: SameSite
+@ulend
