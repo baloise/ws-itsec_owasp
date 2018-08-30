@@ -785,11 +785,15 @@ JS: add, del, read, manipulate
 ![DOM_js](/res/PNGs/DOM_js.png)
 
 +++
-### DOM XXS (1)
+### DOM XXS
+![dom_xss](/res/PNGs/DOM_XSS0.png)
+
++++
+### DOM XXS (level up)
 ![dom_xss](/res/PNGs/DOM_XSS1.png)
 
 +++
-### DOM XXS (2)
+### DOM XXS (level up)
 ![dom_xss](/res/PNGs/DOM_XSS2.png)
 
 +++
