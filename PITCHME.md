@@ -803,3 +803,22 @@ JS: add, del, read, manipulate
 
 +++
 ## Massnahmen
+
++++
+### Vertau Input nicht!
+
++++
+### Input Validation
+@ul
+- PLZ: 4 Zahlen
+- ..
+@ulend
+
++++
+### Output Validation
+@ul
+- 
+@ulend
+
++++
+### Content Security Policy (CSP)
