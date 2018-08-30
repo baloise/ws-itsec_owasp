@@ -757,6 +757,9 @@ Access-Control-Allow-Credentials: true
 # @color[#282828](**A7: Cross-Site-Scripting**)
 
 +++
+### MySpace Worm "Samy"
+
++++
 ### Cross-Site-Scripting (XSS)
 @ul
 - Reflected XSS / type I (server basiert)
