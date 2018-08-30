@@ -786,18 +786,18 @@ JS: add, del, read, manipulate
 
 +++
 ### DOM XXS
-![dom_xss](/res/PNGs/DOM_XSS0.png)
-
-+++
-### DOM XXS (level up)
 ![dom_xss](/res/PNGs/DOM_XSS1.png)
-
 +++
-### DOM XXS (level up)
+### DOM XXS
 ![dom_xss](/res/PNGs/DOM_XSS2.png)
 
 +++
-### Level UP
+### DOM XXS (#Fragments)
+![dom_xss](/res/PNGs/DOM_XSS-f1.png)
+
++++
+### DOM XXS (#Fragments)
+![dom_xss](/res/PNGs/DOM_XSS-f2.png)
 
 +++
 ## Massnahmen
