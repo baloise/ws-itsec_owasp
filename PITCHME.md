@@ -757,12 +757,23 @@ Access-Control-Allow-Credentials: true
 # @color[#282828](**A7: Cross-Site-Scripting**)
 
 +++
+### Cross-Site-Scripting (XSS)
+@ul
+- Reflected XSS / type I (server basiert)
+- Stored XSS / type II (server basiert)
+- DOM / type-0 XSS (client only)
+@ulend
+
++++
 ### Reflected XSS
 ![reflected_xss](/res/PNGs/Reflected_XSS.png)
 
 +++
 ### Stored XSS
 ![stored_xss](/res/PNGs/Stored_XSS.png)
+
++++
+### Document Object Model (DOM) XSS
 
 +++
 ### DOM XXS (1)
