@@ -790,7 +790,7 @@ JS: add, del, read, manipulate
 ### DOM XXS
 ![dom_xss](/res/PNGs/DOM_XSS1.png)
 +++
-### DOM XXS
+### DOM XXS (browser encoding)
 ![dom_xss](/res/PNGs/DOM_XSS2.png)
 
 +++
