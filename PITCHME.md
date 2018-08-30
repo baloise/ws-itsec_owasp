@@ -810,8 +810,11 @@ JS: add, del, read, manipulate
 +++
 ### Input Validation
 @ul
-- PLZ: 4 Zahlen
-- ..
+- Beispiel Postleitzahl:
+  - Nur Zahlen
+  - vier Ziffern
+<br>
+- Whitelist Input
 @ulend
 
 +++
