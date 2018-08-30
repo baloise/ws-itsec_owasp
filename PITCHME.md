@@ -803,15 +803,3 @@ JS: add, del, read, manipulate
 
 +++
 ## Massnahmen
-
-Hallo
-<script>
-  var pos=document.URL.indexOf("name")+5;
-  document.write(document.URL.substring(pos,document.URL.length));
-</script>
-,<br>
-
-Herzlich Willkommen auf dieser Seite ...
-<!DOCTYPE html>
-<html lang="en" dir="ltr" class="client-nojs">
-<head>
