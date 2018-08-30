@@ -774,6 +774,7 @@ Access-Control-Allow-Credentials: true
 
 +++
 ### Document Object Model (DOM) XSS
+![DOM](/res/PNGs/DOM.png)
 
 +++
 ### DOM XXS (1)
