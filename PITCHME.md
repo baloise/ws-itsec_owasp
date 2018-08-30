@@ -775,6 +775,7 @@ Access-Control-Allow-Credentials: true
 +++
 ### Document Object Model (DOM) XSS
 ![DOM](/res/PNGs/DOM.png)
+JS: add, del, read, manipulate
 
 +++
 ### DOM XXS (1)
