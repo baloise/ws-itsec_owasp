@@ -831,7 +831,7 @@ JS: add, del, read, manipulate
   - (Content-Security-Policy-Header)
 <br>
 - Cookie:
-  - Set-Cookie: Secure
-  - Set-Cookie: HttpOnly
+  - Set-Cookie: Secure (HTTPS)
+  - Set-Cookie: HttpOnly (no javascript)
   - Set-Cookie: SameSite
 @ulend
