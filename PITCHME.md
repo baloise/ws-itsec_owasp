@@ -808,13 +808,18 @@ JS: add, del, read, manipulate
 ### Vertau Input nicht!
 
 +++
-### Input Validation
+### Input Validation (server-side!)
 @ul
+<br>
+- Validation:
+  - RegEx
+  - Pattern
+  - Whitelist
+  - MIME
+<br>
 - Beispiel Postleitzahl:
   - Nur Zahlen
   - vier Ziffern
-<br>
-- Whitelist Input
 @ulend
 
 +++
