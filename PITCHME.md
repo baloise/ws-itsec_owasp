@@ -762,11 +762,11 @@ Access-Control-Allow-Credentials: true
 +++
 ### Cross-Site-Scripting (XSS)
 @ul
-- Reflected XSS / type I (server basiert)
+- Reflected XSS / type I (server-basiert)
 <br>
-- Stored XSS / type II (server basiert)
+- Stored XSS / type II (server-basiert)
 <br>
-- DOM / type-0 XSS (client only)
+- DOM / type-0 XSS (client-basiert)
 @ulend
 
 +++
