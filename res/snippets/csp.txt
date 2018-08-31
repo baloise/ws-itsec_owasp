@@ -1,0 +1,21 @@
+// Content-Security-Policy HTTP header
+Content-Security-Policy: policy
+
+// ganzer Inhalt von sich (exl. subdomain)
+Content-Security-Policy: default-src 'self'
+
+// Inhalt von sich + spezifischer Domain
+Content-Security-Policy: default-src 'self' *.vertraut.ch
+
+// Bilder(img) von überall ABER audio/video nur von spezifischen Domains
+Content-Security-Policy: default-src 'self'; img-src *; media-src media-srv1.ch media-srv2.ch
+
+// Bilder(img) von überall ABER script nur von spezifischer Domain
+Content-Security-Policy: default-src 'self'; img-src *; script-src meine.scripts.ch
+
+// Inhalte werden nur über SSL (oder gar nicht) geladen
+Content-Security-Policy: default-src https://banking.bank.ch
+
+// Inhalte von selbst + *.mail.ch
+// ABER Scripte nur von selbst, da default-src -"Policy"
+Content-Security-Policy: default-src 'self' *.mail.ch
