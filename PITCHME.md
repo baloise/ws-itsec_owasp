@@ -841,16 +841,8 @@ JS: add, del, read, manipulate
 @ulend
 
 +++
-### Output Validation
-@ul
-- Sanitize
-  - inner-/ outerHTML
-  - write/writeln()
-- ..tbd
-@ulend
-
-+++
 ### Content Security Policy (CSP)
+
 
 +++
 ### Headers & Cookie
@@ -864,3 +856,6 @@ JS: add, del, read, manipulate
   - Set-Cookie: HttpOnly (no javascript)
   - Set-Cookie: SameSite
 @ulend
+
+### HTML5 Security Cheatsheet
+https://html5sec.org/
