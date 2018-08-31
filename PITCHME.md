@@ -802,6 +802,12 @@ JS: add, del, read, manipulate
 ![dom_xss](/res/PNGs/DOM_XSS-f2.png)
 
 +++
+## @size[1.5em](Demo Cross-Site Scripting)
+@css[demo](**XSS!**)
+<br>
+@css[demo](**Cookie stealing**)
+
++++
 ## Massnahmen
 
 +++
