@@ -1,0 +1,5 @@
+// Content-Security-Policy HTTP header
+Content-Security-Policy: policy
+
+// ganzer Inhalt von sich (exl. subdomain)
+Content-Security-Policy: default-src 'self'

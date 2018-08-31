@@ -840,8 +840,12 @@ JS: add, del, read, manipulate
   - vier Ziffern
 @ulend
 
-+++?code=/res/snippets/csp.txt&title=Content Security Policy (CSP)
-@[1]
++++?code=/res/snippets/csp1.txt&title=Content Security Policy (CSP)
+
++++?code=/res/snippets/csp2.txt&title=Content Security Policy (CSP)
+
++++?code=/res/snippets/csp3.txt&title=Content Security Policy (CSP)
+
 
 +++
 ### Headers & Cookie
