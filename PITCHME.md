@@ -744,15 +744,6 @@ Access-Control-Allow-Credentials: true
 - set Vary: Origin
 @ulend
 
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### CORS - Massnahmen
-@ul
-- Möglichst verzichten
-- *, null, ..
-- set Vary: Origin
-@ulend
-
-
 ---
 # @color[#282828](**A7: Cross-Site-Scripting**)
 
