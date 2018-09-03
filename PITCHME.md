@@ -538,7 +538,7 @@ Max Mustermann
 ### forced Browsing
 @ul
 - Kontroll-Mechanismus
-- Überall und immer den selbern KM
+- Überall und immer den selben KM
 @ulend
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
