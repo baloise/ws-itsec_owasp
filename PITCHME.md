@@ -822,7 +822,6 @@ JS: add, del, read, manipulate
 - Sanitize HTML
   - HtmlSanitizer
   - OWASP Java HTML Sanitizer
-- ..tbd
 @ulend
 
 +++
