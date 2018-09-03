@@ -826,6 +826,16 @@ JS: add, del, read, manipulate
 @ulend
 
 +++
+### Escaping - HTML Entity Encoding
+@ul
+- " --> &quot;
+- < --> &lt;
+<br>
+- "giants" are > "midgets"
+- &quot;giants&quot; are &lt; &quot;midgets&quot;
+@ulend
+
++++
 ### Input Validation (server-side!)
 @ul
 <br>
