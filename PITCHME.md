@@ -860,5 +860,6 @@ JS: add, del, read, manipulate
   - Set-Cookie: SameSite
 @ulend
 
++++
 ### HTML5 Security Cheatsheet
 https://html5sec.org/
