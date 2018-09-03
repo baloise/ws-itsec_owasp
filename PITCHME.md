@@ -819,10 +819,10 @@ JS: add, del, read, manipulate
 ### Escaping - HTML Entity Encoding
 @ul
 - " --> `&quot;`
-- < --> &lt;
+- < --> `&lt;`
 <br>
 - "giants" are > "midgets"
-- &quot;giants&quot; are &lt; &quot;midgets&quot;
+- `&quot;giants&quot; are &lt; &quot;midgets&quot;`
 @ulend
 
 +++
