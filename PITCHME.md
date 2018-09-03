@@ -815,18 +815,7 @@ JS: add, del, read, manipulate
   - OWASP Java HTML Sanitizer
 @ulend
 
-+++
-### Escaping - HTML Entity Encoding
-@ul
-- " 
-  - --> `&quot;`
-- < 
-  - --> `&lt;`
-<br>
-
-- "giants" are > "midgets"
-  - `&quot;giants&quot; are &lt; &quot;midgets&quot;`
-@ulend
++++?code=/res/snippets/html-entity-encoding.txt&title=Escaping - HTML Entity Encoding
 
 +++
 ### Input Validation (server-side!)
