@@ -744,13 +744,13 @@ Access-Control-Allow-Credentials: true
 - set Vary: Origin
 @ulend
 
----?image=/res/code40.jpg
+---?image=/res/code30.jpg
 # @color[#282828](**A7: Cross-Site-Scripting**)
 
-+++
++++?image=/res/code10.jpg
 ### MySpace Worm "Samy"
 
-+++
++++?image=/res/code10.jpg
 ### Cross-Site-Scripting (XSS)
 @ul
 - Reflected XSS (server-basiert)
