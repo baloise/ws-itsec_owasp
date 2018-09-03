@@ -744,7 +744,7 @@ Access-Control-Allow-Credentials: true
 - set Vary: Origin
 @ulend
 
----
+---?image=/res/code50.jpg
 # @color[#282828](**A7: Cross-Site-Scripting**)
 
 +++
