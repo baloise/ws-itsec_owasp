@@ -760,51 +760,51 @@ Access-Control-Allow-Credentials: true
 - DOM / (client-basiert)
 @ulend
 
-+++
++++?image=/res/code10.jpg
 ### Reflected XSS
 ![reflected_xss](/res/PNGs/Reflected_XSS.png)
 
-+++
++++?image=/res/code10.jpg
 ### Stored XSS
 ![stored_xss](/res/PNGs/Stored_XSS.png)
 
-+++
++++?image=/res/code10.jpg
 ### Document Object Model (DOM) XSS
 ![DOM](/res/PNGs/DOM.png)
 JS: add, del, read, manipulate
 
-+++
++++?image=/res/code10.jpg
 ### Dom & JavaScript
 ![DOM_js](/res/PNGs/DOM_js.png)
 
-+++
++++?image=/res/code10.jpg
 ### DOM XXS
 ![dom_xss](/res/PNGs/DOM_XSS1.png)
-+++
++++?image=/res/code10.jpg
 ### DOM XXS (browser encoding)
 ![dom_xss](/res/PNGs/DOM_XSS2.png)
 
-+++
++++?image=/res/code10.jpg
 ### DOM XXS (#Fragments)
 ![dom_xss](/res/PNGs/DOM_XSS-f1.png)
 
-+++
++++?image=/res/code10.jpg
 ### DOM XXS (#Fragments)
 ![dom_xss](/res/PNGs/DOM_XSS-f2.png)
 
-+++
++++?image=/res/code10.jpg
 ## @size[1.5em](Demo Cross-Site Scripting)
 @css[demo](**XSS!**)
 <br>
 @css[demo](**Cookie stealing**)
 
-+++
++++?image=/res/code10.jpg
 ## Massnahmen
 
-+++
++++?image=/res/code10.jpg
 ### Vertau Input nicht!
 
-+++
++++?image=/res/code10.jpg
 ### Escaping
 @ul
 - HTML Entity Encoding
@@ -817,7 +817,7 @@ JS: add, del, read, manipulate
 
 +++?code=/res/snippets/html-entity-encoding.txt&lang=HTML&title=Escaping - HTML Entity Encoding
 
-+++
++++?image=/res/code10.jpg
 ### Input Validation (server-side!)
 @ul
 <br>
@@ -839,7 +839,7 @@ JS: add, del, read, manipulate
 +++?code=/res/snippets/csp3.txt&title=Content Security Policy (CSP)
 
 
-+++
++++?image=/res/code10.jpg
 ### Headers & Cookie
 @ul
 - Header:
@@ -852,6 +852,6 @@ JS: add, del, read, manipulate
   - Set-Cookie: SameSite
 @ulend
 
-+++
++++?image=/res/code10.jpg
 ### HTML5 Security Cheatsheet
 https://html5sec.org/
