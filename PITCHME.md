@@ -871,5 +871,5 @@ https://html5sec.org/
 @ulend
 
 +++
-### Object Injection - Gatgets
+### Object Injection - Gadgets
 ![Serialization-gadgets](/res/PNGs/Serialization-gadgets.png)
