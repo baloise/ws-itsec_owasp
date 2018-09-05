@@ -744,8 +744,6 @@ Access-Control-Allow-Credentials: true
 - set Vary: Origin
 @ulend
 
----?image=/res/code30.jpg
-# @color[#282828](**A7: Cross-Site-Scripting**)
 
 +++?image=/res/code10.jpg
 ### MySpace Worm "Samy"
@@ -855,3 +853,7 @@ JS: add, del, read, manipulate
 +++?image=/res/code10.jpg
 ### HTML5 Security Cheatsheet
 https://html5sec.org/
+
+
+---
+# @color[#282828](**A8: Insecure Deserialization**)
