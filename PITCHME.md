@@ -869,3 +869,7 @@ https://html5sec.org/
 <br>
 - Speichern von Dataen
 @ulend
+
++++
+### Object Injection - Gatgets
+![Serialization-gadgets](/res/PNGs/Serialization-gadgets.png)
