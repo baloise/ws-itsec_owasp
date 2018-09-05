@@ -860,7 +860,7 @@ https://html5sec.org/
 
 +++
 ### Was ist Serialization?
-Bild: Object stream Object
+![Serialize-Concept](/res/PNGs/Serialization.png)
 
 @ul
 - Daten Transport (Kabel)
