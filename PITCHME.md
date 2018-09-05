@@ -857,3 +857,13 @@ https://html5sec.org/
 
 ---
 # @color[#282828](**A8: Insecure Deserialization**)
+
++++
+### Was ist Serialization?
+Bild: Object stream Object
+
+@ul
+- Daten Transport (Kabel)
+<br>
+- Speichern von Dataen
+@ulend
