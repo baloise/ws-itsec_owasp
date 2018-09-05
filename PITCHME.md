@@ -744,6 +744,8 @@ Access-Control-Allow-Credentials: true
 - set Vary: Origin
 @ulend
 
+---?image=/res/code30.jpg
+# @color[#282828](**A7: Cross-Site Scripting**)
 
 +++?image=/res/code10.jpg
 ### MySpace Worm "Samy"
