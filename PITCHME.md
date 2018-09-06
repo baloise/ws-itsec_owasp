@@ -920,3 +920,28 @@ https://html5sec.org/
 +++
 ### Unterhaltungs-Zyklus
 ![maintenance-circel](/res/PNGs/com-circel.png)
+
++++
+### Dependency
+@ul
+- Dependency Checker
+@ulend
+
++++
+### Monitoring
+@ul
+- Bleib dran: Vulnerabilities & Patches
+<br>
+- Veralten Libraries / Components ?
+@ulend
+
++++
+### Konfiguration
+@ul
+- Anforderungen Prüfen
+  - Konfiguration
+  - Features, etc 
+- Anpassen
+
++++
+### Patch!
