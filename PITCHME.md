@@ -921,14 +921,13 @@ https://html5sec.org/
 ### Unterhaltungs-Zyklus
 ![maintenance-circel](/res/PNGs/com-circel.png)
 
-+++
++++?image=/res/PNGs/pythagoras-tree.png&size=cover&title= Dependency
 ### Dependency
 @ul
 - Dependency Checker
-<br>https://www.owasp.org/index.php/OWASP_Dependency_Check
-- 
+<br>
+- https://www.owasp.org/index.php/OWASP_Dependency_Check
 @ulend
-![pyth-tree](/res/PNGs/pythagoras-tree.png)
 
 +++
 ### Monitoring
