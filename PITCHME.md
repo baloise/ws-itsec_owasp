@@ -950,4 +950,4 @@ https://html5sec.org/
 
 +++
 ### Patch!
-![patch](/res/patch.jpg&size=cover)
+![patch](/res/patch.jpg)
