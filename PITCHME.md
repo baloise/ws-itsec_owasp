@@ -921,8 +921,9 @@ https://html5sec.org/
 ### Unterhaltungs-Zyklus
 ![maintenance-circel](/res/PNGs/com-circel.png)
 
-+++?image=/res/PNGs/pythagoras-tree.png
++++
 ### Dependency
+![pyth-tree](/res/PNGs/pythagoras-tree.png)
 @ul
 - Dependency Checker
 <br>https://www.owasp.org/index.php/OWASP_Dependency_Check
