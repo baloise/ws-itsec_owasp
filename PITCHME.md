@@ -922,10 +922,11 @@ https://html5sec.org/
 ![maintenance-circel](/res/PNGs/com-circel.png)
 
 +++?image=/res/PNGs/pythagoras-tree40.png&size=cover
+### Dependency
 @ul
 - Dependency Checker
 <br>
-- https://www.owasp.org/index.php/OWASP_Dependency_Check
+- owasp.org/index.php/OWASP_Dependency_Check
 @ulend
 
 +++
