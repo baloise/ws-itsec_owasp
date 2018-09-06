@@ -885,6 +885,7 @@ https://html5sec.org/
 - (or) only ser. mediums with primitive data types.
 @ulend
 
++++
 ### Serialization - Checks
 @ul
 - Integritäts-Checks (digitale Signaturen)
