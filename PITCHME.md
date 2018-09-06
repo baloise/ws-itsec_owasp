@@ -931,6 +931,8 @@ https://html5sec.org/
 ### Monitoring
 @ul
 - Bleib dran: Vulnerabilities & Patches
+  - CVE, NVD, ..
+  - Mail, Twitter, etc. -Feeds
 <br>
 - Veralten Libraries / Components ?
 @ulend
@@ -941,7 +943,8 @@ https://html5sec.org/
 - Anforderungen Prüfen
   - Konfiguration
   - Features, etc 
-- Anpassen
+<br>
+- Nicht benötigt --> Anpassen
 
 +++
 ### Patch!
