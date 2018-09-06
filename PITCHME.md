@@ -897,3 +897,25 @@ https://html5sec.org/
 
 ---
 # @color[#282828](**A9: Using Components with Known Vulnerabilities**)
+
++++
+### Veraltete / verwundbare Komponenten
+@ul
+- Web Server
+  - Apache -> Sturs
+
+- Database Server
+  - Java VM
+
+- TLS / SSL
+  - Heartbleed
+@ulend
+
++++
+### Internet of Things
+
++++
+## Massnahmen
+
++++
+### Dependency Checks
