@@ -902,10 +902,10 @@ https://html5sec.org/
 ### Veraltete / verwundbare Komponenten
 @ul
 - Web Server
-  - Apache -> Sturs
+  - Apache --> Sturs
 <br>
 - Database Server
-  - Java VM
+  - Oracle --> Java VM
 <br>
 - TLS / SSL
   - Heartbleed
