@@ -923,12 +923,12 @@ https://html5sec.org/
 
 +++
 ### Dependency
-![pyth-tree](/res/PNGs/pythagoras-tree.png)
 @ul
 - Dependency Checker
 <br>https://www.owasp.org/index.php/OWASP_Dependency_Check
 - 
 @ulend
+![pyth-tree](/res/PNGs/pythagoras-tree.png)
 
 +++
 ### Monitoring
