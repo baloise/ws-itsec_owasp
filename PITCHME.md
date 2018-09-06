@@ -921,8 +921,7 @@ https://html5sec.org/
 ### Unterhaltungs-Zyklus
 ![maintenance-circel](/res/PNGs/com-circel.png)
 
-+++?image=/res/PNGs/pythagoras-tree.png&size=cover&title= Dependency
-### Dependency
++++?image=/res/PNGs/pythagoras-tree40.png&size=cover
 @ul
 - Dependency Checker
 <br>
