@@ -925,6 +925,8 @@ https://html5sec.org/
 ### Dependency
 @ul
 - Dependency Checker
+<br>https://www.owasp.org/index.php/OWASP_Dependency_Check
+- 
 @ulend
 
 +++
