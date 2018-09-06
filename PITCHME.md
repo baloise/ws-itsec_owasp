@@ -867,7 +867,7 @@ https://html5sec.org/
 @ul
 - Daten Transport (Kabel)
 <br>
-- Speichern von Dataen
+- Speichern von Daten
 @ulend
 
 +++
