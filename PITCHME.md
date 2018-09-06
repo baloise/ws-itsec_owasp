@@ -918,4 +918,5 @@ https://html5sec.org/
 ## Massnahmen
 
 +++
-### Dependency Checks
+### Unterhaltungs-Zyklus
+![maintenance-circel](/res/PNGs/com-circel.png)
