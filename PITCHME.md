@@ -873,3 +873,15 @@ https://html5sec.org/
 +++
 ### Object Injection - Gadgets
 ![Serialization-gadgets](/res/PNGs/Serialization-gadgets.png)
+
++++
+### Massnahmen
+
++++
+### Serialization - Trust
+@ul
+- serializerte Daten nur vertrauenswürdigen Quellen!
+<br>
+- (or) only ser. mediums with primitive data types.
+@ulend
+
