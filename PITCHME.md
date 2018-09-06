@@ -948,5 +948,5 @@ https://html5sec.org/
 <br>
 - Nicht benötigt --> Anpassen
 
-+++?image=/res/patch.jpg
-### Patch!
++++?image=/res/patch60.jpg
+# Patch!
