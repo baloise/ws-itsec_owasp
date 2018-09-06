@@ -894,3 +894,6 @@ https://html5sec.org/
 - Monitoring / Restriktionen
   - In- & ausgehende Konnectivität
   - Alarm wenn konstante deserial. von user
+
+---
+# @color[#282828](**A9: Using Components with Known Vulnerabilities**)
