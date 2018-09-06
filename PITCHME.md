@@ -885,3 +885,11 @@ https://html5sec.org/
 - (or) only ser. mediums with primitive data types.
 @ulend
 
+### Serialization - Checks
+@ul
+- Integritäts-Checks (digitale Signaturen)
+- Deserialization-Ausführung in low privilege env.
+- Logging des. expetions and failures
+- Monitoring / Restriktionen
+  - In- & ausgehende Konnectivität
+  - Alarm wenn konstante deserial. von user
