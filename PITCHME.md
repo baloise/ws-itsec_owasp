@@ -957,3 +957,7 @@ https://html5sec.org/
 
 +++?image=/res/patch60.jpg
 # Patch!
+
+
+---
+# @color[#282828](**A9: Insufficient Logging&Monitoring**)
