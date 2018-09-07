@@ -913,6 +913,13 @@ https://html5sec.org/
 
 +++
 ### Internet of Things
+@ul
+- Mirai Botnet
+- Hackbare Herzschrittmacher
+- Owlet WiFi Baby Heart Monitor
+- TRENDnet Webcam
+- Jeep Hack
+@ulend
 
 +++
 ## Massnahmen
