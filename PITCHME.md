@@ -961,3 +961,7 @@ https://html5sec.org/
 
 ---
 # @color[#282828](**A9: Insufficient Logging&Monitoring**)
+
++++
+### Watch your logs
+![logs-monitoring](/res/PNGs/logging_on-off.png)
