@@ -983,5 +983,17 @@ https://html5sec.org/
 ![Hb-IDS](/res/PNGs/HIDS.png)
 
 +++
-### Host-basiertes IDS
+### Netzwerk-basiertes IDS
 ![Nb-IDS](/res/PNGs/NIDS.png)
+
++++
+### Web App Firewall (WAF)
+@ul
+- ModSecurity, SpiderLabs, OpenSource
+  - https://modsecurity.org/
+- OWASP ModSecurity Core Rule Set
+  - https://coreruleset.org/
+<br>
+- einfache Installation + Bedinung
+- wenige false-positive
+@ul
