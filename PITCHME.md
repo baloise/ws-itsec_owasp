@@ -975,8 +975,13 @@ https://html5sec.org/
 @ul
 - Host-basierte IDS
 - Netzwerk-basierte IDS
+- Hybride (Host+Net) IDS
 @ulend
 
 +++
 ### Host-basiertes IDS
 ![Hb-IDS](/res/PNGs/HIDS.png)
+
++++
+### Host-basiertes IDS
+![Nb-IDS](/res/PNGs/NIDS.png)
