@@ -972,3 +972,7 @@ https://html5sec.org/
 
 +++
 ### Intrusion Detection Systems (IDS)
+@ul
+- Host-basierte IDS
+- Netzwerk-basierte IDS
+@ulend
