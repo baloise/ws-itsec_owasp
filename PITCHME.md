@@ -976,3 +976,7 @@ https://html5sec.org/
 - Host-basierte IDS
 - Netzwerk-basierte IDS
 @ulend
+
++++
+### Host-basiertes IDS
+![Hb-IDS](/res/PNGs/HIDS.png)
