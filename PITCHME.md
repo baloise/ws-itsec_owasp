@@ -951,7 +951,7 @@ https://html5sec.org/
 @ul
 - Anforderungen Prüfen
   - Konfiguration
-  - Features, etc 
+  - Features, etc
 <br>
 - Nicht benötigt --> Anpassen
 
@@ -969,3 +969,6 @@ https://html5sec.org/
 +++
 ### Passende Schwellenwerte
 ![treshold-logging](/res/PNGs/logging_treshold.png)
+
++++
+### Intrusion Detection Systems (IDS)
