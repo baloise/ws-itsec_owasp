@@ -968,4 +968,4 @@ https://html5sec.org/
 
 +++
 ### Passende Schwellenwerte
-![treshold-logging](/res/PNGs/logging_treshold.png1)
+![treshold-logging](/res/PNGs/logging_treshold.png)
