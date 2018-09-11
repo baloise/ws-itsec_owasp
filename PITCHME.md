@@ -353,6 +353,7 @@ standart font
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Shodan)
+![shodan](/res/PNGs/Shodan.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Social Media)
