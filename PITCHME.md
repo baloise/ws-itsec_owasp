@@ -348,10 +348,14 @@ standart font
 ![s3-bucket](/res/PNGs/leaking-bucket.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Daten in Ruhe: 
-- Google Hacking
-- Shodan
-- Social Media
+### Daten in Ruhe (Google)
+![gogHack](/res/PNGs/GoogleHacks.png)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Daten in Ruhe (Shodan)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Daten in Ruhe (Social Media)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ## @size[1.5em](Demo Sensitive Data Exposure)
@@ -974,7 +978,9 @@ https://html5sec.org/
 ### Intrusion Detection Systems (IDS)
 @ul
 - Host-basierte IDS
+<br>
 - Netzwerk-basierte IDS
+<br>
 - Hybride (Host+Net) IDS
 @ulend
 
