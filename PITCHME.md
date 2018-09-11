@@ -357,6 +357,7 @@ standart font
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Social Media)
+![social-exp](/res/PNGs/SocialMediaExp.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ## @size[1.5em](Demo Sensitive Data Exposure)
