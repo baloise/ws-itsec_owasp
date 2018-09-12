@@ -608,9 +608,9 @@ Max Mustermann
 @ulend
 
 +++?code=/res/snippets/nginx-config.conf&title=Nginx - enable SSL
-@[3, 5-7]
-@[6, 7]
-@[8]
+@[3, 5-8]
+@[9, 10]
+@[11]
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Nginx Hardening (1)
