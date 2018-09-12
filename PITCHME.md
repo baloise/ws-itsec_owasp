@@ -633,6 +633,9 @@ Max Mustermann
 @ulend
 
 +++?code=/res/snippets/nginx-config2.conf&title=Nginx - additional config
+@[1-5]
+@[7, 8]
+@[10-11]
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Apache Hardening (1)
