@@ -486,6 +486,9 @@ Max Mustermann
 - /external-parameter-entities
 - /load-external-dtd
 
+### Mehr / anwendungsbezogene Infos
+<a href="https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Prevention_Cheat_Sheet">XXE Prevention Cheat Sheet</a>
+
 ---?image=/res/PNGs/B-A_Control40i.png&size=cover
 # @color[#282828](**A5: Broken Access Control**)
 
