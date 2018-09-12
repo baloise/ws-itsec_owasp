@@ -462,8 +462,14 @@ Max Mustermann
 ### Vertrau User-Input nicht!
 
 +++?image=/res/xxeO10.png&size=cover
-### DTDs (External Entities) deaktivieren
-/features/disallow-doctype-decl: true
+### Allgemein
+@ul
+- DTDs (komplett) deaktivieren
+<br>
+- Alternativ, deaktivieren
+  - external entities
+  - external DTDs
+@ulend
 
 +++?image=/res/xxeO10.png&size=cover
 ### Features abstellen (Java)
