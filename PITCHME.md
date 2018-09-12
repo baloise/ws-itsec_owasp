@@ -724,7 +724,6 @@ Access-Control-Allow-Origin:
 - Simple Origin Reflection
 - Startswith
 - Endswith
-- Origin: null
 @ulend
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
@@ -740,9 +739,11 @@ Access-Control-Allow-Origin:
 ### Workarround: Endswith
 ![ac_cors-Startswith](/res/PNGs/a-c_cors-endswith.png)
 
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### Origin null
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Workarround: Origin null
+### Origin null
 ![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
 
 +++?code=res/snippets/ac_cors-iframe-sandbox.html&lang=HTML&title=iframe sandbox (null)
