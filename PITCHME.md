@@ -486,6 +486,7 @@ Max Mustermann
 - /external-parameter-entities
 - /load-external-dtd
 
++++?image=/res/xxeO10.png&size=cover
 ### Mehr / anwendungsbezogene Infos
 <a href="https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Prevention_Cheat_Sheet">XXE Prevention Cheat Sheet</a>
 
