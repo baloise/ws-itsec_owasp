@@ -608,8 +608,9 @@ Max Mustermann
 @ulend
 
 +++?code=/res/snippets/nginx-config.conf&title=Nginx - enable SSL
-@[3]
+@[3, 5-7]
 @[6, 7]
+@[8]
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Nginx Hardening (1)
@@ -741,6 +742,7 @@ Access-Control-Allow-Origin:
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Origin null
+"[...]request is issued from a file on a user’s computer"
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Origin null
@@ -763,10 +765,11 @@ Access-Control-Allow-Origin: null
 Access-Control-Allow-Credentials: true
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### CORS
+### CORS Grundüberlegungen
 @ul
 - Möglichst verzichten
-- *, null, ..
+- *
+- null
 - set Vary: Origin
 @ulend
 
