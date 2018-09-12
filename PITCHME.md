@@ -684,6 +684,12 @@ Max Mustermann
 @ulend
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### SOP & CORS
+@ul
+- Same Origin Policy
+- Cross-Origin Request Sharing
+@ulend
+
 ### Cross-Origin Request Sharing (1)
 ![ac_cors-info1](/res/PNGs/a-c_cors-sop.png)
 
