@@ -694,6 +694,7 @@ Max Mustermann
 - Cross-Origin Request Sharing
 @ulend
 
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Cross-Origin Request Sharing (1)
 ![ac_cors-info1](/res/PNGs/a-c_cors-sop.png)
 
