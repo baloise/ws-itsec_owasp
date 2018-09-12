@@ -543,7 +543,7 @@ Max Mustermann
 ## Massnahmen
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
-### Vertrauen
+### Vertrau User Input nicht!
 @ul
 - Server-side code
 - Server-less API
