@@ -544,6 +544,9 @@ Max Mustermann
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Vertrau User Input nicht!
+
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
+### Validation
 @ul
 - Server-side code
 - Server-less API
