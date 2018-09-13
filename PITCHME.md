@@ -1011,11 +1011,11 @@ https://html5sec.org/
 ### Watch your logs
 ![logs-monitoring](/res/PNGs/logging_on-off.png)
 
-+++?image=/res/monitor-bg15.png
++++?image=/res/monitor-bg11.png
 ### Passende Schwellenwerte
 ![treshold-logging](/res/PNGs/logging_treshold.png)
 
-+++?image=/res/monitor-bg20.png
++++?image=/res/monitor-bg11.png
 ### Intrusion Detection Systems (IDS)
 @ul
 - Host-basierte IDS
@@ -1025,15 +1025,15 @@ https://html5sec.org/
 - Hybride (Host+Net) IDS
 @ulend
 
-+++
++++?image=/res/monitor-bg11.png
 ### Host-basiertes IDS
 ![Hb-IDS](/res/PNGs/HIDS.png)
 
-+++
++++?image=/res/monitor-bg11.png
 ### Netzwerk-basiertes IDS
 ![Nb-IDS](/res/PNGs/NIDS.png)
 
-+++
++++?image=/res/monitor-bg11.png
 ### Web App Firewall (WAF)
 @ul
 - ModSecurity, SpiderLabs, OpenSource
