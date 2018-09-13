@@ -923,7 +923,7 @@ https://html5sec.org/
 +++?image=/res/serial-bg10.jpg
 ### Massnahmen
 
-+++
++++?image=/res/serial-bg10.jpg
 ### Serialization - Trust
 @ul
 - serializerte Daten nur vertrauenswürdigen Quellen!
@@ -931,7 +931,7 @@ https://html5sec.org/
 - (or) only ser. mediums with primitive data types.
 @ulend
 
-+++
++++?image=/res/serial-bg10.jpg
 ### Serialization - Checks
 @ul
 - Integritäts-Checks (digitale Signaturen)
