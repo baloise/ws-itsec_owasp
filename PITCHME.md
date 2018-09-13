@@ -903,7 +903,7 @@ JS: add, del, read, manipulate
 https://html5sec.org/
 
 
----?image=/res/PNGs/serial-bg40.jpg
+---?image=/res/serial-bg40.jpg
 # @color[#282828](**A8: Insecure Deserialization**)
 
 +++
