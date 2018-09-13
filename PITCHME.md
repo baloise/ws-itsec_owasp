@@ -974,12 +974,12 @@ https://html5sec.org/
 ### Unterhaltungs-Zyklus
 ![maintenance-circel](/res/PNGs/com-circel.png)
 
-+++?image=/res/PNGs/pythagoras-tree40.png&size=cover
-### Dependency
++++?image=/res/PNGs/pythagoras-tree20.png&size=cover
+### Komponenten
 @ul
 - Dependency Checker
 <br>
-- owasp.org/index.php/OWASP_Dependency_Check
+- <a href="https://owasp.org/index.php/OWASP_Dependency_Check">Dependency Check</a>
 @ulend
 
 +++
