@@ -988,7 +988,7 @@ https://html5sec.org/
   - Mail-Newsletter
   - Twitter-Feeds
 <br>
-- Veralten Libraries / Components ?
+- aktuelle Libraries / Komponenten
 @ulend
 
 +++
