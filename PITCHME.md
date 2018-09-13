@@ -903,10 +903,10 @@ JS: add, del, read, manipulate
 https://html5sec.org/
 
 
----?image=/res/serial-bg40.jpg
+---?image=/res/serial-bg30.jpg
 # @color[#282828](**A8: Insecure Deserialization**)
 
-+++
++++?image=/res/serial-bg10.jpg
 ### Was ist Serialization?
 ![Serialize-Concept](/res/PNGs/Serialization.png)
 
@@ -916,11 +916,11 @@ https://html5sec.org/
 - Speichern von Daten
 @ulend
 
-+++
++++?image=/res/serial-bg10.jpg
 ### Object Injection - Gadgets
 ![Serialization-gadgets](/res/PNGs/Serialization-gadgets.png)
 
-+++
++++?image=/res/serial-bg10.jpg
 ### Massnahmen
 
 +++
