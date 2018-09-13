@@ -976,7 +976,7 @@ https://html5sec.org/
 
 +++?image=/res/PNGs/pythagoras-tree20.png&size=cover
 ### Komponenten
-<a href="https://owasp.org/index.php/OWASP_Dependency_Check">Dependency Check</a>
+<a href="https://www.owasp.org/index.php/OWASP_Dependency_Check">Dependency Check</a>
 
 
 +++?image=/res/known-vuln-bg10.jpg
