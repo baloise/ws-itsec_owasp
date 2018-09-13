@@ -1004,7 +1004,7 @@ https://html5sec.org/
 # Patch!
 
 
----?image=/res/monitor-bg40.png
+---?image=/res/monitor-bg30.png
 # @color[#282828](**A10: Insufficient Logging&Monitoring**)
 
 +++?image=/res/monitor-bg11.png
