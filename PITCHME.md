@@ -980,7 +980,7 @@ https://html5sec.org/
 - <a href="https://owasp.org/index.php/OWASP_Dependency_Check">Dependency Check</a>
 @ulend
 
-+++
++++?image=/res/known-vuln-bg10.jpg
 ### Monitoring
 @ul
 - Bleib dran: Vulnerabilities & Patches
@@ -991,7 +991,7 @@ https://html5sec.org/
 - aktuelle Libraries / Komponenten
 @ulend
 
-+++
++++?image=/res/known-vuln-bg10.jpg
 ### Konfiguration
 @ul
 - Anforderungen Prüfen
