@@ -789,10 +789,10 @@ Access-Control-Allow-Credentials: true
 - set Vary: Origin
 @ulend
 
----?image=/res/xss-background30.png
+---?image=/res/xss-background50.png
 # @color[#282828](**A7: Cross-Site Scripting**)
 
-+++?image=/res/code10.jpg
++++?image=/res/xss-background10.png
 ### MySpace Worm "Samy"
 ![samy-worm](/res/PNGs/samy.png)
 
