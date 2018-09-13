@@ -789,14 +789,14 @@ Access-Control-Allow-Credentials: true
 - set Vary: Origin
 @ulend
 
----?image=/res/code30.jpg
+---?image=/res/xss-background30.png
 # @color[#282828](**A7: Cross-Site Scripting**)
 
 +++?image=/res/code10.jpg
 ### MySpace Worm "Samy"
 ![samy-worm](/res/PNGs/samy.png)
 
-+++?image=/res/code10.jpg
++++?image=/res/xss-background10.png
 ### Cross-Site-Scripting (XSS)
 @ul
 - Reflected XSS (server-basiert)
@@ -806,15 +806,15 @@ Access-Control-Allow-Credentials: true
 - DOM / (client-basiert)
 @ulend
 
-+++?image=/res/code10.jpg
++++?image=/res/xss-background10.png
 ### Reflected XSS
 ![reflected_xss](/res/PNGs/Reflected_XSS.png)
 
-+++?image=/res/code10.jpg
++++?image=/res/xss-background10.png
 ### Stored XSS
 ![stored_xss](/res/PNGs/Stored_XSS.png)
 
-+++?image=/res/code10.jpg
++++?image=/res/xss-background10.png
 ### Document Object Model (DOM) XSS
 ![DOM](/res/PNGs/DOM.png)
 JS: add, del, read, manipulate
