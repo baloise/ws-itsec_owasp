@@ -1004,18 +1004,18 @@ https://html5sec.org/
 # Patch!
 
 
----?image=/res/monitor-bg30.png
+---?image=/res/monitor-bg40.png
 # @color[#282828](**A10: Insufficient Logging&Monitoring**)
 
-+++?image=/res/monitor-bg10.png
++++?image=/res/monitor-bg20.png
 ### Watch your logs
 ![logs-monitoring](/res/PNGs/logging_on-off.png)
 
-+++?image=/res/monitor-bg10.png
++++?image=/res/monitor-bg20.png
 ### Passende Schwellenwerte
 ![treshold-logging](/res/PNGs/logging_treshold.png)
 
-+++?image=/res/monitor-bg10.png
++++?image=/res/monitor-bg20.png
 ### Intrusion Detection Systems (IDS)
 @ul
 - Host-basierte IDS
