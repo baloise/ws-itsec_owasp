@@ -782,6 +782,7 @@ Access-Control-Allow-Credentials: true
 
 +++?image=/res/code10.jpg
 ### MySpace Worm "Samy"
+![samy-worm](/res/PNGs/samy.png)
 
 +++?image=/res/code10.jpg
 ### Cross-Site-Scripting (XSS)
