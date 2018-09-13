@@ -926,9 +926,9 @@ https://html5sec.org/
 +++?image=/res/serial-bg10.jpg
 ### Serialization - Trust
 @ul
-- serializerte Daten nur vertrauenswürdigen Quellen!
+- nur vertr. Quellen!
 <br>
-- (or) only ser. mediums with primitive data types.
+- nicht-vertr. Quellen, nur primitive Daten
 @ulend
 
 +++?image=/res/serial-bg10.jpg
