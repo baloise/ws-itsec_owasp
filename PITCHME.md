@@ -941,7 +941,7 @@ https://html5sec.org/
   - In- & ausgehende Konnectivität
   - Alarm wenn konstante deserial. von user
 
----?image=/res/known-vuln-bg30.jpg
+---?image=/res/known-vuln-bg20.jpg
 # @color[#282828](**A9: Using Components with Known Vulnerabilities**)
 
 +++?image=/res/known-vuln-bg10.jpg
