@@ -789,7 +789,7 @@ Access-Control-Allow-Credentials: true
 - set Vary: Origin
 @ulend
 
----?image=/res/xss-background50.png
+---?image=/res/xss-background40.png
 # @color[#282828](**A7: Cross-Site Scripting**)
 
 +++?image=/res/xss-background10.png
