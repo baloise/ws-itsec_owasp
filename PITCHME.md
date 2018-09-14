@@ -922,7 +922,6 @@ JS: add, del, read, manipulate
 
 +++?code=/res/snippets/csp3.txt&title=Content Security Policy (CSP)
 
-
 +++?image=/res/xss-background10.png
 ### Headers & Cookie
 @ul
@@ -951,7 +950,6 @@ https://html5sec.org/
 +++?image=/res/serial-bg10.jpg
 ### Was ist Serialization?
 ![Serialize-Concept](/res/PNGs/Serialization.png)
-
 @ul
 - Daten Transport (Kabel)
 - Speichern von Daten
@@ -966,9 +964,9 @@ https://html5sec.org/
 
 +++?image=/res/serial-bg10.jpg
 ### Serialization - Trust
+<br>
 @ul
 - nur vertrauenswürdige Quellen!
-<br>
 - nicht-vertr. Quellen, nur primitive Daten
 @ulend
 
