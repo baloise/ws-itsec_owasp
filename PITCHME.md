@@ -395,6 +395,10 @@ Note:
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Shodan)
 ![shodan](/res/PNGs/Shodan.png)
+Note:
+- Suche nach IP ranges
+- Server / Port
+- Land
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Social Media)
