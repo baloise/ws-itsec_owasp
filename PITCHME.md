@@ -315,10 +315,30 @@ Note:
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unverschlüsselter Traffic
 ![SensDataExp](/res/PNGs/Sensitive_Data_Exposure.png)
+Note:
+- Typische unverschlüsselte Protokolle:
+  - HTTP
+  - POP / IMAP + SMTP
+  - FTP
+  - Telnet
+- Daten können mitgelsen werden
+  - Email, Photos, ..
+  - Zugangsdaten
+- Überall
+  - "Intern", Kaffee, Hotel, (WLAN Zugang)
+  - "Extern", Zwischen-Station; Proxy, VPN, Provider, Knotenpunkte
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### latly on SSL/TLS
 ![SSL-TLS](/res/PNGs/SSL-TLS_attacks_timeline.png)
+Note:
+- Nicht lesen!
+  - Soll dynamik / Wandel zeigen
+- Grund SSL/TLS für nicht Banking
+- 2014 Heartbleed; zeigt Memorydump (sehr einfach)
+- 2015: Let's Encrypt; gratis Zertifikate
+- 2017: Warnung nicht verschlüsselt
+  - zeige Bsp.
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Heartbeat (keep-alive)
