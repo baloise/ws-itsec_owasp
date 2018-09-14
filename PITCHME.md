@@ -899,7 +899,7 @@ JS: add, del, read, manipulate
   - OWASP Java HTML Sanitizer
 @ulend
 
-+++?code=/res/snippets/html-entity-encoding.txt&lang=HTML&title=Escaping - HTML Entity Encoding
++++?code=/res/snippets/html-entity-encoding.txt&title=Escaping - HTML Entity Encoding
 
 +++?image=/res/xss-background10.png
 ### Input Validation (server-side!)
