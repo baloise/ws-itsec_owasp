@@ -573,6 +573,10 @@ Max Mustermann
 ---?image=/res/PNGs/Sec-MisConf50.png&size=cover
 # **A6: Security Misconfiguration**
 
++++?image=res/PNGs/Sec-MisConf8.png&size=cover
+### Security Misconfiguration
+![arrow-down](/res/PNGs/trend-down.png)
+
 +++?image=/res/PNGs/Sec-MisConf8.png&size=cover
 ### Einleitung
 ![misconf-intro](/res/PNGs/misconf-overview.png)
@@ -789,8 +793,15 @@ Access-Control-Allow-Credentials: true
 - set Vary: Origin
 @ulend
 
+
+
+
 ---?image=/res/xss-background40.png
 # @color[#282828](**A7: Cross-Site Scripting**)
+
++++?image=res/xss-background10.png&size=cover
+### Cross-Site Scripting
+![arrow-down](/res/PNGs/trend-down.png)
 
 +++?image=/res/xss-background10.png
 ### MySpace Worm "Samy"
@@ -941,8 +952,14 @@ https://html5sec.org/
   - In- & ausgehende Konnectivität
   - Alarm wenn konstante deserial. von user
 
+
+
 ---?image=/res/known-vuln-bg20.jpg
 # @color[#282828](**A9: Using Components with Known Vulnerabilities**)
+
++++?image=/res/known-vuln-bg10.jpg&size=cover
+### Known Vulnerabilities
+![arrow-middle](/res/PNGs/trend-middle.png)
 
 +++?image=/res/known-vuln-bg10.jpg
 ### Veraltete / verwundbare Komponenten
