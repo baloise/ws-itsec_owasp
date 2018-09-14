@@ -389,12 +389,15 @@ Note:
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe:
+@ul
 - Starke Verschlüsselung (AES / RSA)
 - Hashed, Salt & Pepper
 - Zugang absicheren
+@ulend
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Transport:
+@ul
 - Immer verschlüsselt
 - Verschlüsselung: 
   - ≥TLS1.1
@@ -402,7 +405,7 @@ Note:
   - kein export-grade support
 - keine 302 Redirects
 - HTTP Strict Transport Security
-
+@ulend
 
 
 
@@ -420,8 +423,9 @@ Note:
 @[2]
 @[2,5]
 <br>
+@ul
 Max Mustermann
-
+@ulend
 +++?image=/res/xxeO10.png&size=cover
 ### Denial of Service
 ![Billion_Laughs](/res/PNGs/entity-bil-lol.png)
