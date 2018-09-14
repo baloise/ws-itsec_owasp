@@ -962,7 +962,7 @@ https://html5sec.org/
 ![Serialization-gadgets](/res/PNGs/Serialization-gadgets.png)
 
 +++?image=/res/serial-bg10.jpg
-### Massnahmen
+## Massnahmen
 
 +++?image=/res/serial-bg10.jpg
 ### Serialization - Trust
