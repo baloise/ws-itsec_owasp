@@ -837,11 +837,10 @@ Access-Control-Allow-Credentials: true
 
 +++?image=/res/xss-background10.png
 ### Cross-Site-Scripting (XSS)
+<br>
 @ul
 - Reflected XSS (server-basiert)
-<br>
 - Stored XSS (server-basiert)
-<br>
 - DOM / (client-basiert)
 @ulend
 
