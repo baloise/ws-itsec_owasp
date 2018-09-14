@@ -382,11 +382,6 @@ Note:
 - Client unver. Angreifer vers. Webseite
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Daten in Ruhe: 
-#### AWS S3 Bucket
-![s3-bucket](/res/PNGs/leaking-bucket.png)
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Google)
 ![gogHack](/res/PNGs/GoogleHacks.png)
 
@@ -644,6 +639,11 @@ Max Mustermann
 ### Outdated Version
 ![def-pw](/res/PNGs/out-dated.png)
 
++++?image=/res/PNGs/Sec-MisConf8.png&size=cover
+#### AWS S3 Bucket
+![s3-bucket](/res/PNGs/leaking-bucket.png)
+
+
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ## @size[1.5em](Demo Security Misconfiguration)
 @css[demo](**Enumeration**)
@@ -753,6 +753,10 @@ Max Mustermann
 - ssh-aufit.py
 - Regenerate Moduli (prime numbers & generators)
 @ulend
+
++++?image=/res/PNGs/Sec-MisConf8.png&size=cover
+### AWS S3 Buckets
+tbd
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### SOP & CORS
