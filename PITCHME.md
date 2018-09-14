@@ -343,14 +343,33 @@ Note:
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Heartbeat (keep-alive)
 ![Heartbeat-concept](/res/PNGs/Heartbeat-concept.png)
+Note:
+- Konzept für Demo (nachher)
+- Session bricht nach x inaktiv
+  - Sicherheit!
+  - Browser sendet KeepAlive
+- KeepAlive:
+  - Client, Heartbeat-Anfrage (Zeichen+Länge)
+  - Server kopiert Zeich in Memory
+  - Server, Heartbeat-Antwort (Zeichen+Antwort)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Heartbeat vs Heartbleed (1)
 ![Heartbeat](/res/PNGs/Heartbeat.png)
+Note:
+- Zeichen können irgendetwas sein!
+- Server-Antwort Logik:
+  - Server liest von Memory x Zeichen
+  - Sendet sie zurück (+ padding)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Heartbeat vs Heartbleed (2)
 ![Heartbleed](/res/PNGs/Heartbleed.png)
+Note:
+- Problem: Server überprüft nicht!
+  - Client Länge > Paylouad
+  - Server liest weiter
+  - Sendet Daten aus dem Memory-Speicher
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Misconfigured encryption (ssl-strip)
