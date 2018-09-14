@@ -384,6 +384,13 @@ Note:
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Google)
 ![gogHack](/res/PNGs/GoogleHacks.png)
+Note:
+- Google-Suche + Parameter
+- (via Suche) gefundene Psyeudo(!)-Webseiten
+- Paramter:
+  - ext: Extension
+  - intext: Vorkommen in text
+  - intitle: Vorkommen im Titel
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Shodan)
