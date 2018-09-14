@@ -68,6 +68,11 @@ Injection:
 - Zugriff / Manipulation
 - Systemübernahme
 
+
+
+
+
+
 ---?image=res/injectionO80.png&size=cover
 # @color[#282828](**A1: Injection**)
 
@@ -177,6 +182,10 @@ Note:
 - altes Statement (legacy code)
 - OrcaleCode() Objekt erzeugt
 - Encoder für userID und pwd anwenden
+
+
+
+
 
 
 ---?image=/res/broken_authO60.jpg&size=cover
@@ -303,6 +312,11 @@ standart font
 <br>
 @css[rCursive](Righteous, cursive)
 
+
+
+
+
+
 ---?image=/res/Data_ExposureO60.jpg&size=cover
 # @color[#282828](**A3: Sensitive Data Exposure**)
 
@@ -388,6 +402,9 @@ Note:
   - kein export-grade support
 - keine 302 Redirects
 - HTTP Strict Transport Security
+
+
+
 
 
 
@@ -489,6 +506,11 @@ Max Mustermann
 +++?image=/res/xxeO10.png&size=cover
 ### Mehr / anwendungsbezogene Infos
 <a href="https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Prevention_Cheat_Sheet">XXE Prevention Cheat Sheet</a>
+
+
+
+
+
 
 ---?image=/res/PNGs/B-A_Control40i.png&size=cover
 # @color[#282828](**A5: Broken Access Control**)
@@ -796,6 +818,8 @@ Access-Control-Allow-Credentials: true
 
 
 
+
+
 ---?image=/res/xss-background40.png
 # @color[#282828](**A7: Cross-Site Scripting**)
 
@@ -914,6 +938,10 @@ JS: add, del, read, manipulate
 https://html5sec.org/
 
 
+
+
+
+
 ---?image=/res/serial-bg30.jpg
 # @color[#282828](**A8: Insecure Deserialization**)
 
@@ -951,6 +979,9 @@ https://html5sec.org/
 - Monitoring / Restriktionen
   - In- & ausgehende Konnectivität
   - Alarm wenn konstante deserial. von user
+
+
+
 
 
 
@@ -1019,6 +1050,10 @@ https://html5sec.org/
 
 +++?image=/res/patch60.jpg
 # Patch!
+
+
+
+
 
 
 ---?image=/res/monitor-bg30.png
