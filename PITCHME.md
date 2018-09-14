@@ -306,14 +306,11 @@ Note:
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Sensitive Data Exposure
 ![arrow-up](/res/PNGs/trend-up.png)
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
-### real-world Beispiele
-@ul
-- Sensitive Daten - 198 Milionen US-Wähler (2017)
-- Verizon: Logs, Logindaten, config-Dateien (2017)
-- Exactis: sens. Daten - 340 Milionen Records (2018)
-@ulend
+Note:
+- Risiko: A6 -> A3
+- Daten nicht oder unzureichen Geschüzt
+- Entdecken - einfach
+- Auswirkungen - sensitive Daten (Gesundheit, persönliche, Kreditkarte, Zugangsdaten)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unverschlüsselter Traffic
