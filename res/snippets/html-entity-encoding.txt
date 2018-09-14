@@ -1,8 +1,7 @@
 # HTML ENTITY ENCODING
-"    --> `&quot;`
-<    --> `&lt;`
-..
+"    `&quot;`
+<    `&lt;`
 
 # Example:
-"giants" are > "midgets"
-&quot;giants&quot; are &lt; &quot;midgets&quot;
+"giants"            are  >     "midgets"
+&quot;giants&quot;  are  &lt;  &quot;midgets&quot;
