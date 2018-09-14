@@ -374,6 +374,12 @@ Note:
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Misconfigured encryption (ssl-strip)
 ![ssl-strip](/res/PNGs/ssl-strip.png)
+Note:
+- Client ruft Webseite
+  - Weiterleitung TLS
+  - verschl. kein Mitlesen
+- Angreifer stellt sich in Mitte
+- Client unver. Angreifer vers. Webseite
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe: 
