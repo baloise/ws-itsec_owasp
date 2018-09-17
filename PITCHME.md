@@ -415,9 +415,7 @@ Note:
 <br>
 @css[demo](**Demo2**)
 Note: 
-- Google Hacking
 - MiM Proxy (Pineapple + ssl-strip?)
-- ?social mapper
 - Heartbleed
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
@@ -430,6 +428,11 @@ Note:
 - Hashed, Salt & Pepper
 - Zugang absicheren
 @ulend
+Note:
+- Stark verschl. Daten - Datenleak
+- Hash: "Einweg-Funktion" - Passwortleak
+- Salt: "Random-Data" (überall selbe) + Pw -> Hash - RainbowTables
+- Pepper: "Radom-Data" (zufällig nicht + gespeichert) - Brute-/dict-Attacks
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Transport:
