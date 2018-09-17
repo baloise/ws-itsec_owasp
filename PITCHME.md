@@ -425,27 +425,36 @@ Note:
 ### Daten in Ruhe:
 @ul
 - Starke Verschlüsselung (AES / RSA)
-- Hashed, Salt & Pepper
+- Hashed
+  - Salt
+  - Pepper
 - Zugang absicheren
 @ulend
 Note:
 - Stark verschl. Daten - Datenleak
 - Hash: "Einweg-Funktion" - Passwortleak
 - Salt: "Random-Data" (überall selbe) + Pw -> Hash - RainbowTables
-- Pepper: "Radom-Data" (zufällig nicht + gespeichert) - Brute-/dict-Attacks
+- Pepper: "Radom-Data" (zufällig nicht + gespeichert) - Brute-/Dict-Attacks
+- Kabel, IPs, Zonen - kleine Angriffsfläche
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Transport:
 @ul
 - Immer verschlüsselt
-- Verschlüsselung: 
+- Verschlüsselung:
   - ≥TLS1.1
   - kein RC4 support
   - kein export-grade support
 - keine 302 Redirects
 - HTTP Strict Transport Security
 @ulend
-
+Note:
+- Verschlüsselte Verbindungen anbieten & benutzen
+- +TLS 1.1 (Heartbleed, POODLE)
+- RC4 erhebliche Sicherheitsmängel (Intägritätsschutz)
+- export-grade (kürzere Schlüssel)
+- Redirects SSLStrip+
+- HSTS (nur über HTTPS verbinden)
 
 
 
