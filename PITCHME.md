@@ -618,7 +618,7 @@ Note:
 +++?image=/res/xxeO10.png&size=cover
 ### Features abstellen (Java)
 #### Xerces 1
-- /external-general-entities 
+- /external-general-entities
 - /external-general-entities
 - /load-external-dtd
 
