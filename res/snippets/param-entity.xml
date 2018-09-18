@@ -1,0 +1,7 @@
+<xml version=”1.0″>
+<!DOCTYPE html[
+    <!ELEMENT bar>
+    <!ENTITY originalEntity “Max Mustermann”>
+<!ENTITY secoundEntity "Hallo" + ‘%foo;‘>
+]>
+<bar>&secondEntity;</bar>   #-> Hallo Max Mustermann

@@ -1,0 +1,6 @@
+<!--?xml version="1.0" ?-->
+<!DOCTYPE replace [<!ENTITY Nachname "Mustermann"> ]>
+<userInfo>
+<firstName>Max</firstName>
+<lastName>&Nachname;</lastName>
+</userInfo>

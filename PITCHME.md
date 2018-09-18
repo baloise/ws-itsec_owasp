@@ -465,18 +465,33 @@ Note:
 +++?image=/res/xxeO10.png&size=cover
 ### Entities
 ![entites](/res/PNGs/entites.png)
+Note:
+- Representieren
+- ähnlich Variablen
 
-+++?code=/res/snippets/xxe-example.xml&lang=xml&lang=xml&title=Example Entity (XML)
++++?code=/res/snippets/entity-example.xml&lang=xml&lang=xml&title=Example Entity (XML)
 @[1]
 @[2]
-@[2,5]
+@[4]
+@[2,4-5]
 <br>
 @ul
 Max Mustermann
 @ulend
+Note:
+- Entity definiert
+  - Entity-Name = Nachname
+  - Entity-Wert = Mustermann
+- Vorname = Max (harcoded)
+- Nachname = Mustermann (via Entity)
+
 +++?image=/res/xxeO10.png&size=cover
 ### Denial of Service
 ![Billion_Laughs](/res/PNGs/entity-bil-lol.png)
+Note:
+- Stichwort Rekrusion
+- 2^x (Beispiel)
+- allozierter Speicher
 
 +++?code=/res/snippets/billion-laughs.xml&lang=xml&title=Billion Laughs (XML)
 @[1]
@@ -484,28 +499,64 @@ Max Mustermann
 @[11]
 @[10-11]
 @[3-11]
+Note:
+- Praktisches Beispiel 10
+- 7^9 ~ 125MB
 
 +++?image=/res/xxeO10.png&size=cover
 ### Dateien auslesen
 ![access-file](/res/PNGs/entity-access-file.png)&title=Dateien auslesen
+Note:
+- Definieren (injection) getFile (Entity)
+- Wert / Referenzierung auf Datei
+- XML Parser bettet Datei in Webseite ein
+- (Leerzeichen + gewisse (spez.) Zeichen funktionieren nicht -bricht Parser, Error)
 
 +++?code=/res/snippets/access-data.xml&lang=xml&title=Dateien auslesen (XML)
 @[2]
 @[2, 4]
 @[2, 4-5]
+Note:
+- Definition Entity
+  - Name = getFile
+  - Wert = Referenz zu File
+- Vorname = Max
+- Nachname = Inhalt von File (via Entity)
 
 +++?image=/res/xxeO10.png&size=cover
 ### Netzwerk-Zugang
 ![access-netfile](/res/PNGs/entity-access-network.png)&title=Netzwerk Zugang
+Note:
+- Selbe wie "Datei auslesen"
+- Pfad zu Datei über Netzwerk
+- Bedingungen:
+  - Zugriff auf existierender Server
+  - limitierte Zeichen
+  - Pfad bekannte
+- XML-Parser als Proxy
+- Standartpfade
 
 +++?code=/res/snippets/access-network.xml&lang=xml&title=Netzwerk Zugang (XML)
 @[4]
 @[4, 5]
+Note:
+- Definieren Entity getFile
+- Referenzierung auf File
+- Ausgabe via erstelltes Element <foo> ?
 
++++?code=/res/snippets/param-entity.xml&lang=xml&title=Parameterized Entity (OOB-XXE)
+Note:
+- Definiere normale Entitiy
+- Kreieren Entity - Referenz originalEntity
 
 +++?image=/res/xxeO10.png&size=cover
 ### Out of band XXE
 ![oob-xxe](/res/PNGs/entity-oob.png)
+Note:
+- Out-of-Band
+  - Injektion Schnittstelle aber keine Ausgabe / Reflektion (Blind)
+  - Umgehung der Charakter-Limitierung
+- 
 
 +++?code=/res/snippets/oob-xxe.xml&lang=xml&title=Out of band XXE (XML)
 @[1-7]
