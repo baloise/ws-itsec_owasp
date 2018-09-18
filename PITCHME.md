@@ -547,7 +547,7 @@ Note:
 +++?code=/res/snippets/param-entity.xml&lang=xml&title=Parameterized Entity (OOB-XXE)
 Note:
 - Definiere normale Entitiy
-- Kreieren Entity - Referenz originalEntity
+- Kreieren Entity - Referenz auf originalEntitiy
 
 +++?image=/res/xxeO10.png&size=cover
 ### Out of band XXE
@@ -556,7 +556,19 @@ Note:
 - Out-of-Band
   - Injektion Schnittstelle aber keine Ausgabe / Reflektion (Blind)
   - Umgehung der Charakter-Limitierung
-- 
+- Definition:
+  - lokal: getFile (holt Datei)
+  - lokal: dtd (holt / importiert in send.dtd beschriebene entities)
+  - remote: all (lädt / exec send)
+  - remote: send (holt fiktives File von *url+Datei-Content* (von getFile) )
+- Ablauf:
+  - Aufruf: dtd
+    - Definition all
+    - Aufruf all
+      - Definition send
+  - Aufruf: send
+    - Aufruf getFile (hole Datei Inhalt)
+    - Request "attacker.ch/"+"getFile=Inhalt"
 
 +++?code=/res/snippets/oob-xxe.xml&lang=xml&title=Out of band XXE (XML)
 @[1-7]

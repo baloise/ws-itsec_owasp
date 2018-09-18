@@ -2,6 +2,6 @@
 <!DOCTYPE html[
     <!ELEMENT bar>
     <!ENTITY originalEntity “Max Mustermann”>
-<!ENTITY secoundEntity "Hallo" + ‘%foo;‘>
+<!ENTITY secoundEntity "Hallo" + ‘%originalEntity;‘>
 ]>
 <bar>&secondEntity;</bar>   #-> Hallo Max Mustermann
