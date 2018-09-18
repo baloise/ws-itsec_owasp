@@ -580,6 +580,18 @@ Note:
 @[13]
 @[7]
 @[7,10,13]
+Note:
+- Injizierter Code (ie. Webseite)
+- Hosted Attacker-Code (Attacker-Server)
+- Definiere % ext (param) mit Referenz send.dtd
+- Lade %ext;
+- Definiere payload mit Referenz auf Datei
+- Definiere all
+- Führe all aus
+- *Setzte Entities geschickt zusammen*
+  - Definiere external mit Link+Datei-Inhalt
+- Führe external aus
+  - Link + Data via payload
 
 +++?image=/res/xxeO10.png&size=cover
 ## @size[1.5em](Demo XML External Entity)
