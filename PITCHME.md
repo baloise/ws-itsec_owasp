@@ -645,42 +645,103 @@ Note:
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Zugriff durch unüberprüfter Input
 ![getAcctInfo](/res/PNGs/a-c_unverified.png)
+Note:
+- 1. Normales Surfverhalten
+- 2. Bemerkt Parameter (acct)
+- 3. Setzt anderer Wert
+- Funktioniert, weil kein Prüfung param(wert)==user
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Zugriff via "forced browsing"
 ![FrocedBrowsing](/res/PNGs/a-c_fored-browsing.png)
+Note:
+- Selbe wie zuvor
+- aber Manipulation Pfad anstatt Paramter
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal (Basics)
 ![PathTrav1B1](/res/PNGs/a-c_path-traversal-basic1.png)+++
+Note:
+- ../ == eine Stufe "Hierarchie" zurück / höher
+- Ausbrechen / Zugriff auf andere Directories
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal (Basics)
-![PathTrav1B2](/res/PNGs/a-c_path-traversal-basic2.png)+++
+![PathTrav1B2](/res/PNGs/a-c_path-traversal-basic2.png)
+Note:
+- Man sieht Pfad (blau)
+  - links: in /var/www/html
+  - rechts weg zu /var/www/html
+- ls zeigt Inhalt
+- Pro "../" geht es eine Stufe höher vgl. Pfad
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal - URL (1)
 ![PathTravURL](/res/PNGs/a-c_path-traversal1.png)
+Note:
+- Normal (oben)
+  - Klicke Link -> Request -> MP3
+- Attack (unten)
+  - ../ bis zum root (/)
+  - zuviel "../" -> immer noch /
+  - Pfad zu Datei
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal - URL (2)
 ![PathTravURLencoded](/res/PNGs/a-c_path-traversal2.png)
+Note:
+- Selbe wei vorher
+- Machmal Blacklists ".", "/", ..
+- Encoding
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal - Cookie
 ![PathTravCookie](/res/PNGs/a-c_path-traversal-cookie-temp.png)
+Note:
+- PathTrav via Referenz in Cookie
+- Template (red.php, blue.php, ..) wird in Cookie gespeichert
+  - normal => include /home/path/blue.php
+  - attack => include /home/path/../../file
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### JWT - Verify-Algorhithmen
 ![jwtAsyncSyncAlgo](/res/PNGs/a-c_jwt-forge-problem.png)
+Note:
+- JSON WEB TOKEN =/ cookie (Authentifizierung)
+- Idee (stateless) 
+  - -> Gültigkeit via Signatur
+  - -> mehrere Domain / SubDomain (wenn async Sign (PubliKey))
+- Header (nicht verschlüsselt), Payload, Signatur
+- Symetrisch & Asymetrische Signatur
+- Info via Header
+- Problem
+  - Header "client-controlled"
+    - **set Header => (Prüfe mit HMAC-Secret oder mitRSA-Public)**
+  - Symetrisch Token + set Header asymetrisch
+    - Prüft Signatur mit id_rsa.pub (!)
+    - nicht vertrauenswürdig -> korrekter Key = HMAC-SecretKey
+  - Erstelle / Signiere eigenes symetrisches (HMAC)Token mit PublicKey (asymetrisch)
+    - Prüft Signatur + set asymetrisch Header
+      - Prüft Signatur mit id_rsa.pub => korrket!
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### JWT - Verify-Algorhithmen
 ![jwtAsyncSyncAlgo](/res/PNGs/a-c_jwt-forge.png)
+Note:
+- StepByStep
+  - Hole PublicKey
+  - Erstelle Payload (vgl. Dok)
+  - Signier Token mit PublicKey
+  - set Header "RS256" -RSA-SHA256- (asymetrisch)
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Client-Side Kontrollen - Hidden Field
 ![ac_hidden-field](/res/PNGs/a-c_cs-hidden-field.png)
+Note:
+- JavaScript client-side Kontrolle
+- verstecktes (hidden) Post-Formular mit entsprechendem Wert
+  - + Server Entlastung
+  - - Client kann manipulieren
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ## @size[1.5em](Demo Sensitive Data Exposure)
@@ -701,6 +762,9 @@ Note:
 - Server-less API
 - Client-side code höchstens als Ergänzung!
 @ulend
+Note:
+- Kontollmechanismen server-sdie!
+- Server-less tbd..
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### forced Browsing
@@ -708,6 +772,9 @@ Note:
 - Kontroll-Mechanismus
 - Überall und immer den selben KM
 @ulend
+Note:
+- Prüfe Zugriffsrechte
+- selber Mechanismus -> kleinere Angriffsfläche + Übersicht
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal
