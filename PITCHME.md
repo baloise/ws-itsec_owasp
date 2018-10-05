@@ -20,7 +20,6 @@ Note:
 - Web sicherer machen
 - Erarbeiten von Materialien
 
-
 +++?image=res/light_bulbO40.jpg&size=cover
 ### Was ist OWASP Top 10
 @ul
