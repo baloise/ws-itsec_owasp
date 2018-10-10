@@ -802,7 +802,7 @@ Note:
 ![def-pw](/res/PNGs/defaultPwd.png)
 
 +++?image=/res/PNGs/Sec-MisConf8.png&size=cover
-### Errror-Handling
+### Error-Handling
 ![def-pw](/res/PNGs/sql-error.png)
 
 +++?image=/res/PNGs/Sec-MisConf8.png&size=cover
