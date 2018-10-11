@@ -284,15 +284,16 @@ Note:
 
 ---?image=/res/Data_ExposureO60.jpg&size=cover
 # @color[#282828](**A3: Sensitive Data Exposure**)
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
-### Sensitive Data Exposure
-![arrow-up](/res/PNGs/trend-up.png)
 Note:
 - Risiko: A6 -> A3
 - Daten nicht oder unzureichen Geschüzt
 - Entdecken - einfach
 - Auswirkungen - sensitive Daten (Gesundheit, persönliche, Kreditkarte, Zugangsdaten)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Unterscheidung
+#### Transportierte Daten
+#### Gespeicherte Daten
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unverschlüsselter Traffic
@@ -321,37 +322,6 @@ Note:
 - 2015: Let's Encrypt; gratis Zertifikate
 - 2017: Warnung nicht verschlüsselt
   - zeige Bsp.
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
-### Heartbeat (keep-alive)
-![Heartbeat-concept](/res/PNGs/Heartbeat-concept.png)
-Note:
-- Konzept für Demo (nachher)
-- Session bricht nach x inaktiv
-  - Sicherheit!
-  - Browser sendet KeepAlive
-- KeepAlive:
-  - Client, Heartbeat-Anfrage (Zeichen+Länge)
-  - Server kopiert Zeich in Memory
-  - Server, Heartbeat-Antwort (Zeichen+Antwort)
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
-### Heartbeat vs Heartbleed (1)
-![Heartbeat](/res/PNGs/Heartbeat.png)
-Note:
-- Zeichen können irgendetwas sein!
-- Server-Antwort Logik:
-  - Server liest von Memory x Zeichen
-  - Sendet sie zurück (+ padding)
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
-### Heartbeat vs Heartbleed (2)
-![Heartbleed](/res/PNGs/Heartbleed.png)
-Note:
-- Problem: Server überprüft nicht!
-  - Client Länge > Paylouad
-  - Server liest weiter
-  - Sendet Daten aus dem Memory-Speicher
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Misconfigured encryption (ssl-strip)
