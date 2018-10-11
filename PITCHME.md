@@ -445,16 +445,6 @@ Note:
 - 2^x (Beispiel)
 - allozierter Speicher
 
-+++?code=/res/snippets/billion-laughs.xml&lang=xml&title=Billion Laughs (XML)
-@[1]
-@[12]
-@[11]
-@[10-11]
-@[3-11]
-Note:
-- Praktisches Beispiel 10
-- 7^9 ~ 125MB
-
 +++?image=/res/xxeO10.png&size=cover
 ### Dateien auslesen
 ![access-file](/res/PNGs/entity-access-file.png)&title=Dateien auslesen
@@ -463,17 +453,6 @@ Note:
 - Wert / Referenzierung auf Datei
 - XML Parser bettet Datei in Webseite ein
 - (Leerzeichen + gewisse (spez.) Zeichen funktionieren nicht -bricht Parser, Error)
-
-+++?code=/res/snippets/access-data.xml&lang=xml&title=Dateien auslesen (XML)
-@[2]
-@[2, 4]
-@[2, 4-5]
-Note:
-- Definition Entity
-  - Name = getFile
-  - Wert = Referenz zu File
-- Vorname = Max
-- Nachname = Inhalt von File (via Entity)
 
 +++?image=/res/xxeO10.png&size=cover
 ### Netzwerk-Zugang
@@ -487,19 +466,6 @@ Note:
   - Pfad bekannte
 - XML-Parser als Proxy
 - Standartpfade
-
-+++?code=/res/snippets/access-network.xml&lang=xml&title=Netzwerk Zugang (XML)
-@[4]
-@[4, 5]
-Note:
-- Definieren Entity getFile
-- Referenzierung auf File
-- Ausgabe via erstelltes Element <foo> ?
-
-+++?code=/res/snippets/param-entity.xml&lang=xml&title=Parameterized Entity (OOB-XXE)
-Note:
-- Definiere normale Entitiy
-- Kreieren Entity - Referenz auf originalEntitiy
 
 +++?image=/res/xxeO10.png&size=cover
 ### Out of band XXE
@@ -521,29 +487,6 @@ Note:
   - Aufruf: send
     - Aufruf getFile (hole Datei Inhalt)
     - Request "attacker.ch/"+"getFile=Inhalt"
-
-+++?code=/res/snippets/oob-xxe.xml&lang=xml&title=Out of band XXE (XML)
-@[1-7]
-@[9-16]
-@[1,4]
-@[1,4-5]
-@[3,10,12]
-@[12,16]
-@[13]
-@[7]
-@[7,10,13]
-Note:
-- Injizierter Code (ie. Webseite)
-- Hosted Attacker-Code (Attacker-Server)
-- Definiere % ext (param) mit Referenz send.dtd
-- Lade %ext;
-- Definiere payload mit Referenz auf Datei
-- Definiere all
-- Führe all aus
-- *Setzte Entities geschickt zusammen*
-  - Definiere external mit Link+Datei-Inhalt
-- Führe external aus
-  - Link + Data via payload
 
 +++?image=/res/xxeO10.png&size=cover
 ## @size[1.5em](Demo XML External Entity)
