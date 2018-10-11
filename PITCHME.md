@@ -77,20 +77,6 @@ Injection:
 # @color[#282828](**A1: Injection**)
 
 +++?image=res/injectionO45.png&size=cover
-### Injection
-![arrow-up](/res/PNGs/trend-middle.png)
-
-+++?image=res/injectionO45.png&size=cover
-### real-world Beispiele
-@ul
-- 2018 Joomla
-- 2017 GoDaddy (WAF)
-- 2017 WordPress
-- 2017 Equifax
-- 2016 Italienische Regierungswebseite
-@ulend
-
-+++?image=res/injectionO45.png&size=cover
 ### SQL-Interaction: User, WebApp and Server
 ![SQL-Req-Resp](/res/PNGs/SQL_Req-Resp.png)
 Note:
@@ -112,10 +98,10 @@ Note:
 <br>
 
   @ul[uppercase]
-  - Bypassing Authentication
-  - Spying Data
-  - Manipulating Data
-  - System Takeover
+  - Authentifizierung umgehen
+  - Daten auslesen
+  - Daten manipulieren
+  - System-Übernahme
   @ulend
 
 
