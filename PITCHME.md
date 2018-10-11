@@ -274,9 +274,8 @@ Note:
 - Auswirkungen - sensitive Daten (Gesundheit, persönliche, Kreditkarte, Zugangsdaten)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### Unterscheidung
-#### Transportierte Daten
-#### Gespeicherte Daten
+### Transportierte Daten
+### Gespeicherte Daten
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Unverschlüsselter Traffic
