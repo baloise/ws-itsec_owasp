@@ -988,31 +988,19 @@ https://html5sec.org/
 ---?image=/res/known-vuln-bg20.jpg
 # @color[#282828](**A9: Using Components with Known Vulnerabilities**)
 
-+++?image=/res/known-vuln-bg10.jpg&size=cover
-### Known Vulnerabilities
-![arrow-middle](/res/PNGs/trend-middle.png)
-
 +++?image=/res/known-vuln-bg10.jpg
 ### Veraltete / verwundbare Komponenten
 @ul
+Beispiele:
+<br>
 - Web Server
-  - Apache --> Sturs
+  - Apache --> Sturts
 <br>
 - Database Server
   - Oracle --> Java VM
 <br>
 - TLS / SSL
   - Heartbleed
-@ulend
-
-+++?image=/res/known-vuln-bg10.jpg
-### Internet of Things
-@ul
-- Mirai Botnet
-- Hackbare Herzschrittmacher
-- Owlet WiFi Baby Heart Monitor
-- TRENDnet Webcam
-- Jeep Hack
 @ulend
 
 +++?image=/res/known-vuln-bg10.jpg
