@@ -580,7 +580,7 @@ Note:
   - - Client kann manipulieren
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
-## @size[1.5em](Demo Sensitive Data Exposure)
+## @size[1.5em](Demo Broken Access Control)
 @css[demo](**Demo1**)
 <br>
 @css[demo](**Demo2**)
