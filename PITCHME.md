@@ -178,10 +178,6 @@ Note:
 # @color[#282828](**A2: Broken Authentication**)
 
 +++?image=/res/broken_authO40.jpg&size=cover
-### Broken Authentication
-![arrow-middle](/res/PNGs/trend-middle.png)
-
-+++?image=/res/broken_authO40.jpg&size=cover
 ### Überblick
 ![BrokenAuthOverview](res/PNGs/Broken_Auth-Overview.png)
 Note:
@@ -250,17 +246,6 @@ Note:
 ![MultiFactor](/res/PNGs/MultiFactor.png)
 
 +++?image=/res/broken_authO40.jpg&size=cover
-### Session Management
-<br>
-@ul
-- Built-In Session Manager
-- Name ≠ PHPSESSID, CFID, ..)
-- Länge: >128bits (BruteForce)
-- starke Entropie (Zufälligkeit)
-- ID Inhalt ≠ sensitive Daten
-@ulend
-
-+++?image=/res/broken_authO40.jpg&size=cover
 ### Brute Force verzögern
 <br>
 @ul
@@ -276,6 +261,17 @@ Note:
 ### Passwörter und Sicherheitsfragen
 ![PwdSec](/res/PNGs/PwdSec.png)
 *keine NIST Regelung
+
++++?image=/res/broken_authO40.jpg&size=cover
+### Session Management
+<br>
+@ul
+- Built-In Session Manager
+- Name ≠ PHPSESSID, CFID, ..)
+- Länge: >128bits (BruteForce)
+- starke Entropie (Zufälligkeit)
+- ID Inhalt ≠ sensitive Daten
+@ulend
 
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Securing Cookies
