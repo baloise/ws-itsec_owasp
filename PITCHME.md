@@ -643,10 +643,6 @@ Note:
 ---?image=/res/PNGs/Sec-MisConf50.png&size=cover
 # **A6: Security Misconfiguration**
 
-+++?image=res/PNGs/Sec-MisConf8.png&size=cover
-### Security Misconfiguration
-![arrow-down](/res/PNGs/trend-down.png)
-
 +++?image=/res/PNGs/Sec-MisConf8.png&size=cover
 ### Einleitung
 ![misconf-intro](/res/PNGs/misconf-overview.png)
@@ -798,35 +794,6 @@ tbd
 ![ac_cors-info2](/res/PNGs/a-c_cors.png)
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### CORS Misskonfigurationen (1)
-Access-Control-Allow-Origin:
-<br>
-##### Supported:
-@ul
-- * (wildcard)
-- origin (domain-name)
-- origin-list-or-null
-@ulend
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### CORS Misskonfigurationen (2)
-<br>
-##### Realitiy:
-@ul
-- https://*.mywebsite.ch (NOT WORKING)
-- one-site.ch, another-site.ch (lack of support)
-@ulend
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### CORS Misskonfigurationen (3)
-#### Workarrounds
-@ul
-- Simple Origin Reflection
-- Startswith
-- Endswith
-@ulend
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Workarrounds
 #### Simple Origin Reflection
 ![ac_cors-simple-reflection](/res/PNGs/a-c_cors-simple-reflection.png)
@@ -847,8 +814,6 @@ Access-Control-Allow-Origin:
 ### Origin null
 ![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
 
-+++?code=res/snippets/ac_cors-iframe-sandbox.html&lang=HTML&title=iframe sandbox (null)
-
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### ACA-Credentials: true
 <br>
@@ -862,15 +827,6 @@ Access-Control-Allow-Credentials: true
 Access-Control-Allow-Origin: null
 <br>
 Access-Control-Allow-Credentials: true
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### CORS Grundüberlegungen
-@ul
-- Möglichst verzichten
-- *
-- null
-- set Vary: Origin
-@ulend
 
 
 
