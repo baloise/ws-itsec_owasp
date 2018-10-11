@@ -32,23 +32,6 @@ Note:
 - Wiki: Know How - Vorbeugemassnahmen
 
 +++?image=res/light_bulbO40.jpg&size=cover
-### Open Web Application Security Project Top 10 2017
-@ul
-- A1: Injection
-- A2: Broken Authentication
-- A3: Sensitive Data Exposure
-- A4: XML External Entities
-- A5: Broken Access Control
-- A6: Security Misconfigurarion
-- A7: Cross-Site Scripting
-- A8: Insecure Deserialization
-- A9: Using Components with Known Vulnerabilities
-- A10: Insufficient Logging & Monitoring
-@ulend
-
-Note:
-
-+++?image=res/light_bulbO40.jpg&size=cover
 ### Gefahrenmodell (Top 10 Rating)
 ![Gefahrenmodell](/res/PNGs/OWASP10-Risks-transparent.png)
 Note:
