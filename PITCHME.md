@@ -836,10 +836,6 @@ Access-Control-Allow-Credentials: true
 ---?image=/res/xss-background40.png
 # @color[#282828](**A7: Cross-Site Scripting**)
 
-+++?image=res/xss-background10.png&size=cover
-### Cross-Site Scripting
-![arrow-down](/res/PNGs/trend-down.png)
-
 +++?image=/res/xss-background10.png
 ### MySpace Worm "Samy"
 ![samy-worm](/res/PNGs/samy.png)
@@ -873,9 +869,6 @@ JS: add, del, read, manipulate
 +++?image=/res/xss-background10.png
 ### DOM XXS
 ![dom_xss](/res/PNGs/DOM_XSS1.png)
-+++?image=/res/code10.jpg
-### DOM XXS (browser encoding)
-![dom_xss](/res/PNGs/DOM_XSS2.png)
 
 +++?image=/res/xss-background10.png
 ### DOM XXS (#Fragments)
@@ -889,7 +882,7 @@ JS: add, del, read, manipulate
 ## @size[1.5em](Demo Cross-Site Scripting)
 @css[demo](**XSS!**)
 <br>
-@css[demo](**Cookie stealing**)
+@css[demo](**Cookie**)
 
 +++?image=/res/xss-background10.png
 ## Massnahmen
@@ -907,8 +900,6 @@ JS: add, del, read, manipulate
   - HtmlSanitizer
   - OWASP Java HTML Sanitizer
 @ulend
-
-+++?code=/res/snippets/html-entity-encoding.txt&lang=HTML&title=Escaping - HTML Entity Encoding
 
 +++?image=/res/xss-background10.png
 ### Input Validation (server-side!)
