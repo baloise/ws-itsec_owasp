@@ -561,16 +561,6 @@ Note:
 - Ausbrechen / Zugriff auf andere Directories
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
-### Path Traversal (Basics)
-![PathTrav1B2](/res/PNGs/a-c_path-traversal-basic2.png)
-Note:
-- Man sieht Pfad (blau)
-  - links: in /var/www/html
-  - rechts weg zu /var/www/html
-- ls zeigt Inhalt
-- Pro "../" geht es eine Stufe höher vgl. Pfad
-
-+++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal - URL (1)
 ![PathTravURL](/res/PNGs/a-c_path-traversal1.png)
 Note:
@@ -597,37 +587,6 @@ Note:
 - Template (red.php, blue.php, ..) wird in Cookie gespeichert
   - normal => include /home/path/blue.php
   - attack => include /home/path/../../file
-
-+++?image=/res/PNGs/B-A_Control20i.png&size=cover
-### JWT - Verify-Algorhithmen
-![jwtAsyncSyncAlgo](/res/PNGs/a-c_jwt-forge-problem.png)
-Note:
-- JSON WEB TOKEN =/ cookie (Authentifizierung)
-- Idee (stateless) 
-  - -> Gültigkeit via Signatur
-  - -> mehrere Domain / SubDomain (wenn async Sign (PubliKey))
-- Header (nicht verschlüsselt), Payload, Signatur
-- Symetrisch & Asymetrische Signatur
-- Info via Header
-- Problem
-  - Header "client-controlled"
-    - **set Header => (Prüfe mit HMAC-Secret oder mitRSA-Public)**
-  - Symetrisch Token + set Header asymetrisch
-    - Prüft Signatur mit id_rsa.pub (!)
-    - nicht vertrauenswürdig -> korrekter Key = HMAC-SecretKey
-  - Erstelle / Signiere eigenes symetrisches (HMAC)Token mit PublicKey (asymetrisch)
-    - Prüft Signatur + set asymetrisch Header
-      - Prüft Signatur mit id_rsa.pub => korrket!
-
-+++?image=/res/PNGs/B-A_Control20i.png&size=cover
-### JWT - Verify-Algorhithmen
-![jwtAsyncSyncAlgo](/res/PNGs/a-c_jwt-forge.png)
-Note:
-- StepByStep
-  - Hole PublicKey
-  - Erstelle Payload (vgl. Dok)
-  - Signier Token mit PublicKey
-  - set Header "RS256" -RSA-SHA256- (asymetrisch)
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Client-Side Kontrollen - Hidden Field
