@@ -645,6 +645,56 @@ Note:
 #### AWS S3 Bucket
 ![s3-bucket](/res/PNGs/leaking-bucket.png)
 
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### SOP & CORS
+@ul
+- Same Origin Policy
+- Cross-Origin Request Sharing
+@ulend
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### Cross-Origin Request Sharing (1)
+![ac_cors-info1](/res/PNGs/a-c_cors-sop.png)
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### Cross-Origin Request Sharing (2)
+![ac_cors-info2](/res/PNGs/a-c_cors.png)
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### Workarrounds
+#### Simple Origin Reflection
+![ac_cors-simple-reflection](/res/PNGs/a-c_cors-simple-reflection.png)
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### Workarround: Startswith
+![ac_cors-Startswith](/res/PNGs/a-c_cors-startswith.png)
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### Workarround: Endswith
+![ac_cors-Startswith](/res/PNGs/a-c_cors-endswith.png)
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### Origin null
+"[...]request is issued from a file on a user’s computer"
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### Origin null
+![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### ACA-Credentials: true
+<br>
+#### Not working
+Access-Control-Allow-Origin: *
+<br>
+Access-Control-Allow-Credentials: true
+<br>
+<br>
+#### WORKING!
+Access-Control-Allow-Origin: null
+<br>
+Access-Control-Allow-Credentials: true
+
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ## @size[1.5em](Demo Security Misconfiguration)
@@ -755,60 +805,6 @@ Note:
 - ssh-aufit.py
 - Regenerate Moduli (prime numbers & generators)
 @ulend
-
-+++?image=/res/PNGs/Sec-MisConf8.png&size=cover
-### AWS S3 Buckets
-tbd
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### SOP & CORS
-@ul
-- Same Origin Policy
-- Cross-Origin Request Sharing
-@ulend
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Cross-Origin Request Sharing (1)
-![ac_cors-info1](/res/PNGs/a-c_cors-sop.png)
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Cross-Origin Request Sharing (2)
-![ac_cors-info2](/res/PNGs/a-c_cors.png)
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Workarrounds
-#### Simple Origin Reflection
-![ac_cors-simple-reflection](/res/PNGs/a-c_cors-simple-reflection.png)
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Workarround: Startswith
-![ac_cors-Startswith](/res/PNGs/a-c_cors-startswith.png)
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Workarround: Endswith
-![ac_cors-Startswith](/res/PNGs/a-c_cors-endswith.png)
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Origin null
-"[...]request is issued from a file on a user’s computer"
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Origin null
-![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### ACA-Credentials: true
-<br>
-#### Not working
-Access-Control-Allow-Origin: *
-<br>
-Access-Control-Allow-Credentials: true
-<br>
-<br>
-#### WORKING!
-Access-Control-Allow-Origin: null
-<br>
-Access-Control-Allow-Credentials: true
 
 
 
