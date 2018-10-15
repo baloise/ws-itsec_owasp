@@ -9,10 +9,10 @@
 - Open Web Application Project
 <br>
 - OWASP Top 10
-  - 10 schwerwiegenste Schwachstellen
 @ulend
 
 +++?image=res/light_bulbO40.jpg&size=cover
+@ul
 A1: Injection
 A2: Broken Authentication
 A3: Sensitive Data Exposure
@@ -23,6 +23,7 @@ A7: Cross-Site Scripting
 A8: Insecure Deserialization
 A9: Using Components with Known Vulnerabilities
 A10: Insufficient Logging & Monitoring
+@ulend
 
 +++?image=res/light_bulbO40.jpg&size=cover
 ### Gefahrenmodell (Top 10 Rating)
