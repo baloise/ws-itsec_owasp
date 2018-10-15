@@ -12,18 +12,16 @@
 @ulend
 
 +++?image=res/light_bulbO40.jpg&size=cover
-@ul
-A1: Injection\n
-A2: Broken Authentication \n
-A3: Sensitive Data Exposure
-A4: XML External Entities
-A5: Broken Access Control
-A6: Security Misconfigurarion
-A7: Cross-Site Scripting
-A8: Insecure Deserialization
-A9: Using Components with Known Vulnerabilities
-A10: Insufficient Logging & Monitoring
-@ulend
+- A1: Injection
+- A2: Broken Authentication
+- A3: Sensitive Data Exposure
+- A4: XML External Entities
+- A5: Broken Access Control
+- A6: Security Misconfigurarion
+- A7: Cross-Site Scripting
+- A8: Insecure Deserialization
+- A9: Using Components with Known Vulnerabilities
+- A10: Insufficient Logging & Monitoring
 
 +++?image=res/light_bulbO40.jpg&size=cover
 ### Gefahrenmodell (Top 10 Rating)
