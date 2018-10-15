@@ -8,8 +8,8 @@
 @ul
 - Open Web Application Project
 <br>
-### OWASP Top 10
-- 10 schwerwiegenste Schwachstellen
+- OWASP Top 10
+  - 10 schwerwiegenste Schwachstellen
 @ulend
 
 +++?image=res/light_bulbO40.jpg&size=cover
