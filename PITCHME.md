@@ -267,7 +267,7 @@ Note:
   - "Extern", Zwischen-Station; Proxy, VPN, Provider, Knotenpunkte
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
-### latly on SSL/TLS
+### latley on SSL/TLS
 ![SSL-TLS](/res/PNGs/SSL-TLS_attacks_timeline.png)
 Note:
 - Nicht lesen!
