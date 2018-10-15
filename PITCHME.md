@@ -4,54 +4,29 @@
 # @color[#282828](**Einleitung**)
 
 +++?image=res/light_bulbO40.jpg&size=cover
-### Wer ist OWASP?
-Note:
-Community: Firmen, Bildungseinrichtungen und Einzelpersonen aller Welt
-Region / Chapter: Offen und für jedermann
-
-+++?image=res/light_bulbO40.jpg&size=cover
-### Was ist das Ziel?
+### OWASP?
+@ul
+- Open Web Application Project
 <br>
-@ul
-- Awareness
-- Know How
+- OWASP Top 10
+- 10 schwerwiegenste Schwachstellen
 @ulend
-Note:
-- Web sicherer machen
-- Erarbeiten von Materialien
 
 +++?image=res/light_bulbO40.jpg&size=cover
-### Was ist OWASP Top 10
-@ul
-- Unterprojekt
-- schwerwiegenste Schwachstellen
-@ulend
-Note:
-- Sensibilisierung
-- Tools (ZAP-proxy)
-- Wiki: Know How - Vorbeugemassnahmen
+A1: Injection
+A2: Broken Authentication
+A3: Sensitive Data Exposure
+A4: XML External Entities
+A5: Broken Access Control
+A6: Security Misconfigurarion
+A7: Cross-Site Scripting
+A8: Insecure Deserialization
+A9: Using Components with Known Vulnerabilities
+A10: Insufficient Logging & Monitoring
 
 +++?image=res/light_bulbO40.jpg&size=cover
 ### Gefahrenmodell (Top 10 Rating)
 ![Gefahrenmodell](/res/PNGs/OWASP10-Risks-transparent.png)
-Note:
-Beispiel: Injection
-Fast alle Datenquellen sind Agriffsvektoren
-- Environment Variabeln, Parameter, ext. & int. web services,vers. User
-- Injection titt auf wenn Metazeichen an Interpreter geschickt werden können
-
-Injection ist verbreitet (legacy code)
-- SQL LDAP, XPath or NoSQL queries
-- OS commands, XML parsers, SMTP headers
-
-Injection leicht zu entdecken (Quellcode)
-
-Injection:
-- Datenverlust
-- Zugriff / Manipulation
-- Systemübernahme
-
-
 
 
 
