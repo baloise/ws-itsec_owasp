@@ -13,8 +13,8 @@
 
 +++?image=res/light_bulbO40.jpg&size=cover
 @ul
-A1: Injection
-A2: Broken Authentication
+A1: Injection\n
+A2: Broken Authentication \n
 A3: Sensitive Data Exposure
 A4: XML External Entities
 A5: Broken Access Control
