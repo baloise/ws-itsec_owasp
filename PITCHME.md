@@ -6,7 +6,7 @@
 +++?image=res/light_bulbO40.jpg&size=cover
 ### OWASP?
 @ul
-- Open Web Application Project
+- Open Web Application Security Project
 <br>
 - OWASP Top 10
 @ulend
