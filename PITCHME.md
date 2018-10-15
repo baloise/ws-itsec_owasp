@@ -231,7 +231,7 @@ Note:
 
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Securing Cookies
-![SecCookie](/res/PNGs/SecuringCookies.png)
+![SecCookie](/res/PNGs/SecuringCookies2.png)
 
 
 
