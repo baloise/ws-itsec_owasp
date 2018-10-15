@@ -118,8 +118,7 @@ Note:
 - Entspricht Pattern -> Fortgesetzt
 
 +++?code=res/snippets/escaping.java&lang=java&title=Escaping All User Supplied Input (Java)
-@[2,5]
-@[1]
+@[2,5, 7]
 @[4,6]
 Note:
 - altes Statement (legacy code)
