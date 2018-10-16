@@ -332,9 +332,7 @@ Note:
 ### Daten in Ruhe:
 @ul
 - Starke Verschlüsselung (AES / RSA)
-- Hashed
-  - Salt
-  - Pepper
+- Passwörter sicher gepsichert
 - Zugang absicheren
 @ulend
 Note:
@@ -343,6 +341,18 @@ Note:
 - Salt: "Random-Data" (überall selbe) + Pw -> Hash - RainbowTables
 - Pepper: "Radom-Data" (zufällig nicht + gespeichert) - Brute-/Dict-Attacks
 - Kabel, IPs, Zonen - kleine Angriffsfläche
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Daten in Ruhe (Hash)
+![Hashing](/res/PNGs/Hash.png)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Daten in Ruhe (Salt)
+![Salt](/res/PNGs/Salt.png)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Daten in Ruhe (Pepper)
+![Pepper](/res/PNGs/Pepper.png)
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Transport:
@@ -653,21 +663,6 @@ Note:
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Origin null
 ![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### ACA-Credentials: true
-<br>
-#### Not working
-Access-Control-Allow-Origin: *
-<br>
-Access-Control-Allow-Credentials: true
-<br>
-<br>
-#### WORKING!
-Access-Control-Allow-Origin: null
-<br>
-Access-Control-Allow-Credentials: true
-
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ## @size[1.5em](Demo Security Misconfiguration)
