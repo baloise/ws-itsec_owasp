@@ -678,6 +678,9 @@ Access-Control-Allow-Credentials: true
 @css[demo](**Outdated Version**)
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+## Massnahmen
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Allgemein (1)
 @ul
 - update!
