@@ -362,6 +362,7 @@ Note:
   - ≥TLS1.1
   - kein RC4 support
   - kein export-grade support
+  - https://ssllabs.com
 - keine 302 Redirects
 - HTTP Strict Transport Security
 @ulend
