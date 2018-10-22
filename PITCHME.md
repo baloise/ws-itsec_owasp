@@ -1059,13 +1059,13 @@ Beispiele:
 ![treshold-logging](/res/PNGs/logging_treshold.png)
 
 +++?image=/res/monitor-bg11.png
-### Intrusion Detection Systems (IDS)
+### Intrusion Systems
 @ul
-- Host-basierte IDS
+- Intrusion Detection System (IDS)
 <br>
-- Netzwerk-basierte IDS
+- Intrusion Protection System (IPS)
 <br>
-- Hybride (Host+Net) IDS
+- Typen: Host, Netzwerk & Hybrid
 @ulend
 
 +++?image=/res/monitor-bg11.png
