@@ -836,10 +836,6 @@ Note:
 # @color[#282828](**A7: Cross-Site Scripting**)
 
 +++?image=/res/xss-background10.png
-### MySpace Worm "Samy"
-![samy-worm](/res/PNGs/samy.png)
-
-+++?image=/res/xss-background10.png
 ### Cross-Site-Scripting (XSS)
 <br>
 @ul
@@ -870,12 +866,16 @@ JS: add, del, read, manipulate
 ![dom_xss](/res/PNGs/DOM_XSS1.png)
 
 +++?image=/res/xss-background10.png
-### DOM XSS (#Fragments)
+### DOM XSS (Fragments)
 ![dom_xss](/res/PNGs/DOM_XSS-f1.png)
 
 +++?image=/res/xss-background10.png
-### DOM XSS (#Fragments)
+### DOM XSS (Fragments)
 ![dom_xss](/res/PNGs/DOM_XSS-f2.png)
+
++++?image=/res/xss-background10.png
+### MySpace Worm "Samy"
+![samy-worm](/res/PNGs/samy.png)
 
 +++?image=/res/xss-background10.png
 ## @size[1.5em](Demo Cross-Site Scripting)
