@@ -290,7 +290,7 @@ Note:
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Google)
-![gogHack](/res/PNGs/GoogleHacks.png)
+![gogHack](/res/PNGs/G-Dork-Screenshot.png)
 Note:
 - Google-Suche + Parameter
 - (via Suche) gefundene Psyeudo(!)-Webseiten
@@ -301,7 +301,7 @@ Note:
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Shodan)
-![shodan](/res/PNGs/Shodan.png)
+![shodan](/res/PNGs/Shodan-Screenshot2.png)
 Note:
 - Suche nach IP ranges
 - Server / Port
