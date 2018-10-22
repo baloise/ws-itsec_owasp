@@ -615,19 +615,19 @@ Note:
 ---?image=/res/PNGs/Sec-MisConf50.png&size=cover
 # **A6: Security Misconfiguration**
 
-+++?image=/res/PNGs/Sec-MisConf8.png&size=cover
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Einleitung
 ![misconf-intro](/res/PNGs/misconf-overview.png)
 
-+++?image=/res/PNGs/Sec-MisConf8.png&size=cover
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Enumeration / default Login
 ![def-pw](/res/PNGs/defaultPwd.png)
 
-+++?image=/res/PNGs/Sec-MisConf8.png&size=cover
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Error-Handling
 ![def-pw](/res/PNGs/sql-error.png)
 
-+++?image=/res/PNGs/Sec-MisConf8.png&size=cover
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Outdated Version
 ![def-pw](/res/PNGs/out-dated.png)
 
