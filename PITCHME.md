@@ -75,18 +75,6 @@ Injection:
 - Statement ergänzt "oder" (4=4)
 
 +++?image=res/injectionO45.png&size=cover
-## @size[1.5em](Demo Injection)
-@css[demo](**Login Bypass**)
-<br>
-@css[demo](**Command Injection**)
-
-Note:
-Insecure Web App
-
-Damm Vulnerable Web Application
-- file erstellen
-
-+++?image=res/injectionO45.png&size=cover
 ## Massnahmen
 
 +++?code=res/snippets/prepeared-statements.java&lang=java&title=Prepared Statements (Java)
@@ -179,19 +167,6 @@ Note:
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Session Fixation
 ![SessionFix](/res/PNGs/Session_Fixation.png)
-
-
-+++?image=/res/broken_authO40.jpg&size=cover
-## @size[1.5em](Demo Broken Authentication)
-
-@css[demo](**Brute Force Attack**)
-<br>
-@css[demo](**Playing with Cookies**)
-
-Note:
-- ?hydra
-- BurpSuite
-- Mutillidae
 
 +++?image=/res/broken_authO40.jpg&size=cover
 ## Massnahmen
@@ -315,15 +290,6 @@ Note:
   - Fotos
   - Screenshots
   - Selfies
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
-## @size[1.5em](Demo Sensitive Data Exposure)
-@css[demo](**Demo1**)
-<br>
-@css[demo](**Demo2**)
-Note: 
-- MiM Proxy (Pineapple + ssl-strip?)
-- Heartbleed
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ## Massnahmen
@@ -507,12 +473,6 @@ Note:
   - Link + Data via payload
 
 +++?image=/res/xxeO10.png&size=cover
-## @size[1.5em](Demo XML External Entity)
-@css[demo](**Demo1**)
-<br>
-@css[demo](**Demo2**)
-
-+++?image=/res/xxeO10.png&size=cover
 ## Massnahmen
 
 +++?image=/res/xxeO10.png&size=cover
@@ -616,12 +576,6 @@ Note:
   - - Client kann manipulieren
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
-## @size[1.5em](Demo Broken Access Control)
-@css[demo](**Demo1**)
-<br>
-@css[demo](**Demo2**)
-
-+++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ## Massnahmen
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
@@ -712,14 +666,6 @@ Note:
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Origin null
 ![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-## @size[1.5em](Demo Security Misconfiguration)
-@css[demo](**Enumeration**)
-<br>
-@css[demo](**Error-Handling**)
-<br>
-@css[demo](**Outdated Version**)
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ## Massnahmen
@@ -879,12 +825,6 @@ JS: add, del, read, manipulate
 +++?image=/res/xss-background10.png
 ### MySpace Worm "Samy"
 ![samy-worm](/res/PNGs/samy.png)
-
-+++?image=/res/xss-background10.png
-## @size[1.5em](Demo Cross-Site Scripting)
-@css[demo](**XSS!**)
-<br>
-@css[demo](**Cookie**)
 
 +++?image=/res/xss-background10.png
 ## Massnahmen
