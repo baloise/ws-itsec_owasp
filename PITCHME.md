@@ -991,7 +991,7 @@ Beispiele:
 
 
 ---?image=/res/monitor-bg30.png
-# @color[#282828](**A10: Insufficient Logging&Monitoring**)
+# @color[#282828](**A10: Insufficient Logging & Monitoring**)
 
 +++?image=/res/monitor-bg11.png
 ### Watch your logs
