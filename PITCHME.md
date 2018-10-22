@@ -647,16 +647,16 @@ Note:
 ![ac_cors-info2](/res/PNGs/a-c_cors.png)
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Workarrounds
+### Workarounds
 #### Simple Origin Reflection
 ![ac_cors-simple-reflection](/res/PNGs/a-c_cors-simple-reflection.png)
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Workarround: Startswith
+### Workaround: Startswith
 ![ac_cors-Startswith](/res/PNGs/a-c_cors-startswith.png)
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Workarround: Endswith
+### Workaround: Endswith
 ![ac_cors-Startswith](/res/PNGs/a-c_cors-endswith.png)
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
