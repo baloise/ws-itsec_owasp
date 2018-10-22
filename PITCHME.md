@@ -866,15 +866,15 @@ JS: add, del, read, manipulate
 ![DOM_js](/res/PNGs/DOM_js.png)
 
 +++?image=/res/xss-background10.png
-### DOM XXS
+### DOM XSS
 ![dom_xss](/res/PNGs/DOM_XSS1.png)
 
 +++?image=/res/xss-background10.png
-### DOM XXS (#Fragments)
+### DOM XSS (#Fragments)
 ![dom_xss](/res/PNGs/DOM_XSS-f1.png)
 
 +++?image=/res/xss-background10.png
-### DOM XXS (#Fragments)
+### DOM XSS (#Fragments)
 ![dom_xss](/res/PNGs/DOM_XSS-f2.png)
 
 +++?image=/res/xss-background10.png
