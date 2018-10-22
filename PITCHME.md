@@ -989,7 +989,7 @@ https://html5sec.org/
 
 +++?image=/res/known-vuln-bg10.jpg
 ### Veraltete / verwundbare Komponenten
-![known-vuln](/res/known-vulnerability.png)
+![known-vuln](/res/PNGs/known-vulnerability.png)
 
 +++?image=/res/known-vuln-bg10.jpg
 ### Veraltete / verwundbare Komponenten
