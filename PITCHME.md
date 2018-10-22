@@ -1081,7 +1081,7 @@ Beispiele:
 @ul
 - Web Application Firewall: HTTP - Layer 7
   - SSL, GET, POST, XSS, Injection, etc
-
+<br>
 - Intrusion Prevention System - Layer 3/4
   - DNS, SMTP, SSH, RDP, etc
 @ulend
