@@ -989,6 +989,10 @@ https://html5sec.org/
 
 +++?image=/res/known-vuln-bg10.jpg
 ### Veraltete / verwundbare Komponenten
+![known-vuln](/res/known-vulnerability.png)
+
++++?image=/res/known-vuln-bg10.jpg
+### Veraltete / verwundbare Komponenten
 @ul
 Beispiele:
 <br>
