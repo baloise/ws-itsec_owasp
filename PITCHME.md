@@ -837,6 +837,10 @@ Note:
 
 +++?image=/res/xss-background10.png
 ### Cross-Site-Scripting (XSS)
+![html-tags](/res/PNGs/html-tags.png)
+
++++?image=/res/xss-background10.png
+### Cross-Site-Scripting (XSS)
 <br>
 @ul
 - Reflected XSS (server-basiert)
