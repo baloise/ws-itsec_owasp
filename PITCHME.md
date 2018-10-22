@@ -1077,15 +1077,22 @@ Beispiele:
 ![Nb-IDS](/res/PNGs/NIDS.png)
 
 +++?image=/res/monitor-bg11.png
+### WAF vs IPS
+@ul
+- Web Application Firewall: HTTP - Layer 7
+  - SSL, GET, POST, XSS, Injection, etc
+
+- Intrusion Prevention System - Layer 3/4
+  - DNS, SMTP, SSH, RDP, etc
+@ulend
+
++++?image=/res/monitor-bg11.png
 ### Web App Firewall (WAF)
 @ul
-- ModSecurity, SpiderLabs, OpenSource
+- ModSecurity
   - https://modsecurity.org/
 - OWASP ModSecurity Core Rule Set
   - https://coreruleset.org/
-<br>
-- einfache Installation + Bedinung
-- wenige false-positive
 @ul
 
 
