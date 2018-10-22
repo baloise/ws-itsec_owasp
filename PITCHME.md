@@ -1073,7 +1073,7 @@ Beispiele:
 ![Hb-IDS](/res/PNGs/HIDS.png)
 
 +++?image=/res/monitor-bg11.png
-### Netzwerk-basiertes IDS
+### Netzwerk-basiertes IPS
 ![Nb-IDS](/res/PNGs/NIDS.png)
 
 +++?image=/res/monitor-bg11.png
