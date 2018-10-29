@@ -308,7 +308,7 @@ Note:
 ### Daten in Ruhe:
 @ul
 - Starke Verschlüsselung (AES / RSA)
-- Passwörter sicher gepsichert
+- Passwörter sicher gespeichert
 - Zugang absicheren
 @ulend
 Note:
