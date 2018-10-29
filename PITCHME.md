@@ -171,7 +171,7 @@ Note:
 ### Brute Force verzögern
 <br>
 @ul
-- Verzögerung einbauen (Argon2, bcrypt, ..)
+- Workfactor (Argon2, bcrypt, ..)
 - Captcha nach x Fehlversuchen
 - IP (für x Minuten) blockieren
 - Account (für x Minuten) blockieren
