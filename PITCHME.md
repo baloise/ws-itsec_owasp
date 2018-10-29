@@ -43,18 +43,9 @@ Note:
 - Applikation rendert? Antwort
 
 +++?image=res/injectionO45.png&size=cover
-### Injection: Vorkommen und Auswirkungen
+### Injection: Auswirkungen
 
-<br>
-
-  @ul
-  - SQL, NoSQL, HQL, LDAP
-  - Bash, PowerShell
-  @ulend
-
-<br>
-
-  @ul[uppercase]
+  @ul[]
   - Authentifizierung umgehen
   - Daten auslesen
   - Daten manipulieren
