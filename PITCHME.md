@@ -286,6 +286,25 @@ Note:
 ## Massnahmen
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
+### Daten in Transport:
+@ul
+- Immer verschlüsselt
+- Verschlüsselung:
+  - ≥TLS1.1
+  - kein RC4 support
+  - kein export-grade support
+  - https://ssllabs.com
+- HTTP Strict Transport Security
+@ulend
+Note:
+- Verschlüsselte Verbindungen anbieten & benutzen
+- +TLS 1.1 (Heartbleed, POODLE)
+- RC4 erhebliche Sicherheitsmängel (Intägritätsschutz)
+- export-grade (kürzere Schlüssel)
+- Redirects SSLStrip+
+- HSTS (nur über HTTPS verbinden)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe:
 @ul
 - Starke Verschlüsselung (AES / RSA)
@@ -310,25 +329,6 @@ Note:
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Pepper)
 ![Pepper](/res/PNGs/Pepper.png)
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
-### Daten in Transport:
-@ul
-- Immer verschlüsselt
-- Verschlüsselung:
-  - ≥TLS1.1
-  - kein RC4 support
-  - kein export-grade support
-  - https://ssllabs.com
-- HTTP Strict Transport Security
-@ulend
-Note:
-- Verschlüsselte Verbindungen anbieten & benutzen
-- +TLS 1.1 (Heartbleed, POODLE)
-- RC4 erhebliche Sicherheitsmängel (Intägritätsschutz)
-- export-grade (kürzere Schlüssel)
-- Redirects SSLStrip+
-- HSTS (nur über HTTPS verbinden)
 
 
 
