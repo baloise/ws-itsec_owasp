@@ -574,7 +574,6 @@ Note:
 ### Validation
 @ul
 - Server-side code
-- Server-less API
 - Client-side code höchstens als Ergänzung!
 @ulend
 Note:
