@@ -468,9 +468,6 @@ Note:
 ## Massnahmen
 
 +++?image=/res/xxeO10.png&size=cover
-### Vertrau User-Input nicht!
-
-+++?image=/res/xxeO10.png&size=cover
 ### Allgemein
 @ul
 - DTDs (komplett) deaktivieren
