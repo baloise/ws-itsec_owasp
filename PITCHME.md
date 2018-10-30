@@ -368,7 +368,8 @@ Note:
 - allozierter Speicher
 
 +++?code=/res/snippets/billion-laughs.xml&lang=xml&title=Billion Laughs (XML)
-@[1-2]
+@[1]
+@[2-11]
 @[12]
 @[11]
 @[10-11]
