@@ -750,8 +750,8 @@ Note:
   - google-authenticator
   - UsePAM yes
   - ChallengeResponseAuthentication yes
-- ssh-aufit.py
 - Regenerate Moduli (prime numbers & generators)
+- ssh-aufit.py
 @ulend
 
 
