@@ -649,10 +649,6 @@ Note:
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Origin null
-"[...]request is issued from a file on a user’s computer"
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Origin null
 ![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
