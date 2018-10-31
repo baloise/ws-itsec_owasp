@@ -676,11 +676,6 @@ Note:
 - Enumeration
 @ulend
 
-+++?code=/res/snippets/nginx-config.conf&title=Nginx - enable SSL
-@[3, 5-8]
-@[9, 10]
-@[11]
-
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Nginx Hardening (1)
 #### ssl.conf
@@ -700,6 +695,11 @@ Note:
 - Implement WAF
 - update!
 @ulend
+
++++?code=/res/snippets/nginx-config.conf&title=Nginx - enable SSL
+@[3, 5-8]
+@[9, 10]
+@[11]
 
 +++?code=/res/snippets/nginx-config2.conf&title=Nginx - additional config
 @[1-5]
