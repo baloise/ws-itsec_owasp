@@ -693,7 +693,6 @@ Note:
   - openssl dhparam -out dhparams.pem 4096
   - ssl_dhparam
 - Implement WAF
-- update!
 @ulend
 
 +++?code=/res/snippets/nginx-config.conf&title=Nginx - enable SSL
