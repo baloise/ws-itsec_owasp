@@ -723,7 +723,6 @@ Note:
 - User apache
 - Group apache
 - Remove unnecessary DSO Modules
-- update!
 @ulend
 
 +++?code=/res/snippets/apache-no-dir-listen.conf&title=Disable Directory Listening
