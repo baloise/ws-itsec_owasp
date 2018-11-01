@@ -789,14 +789,6 @@ Note:
 JS: add, del, read, manipulate
 
 +++?image=/res/xss-background10.png
-### Dom & JavaScript
-![DOM_js](/res/PNGs/DOM_js.png)
-
-+++?image=/res/xss-background10.png
-### DOM XSS
-![dom_xss](/res/PNGs/DOM_XSS1.png)
-
-+++?image=/res/xss-background10.png
 ### DOM XSS (Fragments)
 ![dom_xss](/res/PNGs/DOM_XSS-f1.png)
 
