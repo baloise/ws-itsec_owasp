@@ -885,7 +885,6 @@ https://html5sec.org/
 - nur vertrauenswürdige Quellen!
 - Entfernen der "Gadget-Klassen"
 - "Lookahead" des Streams (w/b list)
-- nicht-vertr. Quellen, nur primitive Daten
 @ulend
 
 +++?image=/res/serial-bg10.jpg
