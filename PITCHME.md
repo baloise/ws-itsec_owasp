@@ -883,6 +883,8 @@ https://html5sec.org/
 <br>
 @ul
 - nur vertrauenswürdige Quellen!
+- Entfernen der "Gadget-Klassen"
+- "Lookahead" des Streams (w/b list)
 - nicht-vertr. Quellen, nur primitive Daten
 @ulend
 
@@ -893,7 +895,7 @@ https://html5sec.org/
 - Deserialization-Ausführung in low privilege env.
 - Logging des. expetions and failures
 - Monitoring / Restriktionen
-  - In- & ausgehende Konnectivität
+  - In- & ausgehende Konnektivität
   - Alarm wenn konstante deserial. von user
 
 
