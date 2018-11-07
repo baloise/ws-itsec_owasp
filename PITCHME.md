@@ -476,7 +476,6 @@ Note:
 - /external-general-entities
 - /load-external-dtd
 - /disallow-doctype-decl
-- /external-general-entities
 - /external-parameter-entities
 - /load-external-dtd
 
