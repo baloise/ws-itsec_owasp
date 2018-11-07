@@ -1,6 +1,3 @@
-// Inhalt von sich + spezifischer Domain
-Content-Security-Policy: default-src 'self' *.vertraut.ch
-
 // Bilder(img) von überall ABER audio/video nur von spezifischen Domains
 Content-Security-Policy: default-src 'self'; img-src *; media-src media-srv1.ch media-srv2.ch
 
