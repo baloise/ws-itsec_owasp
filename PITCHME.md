@@ -820,10 +820,6 @@ JS: add, del, read, manipulate
   - Pattern
   - Whitelist
   - MIME
-<br>
-- Beispiel Postleitzahl:
-  - Nur Zahlen
-  - vier Ziffern
 @ulend
 
 +++?code=/res/snippets/csp1.txt&title=Content Security Policy (CSP)
