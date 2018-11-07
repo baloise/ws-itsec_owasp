@@ -479,14 +479,9 @@ Note:
 
 +++?image=/res/xxeO10.png&size=cover
 ### Features abstellen (Java)
-#### Xerces 1
-- /external-general-entities
+#### Xerces
 - /external-general-entities
 - /load-external-dtd
-
-+++?image=/res/xxeO10.png&size=cover
-### Features abstellen (Java)
-#### Xerces 2
 - /disallow-doctype-decl
 - /external-general-entities
 - /external-parameter-entities
@@ -673,7 +668,6 @@ Note:
   - Benutzerkonten
   - vergessene Server
   - Funktionen / Plugins
-- Enumeration
 @ulend
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
