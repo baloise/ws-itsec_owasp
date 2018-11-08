@@ -138,22 +138,6 @@ Note:
 ### Passwort wiederherstellen
 ![RecQuestion3](res/PNGs/SecurityQuestion3.png)
 
-
-+++?image=/res/broken_authO40.jpg&size=cover
-### Cookie: UserID
-![CookieParameter1](/res/PNGs/CookieParameter1.png)
-Note:
-- Admin Login -Server> Cookie UserID=1
-
-+++?image=/res/broken_authO40.jpg&size=cover
-### Cookie: UserID
-![CookieParameter2](/res/PNGs/CookieParameter2.png)
-Note:
-- Hacker Login -Server> Cookie UserID=4825
-- Hacker ändert Wert
-- Problem: Validierung userID = username/sessID/etc.
-
-
 +++?image=/res/broken_authO40.jpg&size=cover
 ### Session Fixation
 ![SessionFix](/res/PNGs/Session_Fixation.png)
@@ -271,15 +255,6 @@ Note:
 - Suche nach IP ranges
 - Server / Port
 - Land
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
-### Daten in Ruhe (Social Media)
-![social-exp](/res/PNGs/SocialMediaExp.png)
-Note:
-- Veröffetnlichung sensibler Daten
-  - Fotos
-  - Screenshots
-  - Selfies
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ## Massnahmen
@@ -730,6 +705,15 @@ Note:
 +++?image=/res/xss-background10.png
 ### Vertrau Input nicht!
 
+
++++?image=/res/xss-background10.png
+### Input Validation (server-side!)
+@ul
+- Whitelist
+- Pattern
+- RegEx
+@ulend
+
 +++?image=/res/xss-background10.png
 ### Escaping
 @ul
@@ -741,17 +725,6 @@ Note:
   - OWASP Java HTML Sanitizer
 @ulend
 
-+++?image=/res/xss-background10.png
-### Input Validation (server-side!)
-@ul
-<br>
-- Validation:
-  - RegEx
-  - Pattern
-  - Whitelist
-  - MIME
-@ulend
-
 +++?code=/res/snippets/csp1.txt&title=Content Security Policy (CSP)
 
 +++?code=/res/snippets/csp2.txt&title=Content Security Policy (CSP)
@@ -759,21 +732,11 @@ Note:
 +++?code=/res/snippets/csp3.txt&title=Content Security Policy (CSP)
 
 +++?image=/res/xss-background10.png
-### Headers & Cookie
-@ul
-- Header:
-  - X-XSS-Protection: 1; mode=block 
-  - (Content-Security-Policy-Header)
-<br>
-- Cookie:
-  - Set-Cookie: Secure (HTTPS)
-  - Set-Cookie: HttpOnly (no javascript)
-  - Set-Cookie: SameSite
-@ulend
-
-+++?image=/res/xss-background10.png
 ### Mehr / anwendungsbezogene Infos
 <a href="https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Prevention_Cheat_Sheet">HTML5 Security Cheatsheet</a>
+
+
+
 
 
 
@@ -834,10 +797,14 @@ Note:
 ![maintenance-circel](/res/PNGs/com-circel.png)
 
 +++?image=/res/PNGs/pythagoras-tree20.png&size=cover
-### Komponenten
+### Komponenten indentifizieren
 <a href="https://www.owasp.org/index.php/OWASP_Dependency_Check">Dependency Check</a>
 ![dep-checker](/res/PNGs/dep-check.png)
 
++++?image=/res/PNGs/pythagoras-tree20.png&size=cover
+### Komponenten indentifizieren
+###### Sonatype Nexus IQ Server
+<img src="https://help.sonatype.com/iqserver/files/330085/330088/3/1502739072063/app-comp-report-security-issues-tab.png">
 
 +++?image=/res/known-vuln-bg10.jpg
 ### Monitoring
