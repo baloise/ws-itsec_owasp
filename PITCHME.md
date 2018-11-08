@@ -43,17 +43,6 @@ Note:
 - Applikation rendert? Antwort
 
 +++?image=res/injectionO45.png&size=cover
-### Injection: Auswirkungen
-
-  @ul[]
-  - Authentifizierung umgehen
-  - Daten auslesen
-  - Daten manipulieren
-  - System-Übernahme
-  @ulend
-
-
-+++?image=res/injectionO45.png&size=cover
 ### SQL-Injection: Attack
 ![SQL-Injection](/res/PNGs/SQL_Injection.png)
 Note:
@@ -64,6 +53,16 @@ Normal:
 Injection:
 - Parameter eingesetzt
 - Statement ergänzt "oder" (4=4)
+
++++?image=res/injectionO45.png&size=cover
+### Injection: Auswirkungen
+
+  @ul[]
+  - Authentifizierung umgehen
+  - Daten auslesen
+  - Daten manipulieren
+  - System-Übernahme
+  @ulend
 
 +++?image=res/injectionO45.png&size=cover
 ## Massnahmen
