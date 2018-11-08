@@ -291,8 +291,6 @@ Note:
 - Immer verschlüsselt
 - Verschlüsselung:
   - ≥TLS1.1
-  - kein RC4 support
-  - kein export-grade support
   - https://ssllabs.com
 - HTTP Strict Transport Security
 @ulend
@@ -663,81 +661,27 @@ Note:
 @ulend
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Nginx Hardening (1)
-#### ssl.conf
+### Web-Server
 @ul
-- ssl_protocols
-- ssl_ciphers
-- server_tokens off
+- Verschlüsselung:
+  - protocols
+  - chiphers
+- Server Token
+- Directory Listening
+- Headers & Methoden
+  - Clickjacking, CSP, ..
+  - GET, POST, ..
+- Featrues
+- WAF
 @ulend
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Nginx Hardening (2)
-#### ssl.conf
+### SSH
 @ul
-- Secure Diffie-Hellman
-  - openssl dhparam -out dhparams.pem 4096
-  - ssl_dhparam
-- Implement WAF
-@ulend
-
-+++?code=/res/snippets/nginx-config.conf&title=Nginx - enable SSL
-@[3, 5-8]
-@[9, 10]
-@[11]
-
-+++?code=/res/snippets/nginx-config2.conf&title=Nginx - additional config
-@[1-5]
-@[7, 8]
-@[10-11]
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Apache Hardening (1)
-#### httpd.config
-@ul
-- TraceEnable off
-- ServerSignature Off
-- ServerTokens Prod
-- SSLProtocol
-- SSLCipherSuite
-@ulend
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Apache Hardening (2)
-#### httpd.config
-@ul
-- User apache
-- Group apache
-- Remove unnecessary DSO Modules
-@ulend
-
-+++?code=/res/snippets/apache-no-dir-listen.conf&title=Disable Directory Listening
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### SSH Hardening (1)
-#### ssh_config
-@ul
-- Protocol 2
-- PermitRootLogin no
-- ClientAliveInterval 300
-- ClientAliveMax 2
-- AllowUsers HereComesUsername
-- SSH-PublicKey Login
-  - PasswordAuthentication no
-- X11Forwarding no
-@ulend
-
-+++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### SSH Hardening (2)
-#### SSH - additional
-@ul
+- Root Login
+- PublicKey Login
 - Fail2Ban
-- Multi-Factor Authentication
-  - google-authenticator
-  - UsePAM yes
-  - ChallengeResponseAuthentication yes
-- Regenerate Moduli (prime numbers & generators)
-- ssh-aufit.py
+<a href=https://github.com/arthepsy/ssh-audit>ssh-audit.py<a>
 @ulend
 
 
@@ -770,11 +714,6 @@ Note:
 ![stored_xss](/res/PNGs/Stored_XSS.png)
 
 +++?image=/res/xss-background10.png
-### Document Object Model (DOM) XSS
-![DOM](/res/PNGs/DOM.png)
-JS: add, del, read, manipulate
-
-+++?image=/res/xss-background10.png
 ### DOM XSS (Fragments)
 ![dom_xss](/res/PNGs/DOM_XSS-f1.png)
 
@@ -790,7 +729,7 @@ JS: add, del, read, manipulate
 ## Massnahmen
 
 +++?image=/res/xss-background10.png
-### Vertau Input nicht!
+### Vertrau Input nicht!
 
 +++?image=/res/xss-background10.png
 ### Escaping
@@ -834,11 +773,8 @@ JS: add, del, read, manipulate
 @ulend
 
 +++?image=/res/xss-background10.png
-### HTML5 Security Cheatsheet
-https://html5sec.org/
-
-
-
+### Mehr / anwendungsbezogene Infos
+<a href="https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Prevention_Cheat_Sheet">HTML5 Security Cheatsheet</a>
 
 
 
@@ -890,21 +826,6 @@ https://html5sec.org/
 +++?image=/res/known-vuln-bg10.jpg
 ### Veraltete / verwundbare Komponenten
 ![known-vuln](/res/PNGs/known-vulnerability.png)
-
-+++?image=/res/known-vuln-bg10.jpg
-### Veraltete / verwundbare Komponenten
-@ul
-Beispiele:
-<br>
-- Web Server
-  - Apache --> Sturts
-<br>
-- Database Server
-  - Oracle --> Java VM
-<br>
-- TLS / SSL
-  - Heartbleed
-@ulend
 
 +++?image=/res/known-vuln-bg10.jpg
 ## Massnahmen
