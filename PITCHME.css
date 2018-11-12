@@ -35,8 +35,8 @@
 }
 
 .reveal pre {
-    width: 120%;
-    margin-inline-start: -10%;
+    width: 100%;
+    margin-inline-start: 0%;
     box-shadow : none;
 }
 
