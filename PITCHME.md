@@ -460,10 +460,6 @@ Note:
     - Aufruf getFile (hole Datei Inhalt)
     - Request "attacker.ch/"+"getFile=Inhalt"
 
-+++?image=/res/xxeO10.png&size=cover
-### More on OOB XXE
-[Black Hat 13 (slides)](https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf)
-
 +++?code=/res/snippets/oob-xxe.xml&lang=xml&title=Out of band XXE (XML)
 @[1-7]
 @[9-16]
@@ -486,6 +482,11 @@ Note:
   - Definiere external mit Link+Datei-Inhalt
 - Führe external aus
   - Link + Data via payload
+
+
++++?image=/res/xxeO10.png&size=cover
+### More on OOB XXE
+[Black Hat 13 (slides)](https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf)
 
 +++?image=/res/xxeO10.png&size=cover
 ## Massnahmen
@@ -937,6 +938,14 @@ Note:
 +++?image=/res/known-vuln-bg10.jpg
 ### Veraltete / verwundbare Komponenten
 ![known-vuln](/res/PNGs/known-vulnerability.png)
+
++++?image=/res/known-vuln-bg10.jpg
+### ExploitDB (1)
+![Exploitdb1](/res/PNGs/ExploitDB_WordPress1.png)
+
++++?image=/res/known-vuln-bg10.jpg
+### ExploitDB (2)
+![Exploitdb2](/res/PNGs/ExploitDB_WordPress2.png)
 
 +++?image=/res/known-vuln-bg10.jpg
 ## Massnahmen
