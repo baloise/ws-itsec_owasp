@@ -658,7 +658,35 @@ Note:
 ![ac_cors-info2](/res/PNGs/a-c_cors.png)
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
-### Workarounds
+### CORS Misskonfigurationen (1)
+Access-Control-Allow-Origin:
+<br>
+##### Supported:
+@ul
+- * (wildcard)
+- origin (domain-name)
+- origin-list-or-null
+@ulend
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### CORS Misskonfigurationen (2)
+<br>
+##### Realitiy:
+@ul
+- https://*.mywebsite.ch (NOT WORKING)
+- one-site.ch, another-site.ch (lack of support)
+@ulend
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### CORS Misskonfigurationen (3)
+#### Workarrounds
+@ul
+- Simple Origin Reflection
+- Startswith
+- Endswith
+@ulend
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 #### Simple Origin Reflection
 ![ac_cors-simple-reflection](/res/PNGs/a-c_cors-simple-reflection.png)
 
@@ -672,7 +700,61 @@ Note:
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Origin null
+"[...]request is issued from a file on a user’s computer"
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### Origin null
 ![ac_cors-origin-null](/res/PNGs/a-c_cors-origin-null2.png)
+
++++?code=res/snippets/ac_cors-iframe-sandbox.html&lang=HTML&title=iframe sandbox (null)
+
+
++++?image=/res/PNGs/Sec-MisConf10.png&size=cover
+### ACA-Credentials: true
+<br>
+#### Not working
+Access-Control-Allow-Origin: *
+<br>
+Access-Control-Allow-Credentials: true
+<br>
+<br>
+#### WORKING!
+Access-Control-Allow-Origin: null
+<br>
+Access-Control-Allow-Credentials: true
+
+### More on CORS
+![albinowax-cors](https://www.youtube.com/watch?v=wgkj4ZgxI4cT "Exploiting CORS Misconfigurations")
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
+### JWT - Verify-Algorhithmen
+![jwtAsyncSyncAlgo](/res/PNGs/a-c_jwt-forge-problem.png)
+Note:
+- JSON WEB TOKEN =/ cookie (Authentifizierung)
+- Idee (stateless) 
+  - -> Gültigkeit via Signatur
+  - -> mehrere Domain / SubDomain (wenn async Sign (PubliKey))
+- Header (nicht verschlüsselt), Payload, Signatur
+- Symetrisch & Asymetrische Signatur
+- Info via Header
+- Problem
+  - Header "client-controlled"
+    - **set Header => (Prüfe mit HMAC-Secret oder mitRSA-Public)**
+  - Symetrisch Token + set Header asymetrisch
+    - Prüft Signatur mit id_rsa.pub (!)
+    - nicht vertrauenswürdig -> korrekter Key = HMAC-SecretKey
+  - Erstelle / Signiere eigenes symetrisches (HMAC)Token mit PublicKey (asymetrisch)
+    - Prüft Signatur + set asymetrisch Header
+      - Prüft Signatur mit id_rsa.pub => korrket!
+
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
+### JWT - Verify-Algorhithmen
+![jwtAsyncSyncAlgo](/res/PNGs/a-c_jwt-forge.png)
+Note:
+- StepByStep
+  - Hole PublicKey
+  - Erstelle Payload (vgl. Dok)
+  - Signier Token mit PublicKey
+  - set Header "RS256" -RSA-SHA256- (asymetrisch)
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ## Massnahmen
@@ -701,16 +783,13 @@ Note:
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### Web-Server
 @ul
-- Verschlüsselung:
-  - protocols
-  - chiphers
-- Server Token
+- [Verschlüsselung](https://cipherli.st/)
+- [Server Token](https://www.hugeserver.com/kb/hide-apache-nginx-php-version/)
 - Directory Listening
 - Headers & Methoden
-  - Clickjacking, CSP, ..
-  - GET, POST, ..
 - Featrues
 - WAF
+- 
 @ulend
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
@@ -718,7 +797,8 @@ Note:
 @ul
 - Root Login
 - PublicKey Login
-- Fail2Ban
+- [Fail2Ban](http://jeffskinnerbox.me/posts/2016/Apr/27/howto-install-and-configure-fail2ban/)
+- [Verschlüsselung](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
 <a href=https://github.com/arthepsy/ssh-audit>ssh-audit.py<a>
 @ulend
 
@@ -763,6 +843,10 @@ Note:
 ### MySpace Worm "Samy"
 ![samy-worm](/res/PNGs/samy.png)
 
+### More
+![Filter Evasion](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet "Filter Evasion")
+![misc](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection "Various PoC, Payloads, etc")
+
 +++?image=/res/xss-background10.png
 ## Massnahmen
 
@@ -794,10 +878,6 @@ Note:
 +++?code=/res/snippets/csp2.txt&title=Content Security Policy (CSP)
 
 +++?code=/res/snippets/csp3.txt&title=Content Security Policy (CSP)
-
-+++?image=/res/xss-background10.png
-### Mehr / anwendungsbezogene Infos
-<a href="https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Prevention_Cheat_Sheet">HTML5 Security Cheatsheet</a>
 
 
 
