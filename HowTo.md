@@ -32,7 +32,7 @@ https://gitpitch.com/baloise/ws-itsec_owasp/pitch-intro#/
 
 **That's it.** Now your ready to add, remove, modify to your liking. Just push changes and hit `F5`. This is where [git credential.helper](https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git) comes handy.
 
-#### Use a custom font (exmaple)
+#### Use a custom font (example)
 `PITCHME.yaml`
 ```yaml
 theme-override : PITCHME.css
@@ -52,7 +52,7 @@ theme-override : PITCHME.css
 
 #### Edit existing images. Simply open the `*.xml` with [draw.io](https://draw.io)
 
-# Get offline versions (HTML & PDF)
+# offline versions (HTML & PDF)
 Those can easily be obtained by:
 - visiting your pitch (i.e `https://gitpitch.com/baloise/ws-itsec_owasp/pitch-lite#/`)
 - Hit `M`, a menu pops up where you should be able to click:
