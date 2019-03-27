@@ -16,7 +16,7 @@
 - [fork / modify a pitch](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#fork-and-modify-a-pitch)
   - [howto GitPitch](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#howto-gitpitch)
   - [custom font](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#use-a-custom-font-example)
-  - [edit images](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#edit-existing-images-simply-open-the-xml-with-drawio)
+  - [edit images](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#edit-existing-images)
 - [offline versions](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#offline-versions-html--pdf)
 - [ontribute](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#contribution)
   
