@@ -8,9 +8,9 @@
 #### Permanent branch(es)
  - `pitch`: This branch shall contain all available slides (collection). For a new presentation, fork this branch and modify to your liking.
 
-#### Presentation's branch(es)
+#### Presentation branch(es)
  - `pitch-intro` is a presentation branch that shows basic (mostly old but easily understandable) vulnerabilities / attacks in Web Applications.
- - `pitch-lite` is a presentation branch that shows basics and partially more advanced vulnerabilities / attacks and also explains common mitigations in Web Applications.
+ - `pitch-lite` is a presentation branch that shows basic and some more advanced vulnerabilities / attacks and also explains common mitigations in Web Applications.
 
 ### HowTo
 - [fork / modify a pitch](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#fork-and-modify-a-pitch)
