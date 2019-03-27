@@ -18,7 +18,7 @@ You can use your own server with GitPitch / revealJS which brings many advantage
 A pitch mainly consist of three files + resources:
  - PITCHME.md -> Here is the actual pitch written, in markdown. [GitPitch syntax](https://gitpitch.com/docs/getting-started/delimiters/)
  - PITCHME.yaml -> Configuration file. For example change the footnote or specify your own Stylesheet (CSS)
- - PITTCHME.css -> Stylesheet. For example to change the [code-block layout](https://github.com/baloise/ws-itsec_owasp/issues/9).
+ - PITTCHME.css -> Stylesheet. For example to use a custom font or change the [code-block layout](https://github.com/baloise/ws-itsec_owasp/issues/9).
  - res/ -> Here you put your PNGs, code-snippets and so on. No need to name this `res` or even create a folder for resources, it's just how this project is constructed.
 
 ..those get scraped and rendered by GitPitch. Therefore your Repository must be public (Free Version) and you have to provide the correct URL like this:
