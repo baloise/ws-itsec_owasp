@@ -1005,7 +1005,7 @@ Note:
 ![Hb-IDS](/res/PNGs/HIDS.png)
 
 +++?image=/res/monitor-bg11.png
-### Netzwerk-basiertes IPS
+### Netzwerk-basiertes IDS
 ![Nb-IDS](/res/PNGs/NIDS.png)
 
 +++?image=/res/monitor-bg11.png
