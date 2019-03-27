@@ -1,4 +1,4 @@
-# Create / modify your own pitch
+# Fork and modify a pitch
 #### Fork branch as easy as: 
 ```
 git clone https://github.com/baloise/ws-itsec_owasp.git
@@ -12,8 +12,8 @@ git push origin master
 ```
 If you feel like "update" at a later point, simply run: `git pull upstream master && git push origin master`
 
-#### Modify, observe changes and presenting GitPitch
-You can use your own server with GitPitch / revealJS which brings many advantages. HowTo [see here](https://github.com/gitpitch/gitpitch/wiki/Server-Deploy-Instructions) or do some googling. However, here I am only going to explain how to use GitPitch Free.
+#### HowTo GitPitch
+You can use your own server with GitPitch / revealJS which brings many advantages. HowTo [see here](https://github.com/gitpitch/gitpitch/wiki/Server-Deploy-Instructions) or do some googling. However, here I am only going to explain how to use the GitPitch service (free-edition).
 
 A pitch mainly consist of three files + resources:
  - PITCHME.md -> Here is the actual pitch written, in markdown. [GitPitch syntax](https://gitpitch.com/docs/getting-started/delimiters/)
