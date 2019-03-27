@@ -228,6 +228,37 @@ Note:
   - zeige Bsp.
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
+### Heartbeat (keep-alive)
+![Heartbeat-concept](/res/PNGs/Heartbeat-concept.png)
+Note:
+- Konzept für Demo (nachher)
+- Session bricht nach x inaktiv
+  - Sicherheit!
+  - Browser sendet KeepAlive
+- KeepAlive:
+  - Client, Heartbeat-Anfrage (Zeichen+Länge)
+  - Server kopiert Zeich in Memory
+  - Server, Heartbeat-Antwort (Zeichen+Antwort)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Heartbeat vs Heartbleed (1)
+![Heartbeat](/res/PNGs/Heartbeat.png)
+Note:
+- Zeichen können irgendetwas sein!
+- Server-Antwort Logik:
+  - Server liest von Memory x Zeichen
+  - Sendet sie zurück (+ padding)
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Heartbeat vs Heartbleed (2)
+![Heartbleed](/res/PNGs/Heartbleed.png)
+Note:
+- Problem: Server überprüft nicht!
+  - Client Länge > Paylouad
+  - Server liest weiter
+  - Sendet Daten aus dem Memory-Speicher
+  - 
++++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Misconfigured encryption (ssl-strip)
 ![ssl-strip](/res/PNGs/ssl-strip.png)
 Note:
@@ -237,6 +268,17 @@ Note:
 - Angreifer stellt sich in Mitte
 - Client unver. Angreifer vers. Webseite
 
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Daten in Ruhe (Google)
+![gogHack](/res/PNGs/GoogleHacks.png)
+Note:
+- Google-Suche + Parameter
+- (via Suche) gefundene Psyeudo(!)-Webseiten
+- Paramter:
+  - ext: Extension
+  - intext: Vorkommen in text
+  - intitle: Vorkommen im Titel
+  
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Google)
 ![gogHack](/res/PNGs/G-Dork-Screenshot.png)
@@ -250,12 +292,30 @@ Note:
 
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Shodan)
+![shodan](/res/PNGs/Shodan.png)
+Note:
+- Suche nach IP ranges
+- Server / Port
+- Land
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Daten in Ruhe (Shodan)
 ![shodan](/res/PNGs/Shodan-Screenshot2.png)
 Note:
 - Suche nach IP ranges
 - Server / Port
 - Land
 
+
++++?image=/res/Data_ExposureO40.jpg&size=cover
+### Daten in Ruhe (Social Media)
+![social-exp](/res/PNGs/SocialMediaExp.png)
+Note:
+- Veröffetnlichung sensibler Daten
+  - Fotos
+  - Screenshots
+  - Selfies
+  
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ## Massnahmen
 
@@ -264,13 +324,13 @@ Note:
 @ul
 - Immer verschlüsselt
 - Verschlüsselung:
-  - ≥TLS1.1
-  - https://ssllabs.com
+  - ≥TLS1.2 [Server config cheatsheet](https://cipherli.st/)
+  - [SSL Labs (Test your server)](https://www.ssllabs.com/ssltest/)
 - HTTP Strict Transport Security
 @ulend
 Note:
 - Verschlüsselte Verbindungen anbieten & benutzen
-- +TLS 1.1 (Heartbleed, POODLE)
+- +TLS 1.2 (1.1) (Heartbleed, POODLE)
 - RC4 erhebliche Sicherheitsmängel (Intägritätsschutz)
 - export-grade (kürzere Schlüssel)
 - Redirects SSLStrip+
@@ -297,12 +357,6 @@ Note:
 +++?image=/res/Data_ExposureO40.jpg&size=cover
 ### Daten in Ruhe (Salt)
 ![Salt](/res/PNGs/Salt.png)
-
-+++?image=/res/Data_ExposureO40.jpg&size=cover
-### Daten in Ruhe (Pepper)
-![Pepper](/res/PNGs/Pepper.png)
-
-
 
 
 ---?image=/res/xxeO40.png&size=cover
@@ -485,6 +539,16 @@ Note:
 Note:
 - ../ == eine Stufe "Hierarchie" zurück / höher
 - Ausbrechen / Zugriff auf andere Directories
+
++++?image=/res/PNGs/B-A_Control20i.png&size=cover
+### Path Traversal (Basics)
+![PathTrav1B2](/res/PNGs/a-c_path-traversal-basic2.png)
+Note:
+- Man sieht Pfad (blau)
+  - links: in /var/www/html
+  - rechts weg zu /var/www/html
+- ls zeigt Inhalt
+- Pro "../" geht es eine Stufe höher vgl. Pfad
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### Path Traversal - URL (1)
