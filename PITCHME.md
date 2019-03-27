@@ -1037,4 +1037,8 @@ Note:
 
 
 ---
+### Checkout the Cheat Sheets
+[Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
+
++++
 # Vielen Dank für Eure Aufmerksamkeit
