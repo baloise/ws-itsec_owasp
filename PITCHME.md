@@ -725,7 +725,7 @@ Access-Control-Allow-Credentials: true
 
 +++?image=/res/PNGs/Sec-MisConf10.png&size=cover
 ### More on CORS
-[albinowax-cors](https://www.youtube.com/watch?v=wgkj4ZgxI4cT "Exploiting CORS Misconfigurations")
+[Exploiting CORS Misconfigurations](https://www.youtube.com/watch?v=wgkj4ZgxI4cT)
 
 +++?image=/res/PNGs/B-A_Control20i.png&size=cover
 ### JWT - Verify-Algorhithmen
@@ -800,7 +800,7 @@ Note:
 - PublicKey Login
 - [Fail2Ban](http://jeffskinnerbox.me/posts/2016/Apr/27/howto-install-and-configure-fail2ban/)
 - [Verschlüsselung](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
-- [ssh-py-script](https://github.com/arthepsy/ssh-audit "ssh-audit.py (Python)")
+- [ssh-audit.py (Python)](https://github.com/arthepsy/ssh-audit)
 @ulend
 
 
