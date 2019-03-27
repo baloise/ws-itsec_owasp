@@ -53,7 +53,7 @@ theme-override : PITCHME.css
 #### Edit existing images 
 - Simply look for the particular image. In your pitch; hover over it or click save as to see the filename or have a look at the path in the `PITCHME.md`.
 - Most image are available under `res/filename.xml`
-- On [DrawIO](https://draw.io) click `Open Existing Diagram`
+- On [Draw.io](https://draw.io) click `Open Existing Diagram`
 
 I suggest, you safe as XML and as PNG. However in your pitch you can only use PNG <= 1MB. They ditched SVG support (Free Version) and to my knowledge XML are not supported.
 
