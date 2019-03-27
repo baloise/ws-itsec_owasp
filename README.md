@@ -13,9 +13,12 @@
  - `pitch-lite` is a presentation branch that shows basics and partially more advanced vulnerabilities / attacks and also explains common mitigations in Web Applications.
 
 ### HowTo
-- Create / modify your own pitch
-- Get offline versions (HTML & PDF)
-- Contribute
+- [fork / modify a pitch](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#fork-and-modify-a-pitch)
+  - [howto GitPitch](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#howto-gitpitch)
+  - [custom font](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#use-a-custom-font-exmaple)
+  - [edit images](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#edit-existing-images-simply-open-the-xml-with-drawio)
+- [offline versions](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#offline-versions-html--pdf)
+- [ontribute](https://github.com/baloise/ws-itsec_owasp/blob/pitch/HowTo.md#contribution)
   
 ### Known issues
 - code-blocks do not scale well (see [workaround](https://github.com/baloise/ws-itsec_owasp/issues/9))
